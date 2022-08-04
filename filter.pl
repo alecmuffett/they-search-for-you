@@ -3,11 +3,13 @@
 use feature 'unicode_strings';
 use utf8;
 use URI::Escape;
+use XML::OPML;
 
 $current = 'none';
 @titles = ();
 %verbiage = ();
 %terms = ();
+# $opml = new XML::OPML(version => "1.1"); # https://metacpan.org/pod/XML::OPML
 
 while (<>) {
     s/\s+/ /g;

@@ -1,0 +1,12 @@
+*** old-searches.md	2022-08-04 22:38:12.000000000 +0100
+--- raw-searches.md	2022-08-04 22:40:36.000000000 +0100
+***************
+*** 187,192 ****
+--- 187,193 ----
+  * cybersecurity
+  * cyberwar
+  * disinformation
++ * hack and leak
+  * hacker
+  * hacking" -"lord hacking
+  * infosec

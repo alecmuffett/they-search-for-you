@@ -291,8 +291,8 @@ If you would like to see something added or removed, please
 
 ### links
 
-* :point_right: [Search: Information Security and Cyber](https://www.theyworkforyou.com/search/?q=%22cyber%22+OR+%22cyberattack%22+OR+%22cyberattacks%22+OR+%22cyberbully%22+OR+%22cyberbullying%22+OR+%22cybercrime%22+OR+%22cybercrimes%22+OR+%22cybersecurity%22+OR+%22cyberwar%22+OR+%22disinformation%22+OR+%22hacker%22+OR+%22hacking%22+-%22lord+hacking%22+OR+%22infosec%22+OR+%22internet+security%22+OR+%22network+security%22+OR+%22telecoms+security%22)
-* :repeat: [RSS Feed: Information Security and Cyber](https://www.theyworkforyou.com/search/rss/?s=%22cyber%22+OR+%22cyberattack%22+OR+%22cyberattacks%22+OR+%22cyberbully%22+OR+%22cyberbullying%22+OR+%22cybercrime%22+OR+%22cybercrimes%22+OR+%22cybersecurity%22+OR+%22cyberwar%22+OR+%22disinformation%22+OR+%22hacker%22+OR+%22hacking%22+-%22lord+hacking%22+OR+%22infosec%22+OR+%22internet+security%22+OR+%22network+security%22+OR+%22telecoms+security%22)
+* :point_right: [Search: Information Security and Cyber](https://www.theyworkforyou.com/search/?q=%22cyber%22+OR+%22cyberattack%22+OR+%22cyberattacks%22+OR+%22cyberbully%22+OR+%22cyberbullying%22+OR+%22cybercrime%22+OR+%22cybercrimes%22+OR+%22cybersecurity%22+OR+%22cyberwar%22+OR+%22disinformation%22+OR+%22hack+and+leak%22+OR+%22hacker%22+OR+%22hacking%22+-%22lord+hacking%22+OR+%22infosec%22+OR+%22internet+security%22+OR+%22network+security%22+OR+%22telecoms+security%22)
+* :repeat: [RSS Feed: Information Security and Cyber](https://www.theyworkforyou.com/search/rss/?s=%22cyber%22+OR+%22cyberattack%22+OR+%22cyberattacks%22+OR+%22cyberbully%22+OR+%22cyberbullying%22+OR+%22cybercrime%22+OR+%22cybercrimes%22+OR+%22cybersecurity%22+OR+%22cyberwar%22+OR+%22disinformation%22+OR+%22hack+and+leak%22+OR+%22hacker%22+OR+%22hacking%22+-%22lord+hacking%22+OR+%22infosec%22+OR+%22internet+security%22+OR+%22network+security%22+OR+%22telecoms+security%22)
 * :heart: [Share 'Information Security and Cyber' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Information%20Security%20and%20Cyber%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23information-security-and-cyber)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
@@ -310,6 +310,7 @@ If you would like to see something added or removed, please
 * cybersecurity
 * cyberwar
 * disinformation
+* hack and leak
 * hacker
 * hacking" -"lord hacking
 * infosec

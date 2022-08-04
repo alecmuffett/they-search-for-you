@@ -187,6 +187,7 @@ without negatively impacting *everyone else*.
 * cybersecurity
 * cyberwar
 * disinformation
+* hack and leak
 * hacker
 * hacking" -"lord hacking
 * infosec

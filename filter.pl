@@ -95,7 +95,7 @@ foreach $current (sort(@titles)) {
 	print("### links\n\n");
 	printf("* **search:** [*%s*](%s)\n", $current, SearchURL($query));
 	printf("* **rss:** [*%s*](%s)\n", $current, RSSURL($query));
-	printf("* **top:** [*%s*](%s)\n", 'index', '#index');
+	printf("* **index:** [*%s*](%s)\n", 'top', '#index');
 	print("\n");
 
 	print("#### search terms\n\n");

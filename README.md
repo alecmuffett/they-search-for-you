@@ -400,15 +400,14 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 
 ### links
 
-* **search:** [*People: Pundits and Civil Society*](https://www.theyworkforyou.com/search/?q=%22andy%20burrows%22%20OR%20%22children%27s%20commissioner%22%20OR%20%22jim%20killock%22%20OR%20%22john%20carr%22%20OR%20%22lynn%20perry%22%20OR%20%22rachel%20de%20souza%22%20OR%20%22shoshana%20zuboff%22%20OR%20%22silkie%20carlo%22%20OR%20%22sonia%20livingstone%22)
-* **rss:** [*People: Pundits and Civil Society*](https://www.theyworkforyou.com/search/rss/?s=%22andy%20burrows%22%20OR%20%22children%27s%20commissioner%22%20OR%20%22jim%20killock%22%20OR%20%22john%20carr%22%20OR%20%22lynn%20perry%22%20OR%20%22rachel%20de%20souza%22%20OR%20%22shoshana%20zuboff%22%20OR%20%22silkie%20carlo%22%20OR%20%22sonia%20livingstone%22)
+* **search:** [*People: Pundits and Civil Society*](https://www.theyworkforyou.com/search/?q=%22andy%20burrows%22%20OR%20%22jim%20killock%22%20OR%20%22john%20carr%22%20OR%20%22lynn%20perry%22%20OR%20%22rachel%20de%20souza%22%20OR%20%22shoshana%20zuboff%22%20OR%20%22silkie%20carlo%22%20OR%20%22sonia%20livingstone%22)
+* **rss:** [*People: Pundits and Civil Society*](https://www.theyworkforyou.com/search/rss/?s=%22andy%20burrows%22%20OR%20%22jim%20killock%22%20OR%20%22john%20carr%22%20OR%20%22lynn%20perry%22%20OR%20%22rachel%20de%20souza%22%20OR%20%22shoshana%20zuboff%22%20OR%20%22silkie%20carlo%22%20OR%20%22sonia%20livingstone%22)
 * **index:** [*top*](#index)
 
 #### search terms
 
 ```
 * andy burrows
-* children's commissioner
 * jim killock
 * john carr
 * lynn perry

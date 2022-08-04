@@ -206,7 +206,6 @@ but they seem to not be much discussed in Parliament.
 * jim killock
 * silkie carlo
 * andy burrows
-* children's commissioner
 * rachel de souza
 * lynn perry
 

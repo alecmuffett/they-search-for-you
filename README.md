@@ -39,6 +39,11 @@ If you would like to see something added or removed, please
 (Github account required) or
 [message me on Twitter.](https://twitter.com/AlecMuffett/)
 
+nb: I am aware that the search keyword syntax I've written is much
+more limited than the TWFY website allows, and that in a couple of
+places I am kludging around this; for the moment I am content, and
+will see how it develops.
+
 ## Index
 
 * [Acts, Bills, Regulations, and Directives: related terms](#acts-bills-regulations-and-directives-related-terms)

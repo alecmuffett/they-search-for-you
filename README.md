@@ -72,7 +72,7 @@ If you would like to see something added or removed, please
 
 * :point_right: [Search: Acts, Bills, Regulations, and Directives: related terms](https://www.theyworkforyou.com/search/?q=%22data+protection+and+digital+information%22+OR+%22data+reform+bill%22+OR+%22digital+economy+act%22+OR+%22digital+economy+bill%22+OR+%22digital+markets+act%22+OR+%22digital+services+act%22+OR+%22eprivacy%22+OR+%22investigatory+powers%22+OR+%22national+security+act%22+OR+%22national+security+bill%22+OR+%22online+harms%22+OR+%22online+safety%22)
 * :repeat: [RSS Feed: Acts, Bills, Regulations, and Directives: related terms](https://www.theyworkforyou.com/search/rss/?s=%22data+protection+and+digital+information%22+OR+%22data+reform+bill%22+OR+%22digital+economy+act%22+OR+%22digital+economy+bill%22+OR+%22digital+markets+act%22+OR+%22digital+services+act%22+OR+%22eprivacy%22+OR+%22investigatory+powers%22+OR+%22national+security+act%22+OR+%22national+security+bill%22+OR+%22online+harms%22+OR+%22online+safety%22)
-* :heart: [Share 'Acts, Bills, Regulations, and Directives: related terms' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Acts%2C%20Bills%2C%20Regulations%2C%20and%20Directives%3A%20related%20terms%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23acts-bills-regulations-and-directives-related-terms)
+* :heart: [Share 'Acts, Bills, Regulations, and Directives: related terms' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Acts%2C%20Bills%2C%20Regulations%2C%20and%20Directives%3A%20related%20terms%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23acts-bills-regulations-and-directives-related-terms)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -99,7 +99,7 @@ If you would like to see something added or removed, please
 
 * :point_right: [Search: Age Verification companies, and related terms](https://www.theyworkforyou.com/search/?q=%22avpa%22+OR+%22dragonflai%22+OR+%22trustelevate%22+OR+%22verime%22+OR+%22voco%22+OR+%22yoti%22)
 * :repeat: [RSS Feed: Age Verification companies, and related terms](https://www.theyworkforyou.com/search/rss/?s=%22avpa%22+OR+%22dragonflai%22+OR+%22trustelevate%22+OR+%22verime%22+OR+%22voco%22+OR+%22yoti%22)
-* :heart: [Share 'Age Verification companies, and related terms' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Age%20Verification%20companies%2C%20and%20related%20terms%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23age-verification-companies-and-related-terms)
+* :heart: [Share 'Age Verification companies, and related terms' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Age%20Verification%20companies%2C%20and%20related%20terms%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23age-verification-companies-and-related-terms)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -120,7 +120,7 @@ If you would like to see something added or removed, please
 
 * :point_right: [Search: Age Verification discussion](https://www.theyworkforyou.com/search/?q=%22age+appropriate+design%22+OR+%22age+assurance%22+OR+%22age+inappropriate%22+OR+%22age+verification%22+OR+%22verification+of+children%22)
 * :repeat: [RSS Feed: Age Verification discussion](https://www.theyworkforyou.com/search/rss/?s=%22age+appropriate+design%22+OR+%22age+assurance%22+OR+%22age+inappropriate%22+OR+%22age+verification%22+OR+%22verification+of+children%22)
-* :heart: [Share 'Age Verification discussion' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Age%20Verification%20discussion%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23age-verification-discussion)
+* :heart: [Share 'Age Verification discussion' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Age%20Verification%20discussion%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23age-verification-discussion)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -140,7 +140,7 @@ If you would like to see something added or removed, please
 
 * :point_right: [Search: Child Sexual Abuse Imagery, and related terms](https://www.theyworkforyou.com/search/?q=%225rights%22+OR+%22breadcrumbing%22+OR+%22cccis%22+OR+%22ceop%22+OR+%22child+pornography%22+OR+%22children%27s+charities%27+coalition%22+OR+%22childrens+charities%27+coalition%22+OR+%22csai%22+OR+%22csam%22+OR+%22csea%22+OR+%22grooming%22+OR+%22iioc%22+OR+%22indecent+images%22+OR+%22iwf%22+OR+%22marie+collins%22+OR+%22ncmec%22+OR+%22neuralhash%22+OR+%22neuralmatch%22+OR+%22photodna%22+OR+%22uk+safer+internet%22)
 * :repeat: [RSS Feed: Child Sexual Abuse Imagery, and related terms](https://www.theyworkforyou.com/search/rss/?s=%225rights%22+OR+%22breadcrumbing%22+OR+%22cccis%22+OR+%22ceop%22+OR+%22child+pornography%22+OR+%22children%27s+charities%27+coalition%22+OR+%22childrens+charities%27+coalition%22+OR+%22csai%22+OR+%22csam%22+OR+%22csea%22+OR+%22grooming%22+OR+%22iioc%22+OR+%22indecent+images%22+OR+%22iwf%22+OR+%22marie+collins%22+OR+%22ncmec%22+OR+%22neuralhash%22+OR+%22neuralmatch%22+OR+%22photodna%22+OR+%22uk+safer+internet%22)
-* :heart: [Share 'Child Sexual Abuse Imagery, and related terms' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Child%20Sexual%20Abuse%20Imagery%2C%20and%20related%20terms%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23child-sexual-abuse-imagery-and-related-terms)
+* :heart: [Share 'Child Sexual Abuse Imagery, and related terms' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Child%20Sexual%20Abuse%20Imagery%2C%20and%20related%20terms%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23child-sexual-abuse-imagery-and-related-terms)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -175,7 +175,7 @@ If you would like to see something added or removed, please
 
 * :point_right: [Search: Civil Society organisations, and related terms](https://www.theyworkforyou.com/search/?q=%22big+brother+watch%22+OR+%22british+computer+society%22+OR+%22computer+science%22+OR+%22digital+literacy%22+OR+%22open+rights+group%22)
 * :repeat: [RSS Feed: Civil Society organisations, and related terms](https://www.theyworkforyou.com/search/rss/?s=%22big+brother+watch%22+OR+%22british+computer+society%22+OR+%22computer+science%22+OR+%22digital+literacy%22+OR+%22open+rights+group%22)
-* :heart: [Share 'Civil Society organisations, and related terms' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Civil%20Society%20organisations%2C%20and%20related%20terms%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23civil-society-organisations-and-related-terms)
+* :heart: [Share 'Civil Society organisations, and related terms' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Civil%20Society%20organisations%2C%20and%20related%20terms%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23civil-society-organisations-and-related-terms)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -195,7 +195,7 @@ If you would like to see something added or removed, please
 
 * :point_right: [Search: Data Protection](https://www.theyworkforyou.com/search/?q=%22data+protection%22+OR+%22ico%22+OR+%22information+commissioner%22+OR+%22schrems%22)
 * :repeat: [RSS Feed: Data Protection](https://www.theyworkforyou.com/search/rss/?s=%22data+protection%22+OR+%22ico%22+OR+%22information+commissioner%22+OR+%22schrems%22)
-* :heart: [Share 'Data Protection' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Data%20Protection%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23data-protection)
+* :heart: [Share 'Data Protection' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Data%20Protection%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23data-protection)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -214,7 +214,7 @@ If you would like to see something added or removed, please
 
 * :point_right: [Search: Digital Identity Cards](https://www.theyworkforyou.com/search/?q=%22digital+id%22+OR+%22digital+identity%22)
 * :repeat: [RSS Feed: Digital Identity Cards](https://www.theyworkforyou.com/search/rss/?s=%22digital+id%22+OR+%22digital+identity%22)
-* :heart: [Share 'Digital Identity Cards' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Digital%20Identity%20Cards%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23digital-identity-cards)
+* :heart: [Share 'Digital Identity Cards' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Digital%20Identity%20Cards%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23digital-identity-cards)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -231,7 +231,7 @@ If you would like to see something added or removed, please
 
 * :point_right: [Search: Encryption and Encrypted Services](https://www.theyworkforyou.com/search/?q=%22cryptographic%22+OR+%22cryptography%22+OR+%22dark+net%22+OR+%22dark+web%22+OR+%22darknet%22+OR+%22darkweb%22+OR+%22deep+web%22+OR+%22deepweb%22+OR+%22dns-over-http%22+OR+%22dns-over-https%22+OR+%22doh%22+OR+%22encrypt%22+OR+%22encrypted%22+OR+%22encryption%22+OR+%22tor+browser%22+OR+%22vpn%22+OR+%22vpns%22)
 * :repeat: [RSS Feed: Encryption and Encrypted Services](https://www.theyworkforyou.com/search/rss/?s=%22cryptographic%22+OR+%22cryptography%22+OR+%22dark+net%22+OR+%22dark+web%22+OR+%22darknet%22+OR+%22darkweb%22+OR+%22deep+web%22+OR+%22deepweb%22+OR+%22dns-over-http%22+OR+%22dns-over-https%22+OR+%22doh%22+OR+%22encrypt%22+OR+%22encrypted%22+OR+%22encryption%22+OR+%22tor+browser%22+OR+%22vpn%22+OR+%22vpns%22)
-* :heart: [Share 'Encryption and Encrypted Services' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Encryption%20and%20Encrypted%20Services%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23encryption-and-encrypted-services)
+* :heart: [Share 'Encryption and Encrypted Services' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Encryption%20and%20Encrypted%20Services%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23encryption-and-encrypted-services)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -263,7 +263,7 @@ If you would like to see something added or removed, please
 
 * :point_right: [Search: GAFAM](https://www.theyworkforyou.com/search/?q=%22amazon%22+OR+%22apple%22+OR+%22facebook%22+OR+%22google%22+OR+%22instagram%22+OR+%22microsoft%22+OR+%22whatsapp%22+OR+%22youtube%22)
 * :repeat: [RSS Feed: GAFAM](https://www.theyworkforyou.com/search/rss/?s=%22amazon%22+OR+%22apple%22+OR+%22facebook%22+OR+%22google%22+OR+%22instagram%22+OR+%22microsoft%22+OR+%22whatsapp%22+OR+%22youtube%22)
-* :heart: [Share 'GAFAM' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27GAFAM%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23gafam)
+* :heart: [Share 'GAFAM' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27GAFAM%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23gafam)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -286,7 +286,7 @@ If you would like to see something added or removed, please
 
 * :point_right: [Search: Gig Economy](https://www.theyworkforyou.com/search/?q=%22deliveroo%22+OR+%22gig+economy%22+OR+%22uber%22)
 * :repeat: [RSS Feed: Gig Economy](https://www.theyworkforyou.com/search/rss/?s=%22deliveroo%22+OR+%22gig+economy%22+OR+%22uber%22)
-* :heart: [Share 'Gig Economy' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Gig%20Economy%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23gig-economy)
+* :heart: [Share 'Gig Economy' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Gig%20Economy%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23gig-economy)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -304,7 +304,7 @@ If you would like to see something added or removed, please
 
 * :point_right: [Search: Information Security and Cyber](https://www.theyworkforyou.com/search/?q=%22cyber%22+OR+%22cyberattack%22+OR+%22cyberattacks%22+OR+%22cyberbully%22+OR+%22cyberbullying%22+OR+%22cybercrime%22+OR+%22cybercrimes%22+OR+%22cybersecurity%22+OR+%22cyberwar%22+OR+%22disinformation%22+OR+%22hacker%22+OR+%22hacking%22+-%22lord+hacking%22+OR+%22infosec%22+OR+%22internet+security%22+OR+%22network+security%22+OR+%22telecoms+security%22)
 * :repeat: [RSS Feed: Information Security and Cyber](https://www.theyworkforyou.com/search/rss/?s=%22cyber%22+OR+%22cyberattack%22+OR+%22cyberattacks%22+OR+%22cyberbully%22+OR+%22cyberbullying%22+OR+%22cybercrime%22+OR+%22cybercrimes%22+OR+%22cybersecurity%22+OR+%22cyberwar%22+OR+%22disinformation%22+OR+%22hacker%22+OR+%22hacking%22+-%22lord+hacking%22+OR+%22infosec%22+OR+%22internet+security%22+OR+%22network+security%22+OR+%22telecoms+security%22)
-* :heart: [Share 'Information Security and Cyber' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Information%20Security%20and%20Cyber%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23information-security-and-cyber)
+* :heart: [Share 'Information Security and Cyber' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Information%20Security%20and%20Cyber%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23information-security-and-cyber)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -335,7 +335,7 @@ If you would like to see something added or removed, please
 
 * :point_right: [Search: Intelligence Agencies, and related terms](https://www.theyworkforyou.com/search/?q=%22cesg%22+OR+%22gchq%22+OR+%22national+crime+agency%22+OR+%22national+cyber+security+centre%22+OR+%22ncsc%22+OR+%22nsa%22)
 * :repeat: [RSS Feed: Intelligence Agencies, and related terms](https://www.theyworkforyou.com/search/rss/?s=%22cesg%22+OR+%22gchq%22+OR+%22national+crime+agency%22+OR+%22national+cyber+security+centre%22+OR+%22ncsc%22+OR+%22nsa%22)
-* :heart: [Share 'Intelligence Agencies, and related terms' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Intelligence%20Agencies%2C%20and%20related%20terms%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23intelligence-agencies-and-related-terms)
+* :heart: [Share 'Intelligence Agencies, and related terms' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Intelligence%20Agencies%2C%20and%20related%20terms%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23intelligence-agencies-and-related-terms)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -356,7 +356,7 @@ If you would like to see something added or removed, please
 
 * :point_right: [Search: Internet of Things](https://www.theyworkforyou.com/search/?q=%22internet+of+things%22+OR+%22iot%22)
 * :repeat: [RSS Feed: Internet of Things](https://www.theyworkforyou.com/search/rss/?s=%22internet+of+things%22+OR+%22iot%22)
-* :heart: [Share 'Internet of Things' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Internet%20of%20Things%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23internet-of-things)
+* :heart: [Share 'Internet of Things' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Internet%20of%20Things%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23internet-of-things)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -373,7 +373,7 @@ If you would like to see something added or removed, please
 
 * :point_right: [Search: Machine Learning](https://www.theyworkforyou.com/search/?q=%22ai%22+OR+%22artificial+intelligence%22+OR+%22image+classifier%22+OR+%22image+classifiers%22+OR+%22machine+learning%22)
 * :repeat: [RSS Feed: Machine Learning](https://www.theyworkforyou.com/search/rss/?s=%22ai%22+OR+%22artificial+intelligence%22+OR+%22image+classifier%22+OR+%22image+classifiers%22+OR+%22machine+learning%22)
-* :heart: [Share 'Machine Learning' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Machine%20Learning%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23machine-learning)
+* :heart: [Share 'Machine Learning' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Machine%20Learning%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23machine-learning)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -395,7 +395,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 
 * :point_right: [Search: Messenger Apps](https://www.theyworkforyou.com/search/?q=%22facebook+messenger%22+OR+%22messaging+apps%22+OR+%22sms%22+OR+%22telegram%22+OR+%22text+messaging%22+OR+%22viber%22+OR+%22whatsapp%22)
 * :repeat: [RSS Feed: Messenger Apps](https://www.theyworkforyou.com/search/rss/?s=%22facebook+messenger%22+OR+%22messaging+apps%22+OR+%22sms%22+OR+%22telegram%22+OR+%22text+messaging%22+OR+%22viber%22+OR+%22whatsapp%22)
-* :heart: [Share 'Messenger Apps' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Messenger%20Apps%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23messenger-apps)
+* :heart: [Share 'Messenger Apps' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Messenger%20Apps%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23messenger-apps)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -417,7 +417,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 
 * :point_right: [Search: Meta Platforms](https://www.theyworkforyou.com/search/?q=%22facebook%22+OR+%22instagram%22+OR+%22metaverse%22+OR+%22whatsapp%22)
 * :repeat: [RSS Feed: Meta Platforms](https://www.theyworkforyou.com/search/rss/?s=%22facebook%22+OR+%22instagram%22+OR+%22metaverse%22+OR+%22whatsapp%22)
-* :heart: [Share 'Meta Platforms' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Meta%20Platforms%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23meta-platforms)
+* :heart: [Share 'Meta Platforms' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Meta%20Platforms%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23meta-platforms)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -436,7 +436,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 
 * :point_right: [Search: People: Corporate](https://www.theyworkforyou.com/search/?q=%22jack+dorsey%22+OR+%22nick+clegg%22+OR+%22sandberg%22+OR+%22zuckerberg%22)
 * :repeat: [RSS Feed: People: Corporate](https://www.theyworkforyou.com/search/rss/?s=%22jack+dorsey%22+OR+%22nick+clegg%22+OR+%22sandberg%22+OR+%22zuckerberg%22)
-* :heart: [Share 'People: Corporate' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27People%3A%20Corporate%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23people-corporate)
+* :heart: [Share 'People: Corporate' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27People%3A%20Corporate%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23people-corporate)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -455,7 +455,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 
 * :point_right: [Search: People: Pundits and Civil Society](https://www.theyworkforyou.com/search/?q=%22andy+burrows%22+OR+%22frances+haugen%22+OR+%22heather+burns%22+OR+%22jim+killock%22+OR+%22john+carr%22+OR+%22lynn+perry%22+OR+%22rachel+de+souza%22+OR+%22shoshana+zuboff%22+OR+%22silkie+carlo%22+OR+%22sonia+livingstone%22)
 * :repeat: [RSS Feed: People: Pundits and Civil Society](https://www.theyworkforyou.com/search/rss/?s=%22andy+burrows%22+OR+%22frances+haugen%22+OR+%22heather+burns%22+OR+%22jim+killock%22+OR+%22john+carr%22+OR+%22lynn+perry%22+OR+%22rachel+de+souza%22+OR+%22shoshana+zuboff%22+OR+%22silkie+carlo%22+OR+%22sonia+livingstone%22)
-* :heart: [Share 'People: Pundits and Civil Society' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27People%3A%20Pundits%20and%20Civil%20Society%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23people-pundits-and-civil-society)
+* :heart: [Share 'People: Pundits and Civil Society' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27People%3A%20Pundits%20and%20Civil%20Society%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23people-pundits-and-civil-society)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -480,7 +480,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 
 * :point_right: [Search: People: Topics](https://www.theyworkforyou.com/search/?q=%22berners+lee%22)
 * :repeat: [RSS Feed: People: Topics](https://www.theyworkforyou.com/search/rss/?s=%22berners+lee%22)
-* :heart: [Share 'People: Topics' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27People%3A%20Topics%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23people-topics)
+* :heart: [Share 'People: Topics' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27People%3A%20Topics%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23people-topics)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -496,7 +496,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 
 * :point_right: [Search: Profane Websites](https://www.theyworkforyou.com/search/?q=%224chan%22+OR+%228chan%22+OR+%22bitchute%22+OR+%22brandnewtube%22+OR+%22gab%22+OR+%22omegle%22+OR+%22parler%22)
 * :repeat: [RSS Feed: Profane Websites](https://www.theyworkforyou.com/search/rss/?s=%224chan%22+OR+%228chan%22+OR+%22bitchute%22+OR+%22brandnewtube%22+OR+%22gab%22+OR+%22omegle%22+OR+%22parler%22)
-* :heart: [Share 'Profane Websites' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Profane%20Websites%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23profane-websites)
+* :heart: [Share 'Profane Websites' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Profane%20Websites%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23profane-websites)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -518,7 +518,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 
 * :point_right: [Search: Social Media](https://www.theyworkforyou.com/search/?q=%22bumble%22+OR+%22discord%22+OR+%22facebook%22+OR+%22fortnite%22+OR+%22imgur%22+OR+%22instagram%22+OR+%22onlyfans%22+OR+%22reddit%22+OR+%22snapchat%22+OR+%22telegram%22+OR+%22tiktok%22+OR+%22twitch%22+OR+%22twitter%22+OR+%22viber%22+OR+%22vk%22+OR+%22whatsapp%22+OR+%22youtube%22)
 * :repeat: [RSS Feed: Social Media](https://www.theyworkforyou.com/search/rss/?s=%22bumble%22+OR+%22discord%22+OR+%22facebook%22+OR+%22fortnite%22+OR+%22imgur%22+OR+%22instagram%22+OR+%22onlyfans%22+OR+%22reddit%22+OR+%22snapchat%22+OR+%22telegram%22+OR+%22tiktok%22+OR+%22twitch%22+OR+%22twitter%22+OR+%22viber%22+OR+%22vk%22+OR+%22whatsapp%22+OR+%22youtube%22)
-* :heart: [Share 'Social Media' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Social%20Media%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23social-media)
+* :heart: [Share 'Social Media' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Social%20Media%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23social-media)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -552,7 +552,7 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 
 * :point_right: [Search: Socially Problematic Content](https://www.theyworkforyou.com/search/?q=%22cross-platform+harms%22+OR+%22disinformation%22+OR+%22fake+news%22+OR+%22free+speech%22+OR+%22hate+speech%22+OR+%22vawg%22)
 * :repeat: [RSS Feed: Socially Problematic Content](https://www.theyworkforyou.com/search/rss/?s=%22cross-platform+harms%22+OR+%22disinformation%22+OR+%22fake+news%22+OR+%22free+speech%22+OR+%22hate+speech%22+OR+%22vawg%22)
-* :heart: [Share 'Socially Problematic Content' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Socially%20Problematic%20Content%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23socially-problematic-content)
+* :heart: [Share 'Socially Problematic Content' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Socially%20Problematic%20Content%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23socially-problematic-content)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -573,7 +573,7 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 
 * :point_right: [Search: Trite Expressions](https://www.theyworkforyou.com/search/?q=%22should+be+illegal+online%22+OR+%22surveillance+capitalism%22+OR+%22what+is+illegal+offline%22+OR+%22wild+west%22)
 * :repeat: [RSS Feed: Trite Expressions](https://www.theyworkforyou.com/search/rss/?s=%22should+be+illegal+online%22+OR+%22surveillance+capitalism%22+OR+%22what+is+illegal+offline%22+OR+%22wild+west%22)
-* :heart: [Share 'Trite Expressions' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Trite%20Expressions%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23trite-expressions)
+* :heart: [Share 'Trite Expressions' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Trite%20Expressions%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23trite-expressions)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -592,7 +592,7 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 
 * :point_right: [Search: Unicorns](https://www.theyworkforyou.com/search/?q=%22deliveroo%22+OR+%22monzo%22+OR+%22starling%22)
 * :repeat: [RSS Feed: Unicorns](https://www.theyworkforyou.com/search/rss/?s=%22deliveroo%22+OR+%22monzo%22+OR+%22starling%22)
-* :heart: [Share 'Unicorns' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Unicorns%27%20with%20a%20read-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23unicorns)
+* :heart: [Share 'Unicorns' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Unicorns%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23unicorns)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 

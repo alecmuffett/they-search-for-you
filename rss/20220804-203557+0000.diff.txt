@@ -1,0 +1,24 @@
+*** old-searches.md	2022-08-04 21:29:17.000000000 +0100
+--- raw-searches.md	2022-08-04 21:35:54.000000000 +0100
+***************
+*** 227,242 ****
+--- 227,245 ----
+  # People: Pundits and Civil Society
+  
+  * andy burrows
++ * clare mcglynn
+  * frances haugen
+  * heather burns
+  * iain corby
+  * jim killock
+  * john carr
++ * lorna woods
+  * lynn perry
+  * rachel de souza
+  * shoshana zuboff
+  * silkie carlo
+  * sonia livingstone
++ * william perrin
+  
+  # People: Corporate
+  

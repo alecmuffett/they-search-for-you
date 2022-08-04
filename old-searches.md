@@ -227,16 +227,19 @@ without negatively impacting *everyone else*.
 # People: Pundits and Civil Society
 
 * andy burrows
+* clare mcglynn
 * frances haugen
 * heather burns
 * iain corby
 * jim killock
 * john carr
+* lorna woods
 * lynn perry
 * rachel de souza
 * shoshana zuboff
 * silkie carlo
 * sonia livingstone
+* william perrin
 
 # People: Corporate
 

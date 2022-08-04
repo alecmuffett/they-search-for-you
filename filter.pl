@@ -123,7 +123,7 @@ foreach $current (sort(@titles)) {
 	my $tweet_intent = 'https://twitter.com/intent/tweet?text';
 	my $tweet_root = 'https://github.com/alecmuffett/they-search-for-you';
 	my $tweet_anchor = Anchorify($current);
-	my $tweet_text = "Search \@TheyWorkForYou for '$current' with #TheySearchForYou at:\n\n$tweet_root#$tweet_anchor";
+	my $tweet_text = "Search \@TheyWorkForYou for '$current' with a read-made query at:\n\n$tweet_root#$tweet_anchor";
 	my $tweet_url = sprintf("%s=%s", $tweet_intent, uri_escape_utf8($tweet_text));
 
 	print("### links\n\n");

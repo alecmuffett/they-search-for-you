@@ -477,8 +477,8 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 
 ### links
 
-* **search:** [*Socially Problematic Content*](https://www.theyworkforyou.com/search/?q=%22disinformation%22%20OR%20%22fake%20news%22%20OR%20%22hate%20speech%22)
-* **rss:** [*Socially Problematic Content*](https://www.theyworkforyou.com/search/rss/?s=%22disinformation%22%20OR%20%22fake%20news%22%20OR%20%22hate%20speech%22)
+* **search:** [*Socially Problematic Content*](https://www.theyworkforyou.com/search/?q=%22disinformation%22%20OR%20%22fake%20news%22%20OR%20%22free%20speech%22%20OR%20%22hate%20speech%22)
+* **rss:** [*Socially Problematic Content*](https://www.theyworkforyou.com/search/rss/?s=%22disinformation%22%20OR%20%22fake%20news%22%20OR%20%22free%20speech%22%20OR%20%22hate%20speech%22)
 * **index:** [*top*](#index)
 
 #### search terms
@@ -486,6 +486,7 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 ```
 * disinformation
 * fake news
+* free speech
 * hate speech
 ```
 

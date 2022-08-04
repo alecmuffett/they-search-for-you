@@ -2,8 +2,8 @@
 
 * facebook
 * instagram
-* whatsapp
 * metaverse
+* whatsapp
 
 # Social Media
 
@@ -247,7 +247,3 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 * hate speech
 * free speech
 * vawg
-
-# Test
-
-* test

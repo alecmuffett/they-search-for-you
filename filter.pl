@@ -1,14 +1,18 @@
 #!/usr/bin/perl -w
 
 use feature 'unicode_strings';
-use utf8;
+
+use DateTime::Format::Mail;
+use DateTime;
 use URI::Escape;
 use XML::OPML;
+use utf8;
 
 $current = 'none';
 $feeds = 'ALL-RSS-FEEDS.opml';
 $url_improvement = '../../issues/new';
-$xml_date = 'Mon, 1 Jan 2022 00:00:00 GMT';
+$now = DateTime->now(); # UTC default
+$xml_date =  DateTime::Format::Mail->format_datetime($now);
 $xml_email = 'alec.muffett@gmail.com';
 $xml_name = 'Alec Muffett';
 $xml_title = 'TheySearchForYou';

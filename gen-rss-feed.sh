@@ -4,6 +4,7 @@ dst=raw-searches-current.md
 tmp=/tmp/tsfy-feed.diff
 stamp=`datestamp --utc --split`
 dir=rss
+feed=UPDATES.rss
 
 test -f $dst || cp $src $dst
 
@@ -20,6 +21,6 @@ cp $tmp $dir/$stamp.diff.txt || exit 1
 
 cp $src $dst || exit 1
 
-# todo: generate rss
+./dir2rss.pl rss/*.txt > $feed || exit 1
 
 exit 0

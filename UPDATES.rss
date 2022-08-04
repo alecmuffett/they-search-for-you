@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+>
+
+<channel>
+<title>TheySearchForYou Search-Query Updates</title>
+<link>https://github.com/alecmuffett/they-search-for-you</link>
+<description>TheySearchForYou Search-Query Updates</description>
+<language>en</language>
+<copyright>https://creativecommons.org/licenses/by/4.0/</copyright>
+<pubDate>Thu,  4 Aug 2022 18:15:26 +0000</pubDate>
+<lastBuildDate>Thu,  4 Aug 2022 18:15:26 +0000</lastBuildDate>
+<managingEditor>alec.muffett@gmail.com</managingEditor>
+<webMaster>alec.muffett@gmail.com</webMaster>
+
+<item>
+<title>rss/20220804-181526+0000.diff.txt</title>
+<description>rss/20220804-181526+0000.diff.txt shows changes to relevant files</description>
+<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-181526+0000.diff.txt</guid>
+</item>
+</channel>
+</rss>

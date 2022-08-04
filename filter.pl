@@ -119,12 +119,18 @@ foreach $current (sort(@titles)) {
 	my $query = Queryify(@{$qref});
 	my $url_web = SearchURL($query);
 	my $url_rss = RSSURL($query);
-	#my $url_share = ShareURL($query);
+
+	my $tweet_intent = 'https://twitter.com/intent/tweet?text';
+	my $tweet_root = 'https://github.com/alecmuffett/they-search-for-you';
+	my $tweet_anchor = Anchorify($current);
+	my $tweet_text = "Search \@TheyWorkForYou for '$current' with #TheySearchForYou at:\n\n$tweet_root#$tweet_anchor";
+	my $tweet_url = sprintf("%s=%s", $tweet_intent, uri_escape_utf8($tweet_text));
+
 	print("### links\n\n");
 	printf("* :point_right: [Search: %s](%s)\n", $current, $url_web);
 	printf("* :repeat: [RSS Feed: %s](%s)\n", $current, $url_rss);
 	printf("* :arrow_up: [%s](%s)\n", 'Return to Index', '#index');
-	#printf("* :heart: [Share '%s' in a Tweet!](%s)\n", $current, $url_share);
+	printf("* :heart: [Share '%s' in a Tweet!](%s)\n", $current, $tweet_url);
 	printf("* :bulb: [%s](%s)\n", 'Suggest an Improvement', $url_improvement);
 	print("\n");
 

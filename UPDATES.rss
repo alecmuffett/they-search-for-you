@@ -10,8 +10,8 @@
 <description>TheySearchForYou Search-Query Updates</description>
 <language>en</language>
 <copyright>https://creativecommons.org/licenses/by/4.0/</copyright>
-<pubDate>Thu,  4 Aug 2022 23:12:29 +0000</pubDate>
-<lastBuildDate>Thu,  4 Aug 2022 23:12:29 +0000</lastBuildDate>
+<pubDate>Thu,  4 Aug 2022 23:15:51 +0000</pubDate>
+<lastBuildDate>Thu,  4 Aug 2022 23:15:51 +0000</lastBuildDate>
 <managingEditor>alec.muffett@gmail.com</managingEditor>
 <webMaster>alec.muffett@gmail.com</webMaster>
 
@@ -615,6 +615,35 @@
 &#x3C;/pre&#x3E;
 </description>
 <guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-231229+0000.diff.txt</guid>
+</item>
+<item>
+<title>rss/20220804-231551+0000.diff.txt</title>
+<description>&#x3C;p&#x3E;updated search query:&#x3C;/p&#x3E;
+&#x3C;pre&#x3E;*** old-searches.md	2022-08-05 00:12:29.000000000 +0100
+--- raw-searches.md	2022-08-05 00:15:47.000000000 +0100
+***************
+*** 87,92 ****
+--- 87,93 ----
+  * 5rights
+  * breadcrumbing
+  * cccis
++ * centre to end all sexual exploitation
+  * ceop
+  * child pornography
+  * children&#x27;s charities&#x27; coalition
+***************
+*** 145,151 ****
+  * what is illegal offline
+  * wild west
+  
+- 
+  # Intelligence Agencies, and related terms
+  
+  * cesg
+--- 146,151 ----
+&#x3C;/pre&#x3E;
+</description>
+<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-231551+0000.diff.txt</guid>
 </item>
 </channel>
 </rss>

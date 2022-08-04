@@ -1,0 +1,22 @@
+*** old-searches.md	2022-08-05 00:12:29.000000000 +0100
+--- raw-searches.md	2022-08-05 00:15:47.000000000 +0100
+***************
+*** 87,92 ****
+--- 87,93 ----
+  * 5rights
+  * breadcrumbing
+  * cccis
++ * centre to end all sexual exploitation
+  * ceop
+  * child pornography
+  * children's charities' coalition
+***************
+*** 145,151 ****
+  * what is illegal offline
+  * wild west
+  
+- 
+  # Intelligence Agencies, and related terms
+  
+  * cesg
+--- 146,151 ----

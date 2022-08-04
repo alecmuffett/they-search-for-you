@@ -271,10 +271,12 @@ without negatively impacting *everyone else*.
 
 See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 
+* algorithms
 * cross-platform harms
 * disinformation
 * fake news
 * free speech
+* harmful content
 * hate speech
 * revenge porn
 * vawg

@@ -1,0 +1,17 @@
+*** old-searches.md	2022-08-04 23:02:50.000000000 +0100
+--- raw-searches.md	2022-08-04 23:10:32.000000000 +0100
+***************
+*** 271,280 ****
+--- 271,282 ----
+  
+  See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
+  
++ * algorithms
+  * cross-platform harms
+  * disinformation
+  * fake news
+  * free speech
++ * harmful content
+  * hate speech
+  * revenge porn
+  * vawg

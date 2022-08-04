@@ -171,14 +171,14 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 
 ### links
 
-* **search:** [*Hacking*](https://www.theyworkforyou.com/search/?q=%22hacker%22%20OR%20%22hacking%22)
-* **rss:** [*Hacking*](https://www.theyworkforyou.com/search/rss/?s=%22hacker%22%20OR%20%22hacking%22)
+* **search:** [*Hacking*](https://www.theyworkforyou.com/search/?q=%22hacker%22%20OR%20%22hacking%22%20-%22lord%20hacking%22)
+* **rss:** [*Hacking*](https://www.theyworkforyou.com/search/rss/?s=%22hacker%22%20OR%20%22hacking%22%20-%22lord%20hacking%22)
 
 #### search terms
 
 ```
 * hacker
-* hacking
+* hacking" -"lord hacking
 ```
 
 ## Messenger Apps

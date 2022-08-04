@@ -498,8 +498,8 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 
 ### links
 
-* :point_right: [Search: Profane Websites](https://www.theyworkforyou.com/search/?q=%224chan%22+OR+%228chan%22+OR+%22bitchute%22+OR+%22brandnewtube%22+OR+%22gab%22+OR+%22mindgeek%22+OR+%22omegle%22+OR+%22parler%22+OR+%22pornhub%22)
-* :repeat: [RSS Feed: Profane Websites](https://www.theyworkforyou.com/search/rss/?s=%224chan%22+OR+%228chan%22+OR+%22bitchute%22+OR+%22brandnewtube%22+OR+%22gab%22+OR+%22mindgeek%22+OR+%22omegle%22+OR+%22parler%22+OR+%22pornhub%22)
+* :point_right: [Search: Profane Websites](https://www.theyworkforyou.com/search/?q=%224chan%22+OR+%228chan%22+OR+%22bitchute%22+OR+%22brandnewtube%22+OR+%22gab%22+OR+%22mindgeek%22+OR+%22omegle%22+OR+%22onlyfans%22+OR+%22parler%22+OR+%22pornhub%22)
+* :repeat: [RSS Feed: Profane Websites](https://www.theyworkforyou.com/search/rss/?s=%224chan%22+OR+%228chan%22+OR+%22bitchute%22+OR+%22brandnewtube%22+OR+%22gab%22+OR+%22mindgeek%22+OR+%22omegle%22+OR+%22onlyfans%22+OR+%22parler%22+OR+%22pornhub%22)
 * :heart: [Share 'Profane Websites' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Profane%20Websites%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23profane-websites)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
@@ -514,6 +514,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 * gab
 * mindgeek
 * omegle
+* onlyfans
 * parler
 * pornhub
 ```

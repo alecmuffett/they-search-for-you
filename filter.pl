@@ -9,7 +9,18 @@ $current = 'none';
 @titles = ();
 %verbiage = ();
 %terms = ();
-# $opml = new XML::OPML(version => "1.1"); # https://metacpan.org/pod/XML::OPML
+$opml = new XML::OPML(version => "1.1"); # https://metacpan.org/pod/XML::OPML
+
+$datestamp = 'YYMMDDHHMMSS';
+$datexml = 'Mon, 1 Jan 2022 00:00:00 GMT';
+
+$opml->head(
+    title => "TheyWorkForYou $datestamp",
+    dateCreated => $datexml,
+    dateModified => $datexml,
+    ownerName => 'Alec Muffett',
+    ownerEmail => 'alec.muffett@gmail.com',
+    );
 
 while (<>) {
     s/\s+/ /g;
@@ -86,17 +97,23 @@ print("\n");
 foreach $current (sort(@titles)) {
     print("## $current\n\n");
 
+    my $xml_description = '-';
+
     my $vref = $verbiage{$current};
     if ($vref) {
-	print(join(" ", @{$vref}), "\n\n");
+	my $description = join(" ", @{$vref});
+	print($description, "\n\n");
+	$xml_description = $description;
     }
 
     my $qref = $terms{$current};
     if ($qref) {
 	my $query = Queryify(@{$qref});
+	my $url_web = SearchURL($query);
+	my $url_rss = RSSURL($query);
 	print("### links\n\n");
-	printf("* **search:** [*%s*](%s)\n", $current, SearchURL($query));
-	printf("* **rss:** [*%s*](%s)\n", $current, RSSURL($query));
+	printf("* **search:** [*%s*](%s)\n", $current, $url_web);
+	printf("* **rss:** [*%s*](%s)\n", $current, $url_rss);
 	printf("* **index:** [*%s*](%s)\n", 'top', '#index');
 	print("\n");
 
@@ -107,5 +124,17 @@ foreach $current (sort(@titles)) {
 	}
 	print("```\n");
 	print("\n");
+
+	$opml->add_outline(
+	    title => $current,
+	    text => $current,
+	    description => $xml_description,
+	    type => 'rss',
+	    version => 'RSS',
+	    htmlUrl => $url_web,
+	    xmlUrl => $url_rss,
+	    );
     }
 }
+
+$opml->save('FEEDS.opml');

@@ -54,6 +54,14 @@ sub Queryify {
     return $result;
 }
 
+sub Anchorify {
+    my $anchor = shift(@_);
+    $anchor =~ tr/A-Z/a-z/;
+    $anchor =~ s/\W/-/go;
+    $anchor =~ s/-+/-/go;
+    return $anchor;
+}
+
 sub SearchURL {
     my $query = shift(@_);
     return "https://www.theyworkforyou.com/search/?q=$query";
@@ -63,6 +71,15 @@ sub RSSURL {
     my $query = shift(@_);
     return "https://www.theyworkforyou.com/search/rss/?s=$query";
 }
+
+print("## Index\n\n");
+foreach $current (sort(@titles)) {
+    printf("* [%s](#%s)\n",
+	  $current,
+	  Anchorify($current),
+	)
+}
+print("\n");
 
 foreach $current (sort(@titles)) {
     print("## $current\n\n");

@@ -14,6 +14,19 @@ device) can be challenging.
 
 Thus: [They Search For You](.) — curated search for civil society purposes.
 
+## Index
+
+* [Age Verification](#age-verification)
+* [Child Sexual Abuse Imagery, and related terms](#child-sexual-abuse-imagery-and-related-terms)
+* [Cyberspies](#cyberspies)
+* [Encryption and Encrypted Services](#encryption-and-encrypted-services)
+* [GAFAM](#gafam)
+* [Messenger Apps](#messenger-apps)
+* [Meta Platforms](#meta-platforms)
+* [Profane Websites](#profane-websites)
+* [Social Media](#social-media)
+* [Trite Expressions](#trite-expressions)
+
 ## Age Verification
 
 ### links

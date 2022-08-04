@@ -91,7 +91,7 @@ Regrettably `Signal` is a noisy search term.
 * verime
 * voco
 
-# Trite Syllogisms
+# Trite Expressions
 
 * should be illegal online
 * what is illegal offline

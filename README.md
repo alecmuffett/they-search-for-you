@@ -12,7 +12,7 @@ accessing such searches in a consistent way (RSS is handy, but
 sometimes you want to look something up *right now* and on a mobile
 device) can be challenging.
 
-Thus: [They Search For You](.) -- curated search for civil society purposes.
+Thus: [They Search For You](.) — curated search for civil society purposes.
 
 ## Age Verification
 
@@ -195,12 +195,12 @@ Regrettably `Signal` is a noisy search term.
 * whatsapp
 ```
 
-## Trite Syllogisms
+## Trite Expressions
 
 ### links
 
-* **search:** [*Trite Syllogisms*](https://www.theyworkforyou.com/search/?q=%22should%20be%20illegal%20online%22%20OR%20%22what%20is%20illegal%20offline%22%20OR%20%22wild%20west%22)
-* **rss:** [*Trite Syllogisms*](https://www.theyworkforyou.com/search/rss/?s=%22should%20be%20illegal%20online%22%20OR%20%22what%20is%20illegal%20offline%22%20OR%20%22wild%20west%22)
+* **search:** [*Trite Expressions*](https://www.theyworkforyou.com/search/?q=%22should%20be%20illegal%20online%22%20OR%20%22what%20is%20illegal%20offline%22%20OR%20%22wild%20west%22)
+* **rss:** [*Trite Expressions*](https://www.theyworkforyou.com/search/rss/?s=%22should%20be%20illegal%20online%22%20OR%20%22what%20is%20illegal%20offline%22%20OR%20%22wild%20west%22)
 
 #### search terms
 

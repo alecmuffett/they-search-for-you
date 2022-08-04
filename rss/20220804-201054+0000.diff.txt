@@ -1,0 +1,44 @@
+*** old-searches.md	2022-08-04 21:09:40.000000000 +0100
+--- raw-searches.md	2022-08-04 21:10:51.000000000 +0100
+***************
+*** 107,127 ****
+  * photodna
+  * uk safer internet
+  
+! # Age Verification discussion
+  
+  * age appropriate design
+  * age assurance
+  * age inappropriate
+  * age verification
+- * verification of children
+- 
+- # Age Verification companies, and related terms
+- 
+  * age verification providers association
+  * avpa
+  * dragonflai
+  * pas 1296
+  * trustelevate
+  * verime
+  * voco
+  * yoti
+--- 107,124 ----
+  * photodna
+  * uk safer internet
+  
+! # Age Verification companies, and related terms
+  
+  * age appropriate design
+  * age assurance
+  * age inappropriate
+  * age verification
+  * age verification providers association
+  * avpa
+  * dragonflai
+  * pas 1296
+  * trustelevate
++ * verification of children
+  * verime
+  * voco
+  * yoti

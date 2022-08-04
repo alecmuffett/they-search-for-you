@@ -107,21 +107,18 @@ but they seem to not be much discussed in Parliament.
 * photodna
 * uk safer internet
 
-# Age Verification discussion
+# Age Verification companies, and related terms
 
 * age appropriate design
 * age assurance
 * age inappropriate
 * age verification
-* verification of children
-
-# Age Verification companies, and related terms
-
 * age verification providers association
 * avpa
 * dragonflai
 * pas 1296
 * trustelevate
+* verification of children
 * verime
 * voco
 * yoti

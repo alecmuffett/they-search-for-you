@@ -43,7 +43,6 @@ If you would like to see something added or removed, please
 
 * [Acts, Bills, Regulations, and Directives: related terms](#acts-bills-regulations-and-directives-related-terms)
 * [Age Verification companies, and related terms](#age-verification-companies-and-related-terms)
-* [Age Verification discussion](#age-verification-discussion)
 * [Child Sexual Abuse Imagery, and related terms](#child-sexual-abuse-imagery-and-related-terms)
 * [Civil Society organisations, and related terms](#civil-society-organisations-and-related-terms)
 * [Data Protection](#data-protection)
@@ -97,32 +96,9 @@ If you would like to see something added or removed, please
 
 ### links
 
-* :point_right: [Search: Age Verification companies, and related terms](https://www.theyworkforyou.com/search/?q=%22age+verification+providers+association%22+OR+%22avpa%22+OR+%22dragonflai%22+OR+%22pas+1296%22+OR+%22trustelevate%22+OR+%22verime%22+OR+%22voco%22+OR+%22yoti%22)
-* :repeat: [RSS Feed: Age Verification companies, and related terms](https://www.theyworkforyou.com/search/rss/?s=%22age+verification+providers+association%22+OR+%22avpa%22+OR+%22dragonflai%22+OR+%22pas+1296%22+OR+%22trustelevate%22+OR+%22verime%22+OR+%22voco%22+OR+%22yoti%22)
+* :point_right: [Search: Age Verification companies, and related terms](https://www.theyworkforyou.com/search/?q=%22age+appropriate+design%22+OR+%22age+assurance%22+OR+%22age+inappropriate%22+OR+%22age+verification%22+OR+%22age+verification+providers+association%22+OR+%22avpa%22+OR+%22dragonflai%22+OR+%22pas+1296%22+OR+%22trustelevate%22+OR+%22verification+of+children%22+OR+%22verime%22+OR+%22voco%22+OR+%22yoti%22)
+* :repeat: [RSS Feed: Age Verification companies, and related terms](https://www.theyworkforyou.com/search/rss/?s=%22age+appropriate+design%22+OR+%22age+assurance%22+OR+%22age+inappropriate%22+OR+%22age+verification%22+OR+%22age+verification+providers+association%22+OR+%22avpa%22+OR+%22dragonflai%22+OR+%22pas+1296%22+OR+%22trustelevate%22+OR+%22verification+of+children%22+OR+%22verime%22+OR+%22voco%22+OR+%22yoti%22)
 * :heart: [Share 'Age Verification companies, and related terms' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Age%20Verification%20companies%2C%20and%20related%20terms%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23age-verification-companies-and-related-terms)
-* :bulb: [Suggest an Improvement](../../issues/new)
-* :arrow_up: [Return to Index](#index)
-
-#### search terms
-
-```
-* age verification providers association
-* avpa
-* dragonflai
-* pas 1296
-* trustelevate
-* verime
-* voco
-* yoti
-```
-
-## Age Verification discussion
-
-### links
-
-* :point_right: [Search: Age Verification discussion](https://www.theyworkforyou.com/search/?q=%22age+appropriate+design%22+OR+%22age+assurance%22+OR+%22age+inappropriate%22+OR+%22age+verification%22+OR+%22verification+of+children%22)
-* :repeat: [RSS Feed: Age Verification discussion](https://www.theyworkforyou.com/search/rss/?s=%22age+appropriate+design%22+OR+%22age+assurance%22+OR+%22age+inappropriate%22+OR+%22age+verification%22+OR+%22verification+of+children%22)
-* :heart: [Share 'Age Verification discussion' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Age%20Verification%20discussion%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23age-verification-discussion)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
 
@@ -133,7 +109,15 @@ If you would like to see something added or removed, please
 * age assurance
 * age inappropriate
 * age verification
+* age verification providers association
+* avpa
+* dragonflai
+* pas 1296
+* trustelevate
 * verification of children
+* verime
+* voco
+* yoti
 ```
 
 ## Child Sexual Abuse Imagery, and related terms

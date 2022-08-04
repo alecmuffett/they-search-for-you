@@ -194,6 +194,8 @@ without negatively impacting *everyone else*.
 * internet security
 * network security
 * telecoms security
+* whistleblowers
+* whistleblowing
 
 # Data Protection
 

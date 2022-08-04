@@ -5,6 +5,10 @@ use utf8;
 use URI::Escape;
 use XML::OPML;
 
+$datestamp = 'YYMMDDHHMMSS';
+$xml_date = 'Mon, 1 Jan 2022 00:00:00 GMT';
+$xml_email = 'alec.muffett@gmail.com';
+$xml_name = 'Alec Muffett';
 $feeds = 'FEEDS.opml';
 $current = 'none';
 @titles = ();
@@ -12,15 +16,12 @@ $current = 'none';
 %terms = ();
 $opml = new XML::OPML(version => "1.1"); # https://metacpan.org/pod/XML::OPML
 
-$datestamp = 'YYMMDDHHMMSS';
-$datexml = 'Mon, 1 Jan 2022 00:00:00 GMT';
-
 $opml->head(
     title => "TheyWorkForYou $datestamp",
-    dateCreated => $datexml,
-    dateModified => $datexml,
-    ownerName => 'Alec Muffett',
-    ownerEmail => 'alec.muffett@gmail.com',
+    dateCreated => $xml_date,
+    dateModified => $xml_date,
+    ownerName => $xml_name,
+    ownerEmail => $xml_email,
     );
 
 while (<>) {
@@ -113,9 +114,9 @@ foreach $current (sort(@titles)) {
 	my $url_web = SearchURL($query);
 	my $url_rss = RSSURL($query);
 	print("### links\n\n");
-	printf("* **search:** [*%s*](%s)\n", $current, $url_web);
-	printf("* **rss:** [*%s*](%s)\n", $current, $url_rss);
-	printf("* **index:** [*%s*](%s)\n", 'top', '#index');
+	printf("* :point_right: [Search: %s](%s)\n", $current, $url_web);
+	printf("* :repeat: [RSS Feed: %s](%s)\n", $current, $url_rss);
+	printf("* :arrow_up: [%s](%s)\n", 'Return to Index', '#index');
 	print("\n");
 
 	print("#### search terms\n\n");

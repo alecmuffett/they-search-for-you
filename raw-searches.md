@@ -48,12 +48,13 @@
 Regrettably `Signal` is a noisy search term; there should be more here,
 but they seem to not be much discussed in Parliament.
 
-* messaging apps
 * facebook messenger
+* messaging apps
+* sms
 * telegram
+* text messaging
 * viber
 * whatsapp
-* text messaging
 
 # Encryption and Encrypted Services
 

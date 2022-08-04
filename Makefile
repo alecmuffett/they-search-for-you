@@ -1,5 +1,6 @@
-README.md: raw-searches.md filter.pl intro.md
+README.md: raw-searches.md filter.pl intro.md Makefile
 	( cat intro.md ; echo "" ; ./filter.pl raw-searches.md ) > $@
+	./gen-rss-feed.sh
 
 clean:
 	-rm *~

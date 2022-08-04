@@ -167,6 +167,7 @@ but they seem to not be much discussed in Parliament.
 * ico
 * data protection
 * information commissioner
+* schrems
 
 # Acts, Bills, Regulations, and Directives: related terms
 
@@ -187,11 +188,13 @@ but they seem to not be much discussed in Parliament.
 * digital identity
 * digital id
 
-# People: Pundits and Civil Society
+# People: Topics
 
 * berners lee
+
+# People: Pundits and Civil Society
+
 * john carr
-* schrems
 * sonia livingstone
 * zuboff
 * jim killock

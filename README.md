@@ -35,6 +35,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * [Meta Platforms](#meta-platforms)
 * [People: Corporate](#people-corporate)
 * [People: Pundits and Civil Society](#people-pundits-and-civil-society)
+* [People: Topics](#people-topics)
 * [Profane Websites](#profane-websites)
 * [Social Media](#social-media)
 * [Trite Expressions](#trite-expressions)
@@ -189,8 +190,8 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 
 ### links
 
-* **search:** [*Data Protection*](https://www.theyworkforyou.com/search/?q=%22data%20protection%22%20OR%20%22ico%22%20OR%20%22information%20commissioner%22)
-* **rss:** [*Data Protection*](https://www.theyworkforyou.com/search/rss/?s=%22data%20protection%22%20OR%20%22ico%22%20OR%20%22information%20commissioner%22)
+* **search:** [*Data Protection*](https://www.theyworkforyou.com/search/?q=%22data%20protection%22%20OR%20%22ico%22%20OR%20%22information%20commissioner%22%20OR%20%22schrems%22)
+* **rss:** [*Data Protection*](https://www.theyworkforyou.com/search/rss/?s=%22data%20protection%22%20OR%20%22ico%22%20OR%20%22information%20commissioner%22%20OR%20%22schrems%22)
 * **index:** [*top*](#index)
 
 #### search terms
@@ -199,6 +200,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * data protection
 * ico
 * information commissioner
+* schrems
 ```
 
 ## Digital Identity Cards
@@ -397,20 +399,32 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 
 ### links
 
-* **search:** [*People: Pundits and Civil Society*](https://www.theyworkforyou.com/search/?q=%22berners%20lee%22%20OR%20%22jim%20killock%22%20OR%20%22john%20carr%22%20OR%20%22schrems%22%20OR%20%22silkie%20carlo%22%20OR%20%22sonia%20livingstone%22%20OR%20%22zuboff%22)
-* **rss:** [*People: Pundits and Civil Society*](https://www.theyworkforyou.com/search/rss/?s=%22berners%20lee%22%20OR%20%22jim%20killock%22%20OR%20%22john%20carr%22%20OR%20%22schrems%22%20OR%20%22silkie%20carlo%22%20OR%20%22sonia%20livingstone%22%20OR%20%22zuboff%22)
+* **search:** [*People: Pundits and Civil Society*](https://www.theyworkforyou.com/search/?q=%22jim%20killock%22%20OR%20%22john%20carr%22%20OR%20%22silkie%20carlo%22%20OR%20%22sonia%20livingstone%22%20OR%20%22zuboff%22)
+* **rss:** [*People: Pundits and Civil Society*](https://www.theyworkforyou.com/search/rss/?s=%22jim%20killock%22%20OR%20%22john%20carr%22%20OR%20%22silkie%20carlo%22%20OR%20%22sonia%20livingstone%22%20OR%20%22zuboff%22)
+* **index:** [*top*](#index)
+
+#### search terms
+
+```
+* jim killock
+* john carr
+* silkie carlo
+* sonia livingstone
+* zuboff
+```
+
+## People: Topics
+
+### links
+
+* **search:** [*People: Topics*](https://www.theyworkforyou.com/search/?q=%22berners%20lee%22)
+* **rss:** [*People: Topics*](https://www.theyworkforyou.com/search/rss/?s=%22berners%20lee%22)
 * **index:** [*top*](#index)
 
 #### search terms
 
 ```
 * berners lee
-* jim killock
-* john carr
-* schrems
-* silkie carlo
-* sonia livingstone
-* zuboff
 ```
 
 ## Profane Websites

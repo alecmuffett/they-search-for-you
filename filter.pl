@@ -159,7 +159,7 @@ foreach $current (sort(@titles)) {
 }
 
 # updates feed
-$tsfy_title = 'TheySearchForYou: Search Updates';
+$tsfy_title = 'TheySearchForYou Status - Search Updates';
 $opml->add_outline(
     title => $tsfy_title,
     text => $tsfy_title,

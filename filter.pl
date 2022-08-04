@@ -135,8 +135,8 @@ foreach $current (sort(@titles)) {
 	printf("* :point_right: [Search: %s](%s)\n", $current, $url_web);
 	printf("* :repeat: [RSS Feed: %s](%s)\n", $current, $url_rss);
 	printf("* :heart: [Share '%s' in a Tweet!](%s)\n", $current, $tweet_url);
-	printf("* :arrow_up: [%s](%s)\n", 'Return to Index', '#index');
 	printf("* :bulb: [%s](%s)\n", 'Suggest an Improvement', $url_improvement);
+	printf("* :arrow_up: [%s](%s)\n", 'Return to Index', '#index');
 	print("\n");
 
 	print("#### search terms\n\n");

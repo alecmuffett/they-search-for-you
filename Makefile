@@ -1,11 +1,15 @@
-README.md: raw-searches.md filter.pl intro.md Makefile
+all: README.md UPDATES.rss
+
+README.md: Makefile filter.pl raw-searches.md intro.md
 	( cat intro.md ; echo "" ; ./filter.pl raw-searches.md ) > $@
+
+UPDATES.rss: Makefile dir2rss.pl raw-searches.md
 	./gen-rss-feed.sh
 
 clean:
 	-rm *~
 
-push: clean README.md
+push: clean README.md UPDATES.rss
 	git add . && git commit -m "make on `datestamp`" && git push
 
 open:

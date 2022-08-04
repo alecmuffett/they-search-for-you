@@ -33,7 +33,7 @@ $rss->channel(
 foreach my $path (@ARGV) {
     $rss->add_item(
 	title => $path,
-        description => "$path shows changes to relevant files",
+        description => "updated search query terms are described in $path",
         permaLink  => "$root/$path",
 	);
 }

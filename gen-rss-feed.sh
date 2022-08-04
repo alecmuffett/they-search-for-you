@@ -10,7 +10,7 @@ test -f $dst || cp $src $dst
 
 diff -c $dst $src > $tmp
 
-if [ ! -s $tmp ] ; then
+if [ ! -s $tmp -a -f $feed ] ; then
     exec rm $tmp
     exit 1
 fi

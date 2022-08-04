@@ -179,6 +179,7 @@ but they seem to not be much discussed in Parliament.
 
 * data reform
 * digital economy act
+* digital economy bill
 * digital information
 * digital market
 * digital markets
@@ -186,6 +187,8 @@ but they seem to not be much discussed in Parliament.
 * digital services
 * eprivacy
 * investigatory powers
+* national security act
+* national security bill
 * online harms
 * online safety
 
@@ -200,14 +203,16 @@ but they seem to not be much discussed in Parliament.
 
 # People: Pundits and Civil Society
 
-* john carr
-* sonia livingstone
-* shoshana zuboff
-* jim killock
-* silkie carlo
 * andy burrows
-* rachel de souza
+* frances haugen
+* heather burns
+* jim killock
+* john carr
 * lynn perry
+* rachel de souza
+* shoshana zuboff
+* silkie carlo
+* sonia livingstone
 
 # People: Corporate
 

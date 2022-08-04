@@ -45,8 +45,8 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 
 ### links
 
-* **search:** [*Acts, Bills, Regulations, and Directives: related terms*](https://www.theyworkforyou.com/search/?q=%22data%20reform%22%20OR%20%22digital%20economy%20act%22%20OR%20%22digital%20information%22%20OR%20%22digital%20market%22%20OR%20%22digital%20markets%22%20OR%20%22digital%20service%22%20OR%20%22digital%20services%22%20OR%20%22eprivacy%22%20OR%20%22investigatory%20powers%22%20OR%20%22online%20harms%22%20OR%20%22online%20safety%22)
-* **rss:** [*Acts, Bills, Regulations, and Directives: related terms*](https://www.theyworkforyou.com/search/rss/?s=%22data%20reform%22%20OR%20%22digital%20economy%20act%22%20OR%20%22digital%20information%22%20OR%20%22digital%20market%22%20OR%20%22digital%20markets%22%20OR%20%22digital%20service%22%20OR%20%22digital%20services%22%20OR%20%22eprivacy%22%20OR%20%22investigatory%20powers%22%20OR%20%22online%20harms%22%20OR%20%22online%20safety%22)
+* **search:** [*Acts, Bills, Regulations, and Directives: related terms*](https://www.theyworkforyou.com/search/?q=%22data%20reform%22%20OR%20%22digital%20economy%20act%22%20OR%20%22digital%20economy%20bill%22%20OR%20%22digital%20information%22%20OR%20%22digital%20market%22%20OR%20%22digital%20markets%22%20OR%20%22digital%20service%22%20OR%20%22digital%20services%22%20OR%20%22eprivacy%22%20OR%20%22investigatory%20powers%22%20OR%20%22national%20security%20act%22%20OR%20%22national%20security%20bill%22%20OR%20%22online%20harms%22%20OR%20%22online%20safety%22)
+* **rss:** [*Acts, Bills, Regulations, and Directives: related terms*](https://www.theyworkforyou.com/search/rss/?s=%22data%20reform%22%20OR%20%22digital%20economy%20act%22%20OR%20%22digital%20economy%20bill%22%20OR%20%22digital%20information%22%20OR%20%22digital%20market%22%20OR%20%22digital%20markets%22%20OR%20%22digital%20service%22%20OR%20%22digital%20services%22%20OR%20%22eprivacy%22%20OR%20%22investigatory%20powers%22%20OR%20%22national%20security%20act%22%20OR%20%22national%20security%20bill%22%20OR%20%22online%20harms%22%20OR%20%22online%20safety%22)
 * **index:** [*top*](#index)
 
 #### search terms
@@ -54,6 +54,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 ```
 * data reform
 * digital economy act
+* digital economy bill
 * digital information
 * digital market
 * digital markets
@@ -61,6 +62,8 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * digital services
 * eprivacy
 * investigatory powers
+* national security act
+* national security bill
 * online harms
 * online safety
 ```
@@ -400,14 +403,16 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 
 ### links
 
-* **search:** [*People: Pundits and Civil Society*](https://www.theyworkforyou.com/search/?q=%22andy%20burrows%22%20OR%20%22jim%20killock%22%20OR%20%22john%20carr%22%20OR%20%22lynn%20perry%22%20OR%20%22rachel%20de%20souza%22%20OR%20%22shoshana%20zuboff%22%20OR%20%22silkie%20carlo%22%20OR%20%22sonia%20livingstone%22)
-* **rss:** [*People: Pundits and Civil Society*](https://www.theyworkforyou.com/search/rss/?s=%22andy%20burrows%22%20OR%20%22jim%20killock%22%20OR%20%22john%20carr%22%20OR%20%22lynn%20perry%22%20OR%20%22rachel%20de%20souza%22%20OR%20%22shoshana%20zuboff%22%20OR%20%22silkie%20carlo%22%20OR%20%22sonia%20livingstone%22)
+* **search:** [*People: Pundits and Civil Society*](https://www.theyworkforyou.com/search/?q=%22andy%20burrows%22%20OR%20%22frances%20haugen%22%20OR%20%22heather%20burns%22%20OR%20%22jim%20killock%22%20OR%20%22john%20carr%22%20OR%20%22lynn%20perry%22%20OR%20%22rachel%20de%20souza%22%20OR%20%22shoshana%20zuboff%22%20OR%20%22silkie%20carlo%22%20OR%20%22sonia%20livingstone%22)
+* **rss:** [*People: Pundits and Civil Society*](https://www.theyworkforyou.com/search/rss/?s=%22andy%20burrows%22%20OR%20%22frances%20haugen%22%20OR%20%22heather%20burns%22%20OR%20%22jim%20killock%22%20OR%20%22john%20carr%22%20OR%20%22lynn%20perry%22%20OR%20%22rachel%20de%20souza%22%20OR%20%22shoshana%20zuboff%22%20OR%20%22silkie%20carlo%22%20OR%20%22sonia%20livingstone%22)
 * **index:** [*top*](#index)
 
 #### search terms
 
 ```
 * andy burrows
+* frances haugen
+* heather burns
 * jim killock
 * john carr
 * lynn perry

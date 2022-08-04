@@ -14,7 +14,7 @@ device) can be challenging.
 
 Thus: [They Search For You](.) — curated search for civil society purposes.
 
-## RSS Feeds and OPML
+### RSS Feeds and OPML
 
 All searches cite associated RSS feeds, **however** on occasion the
 search query which powers those feeds may be improved or updated, and
@@ -31,3 +31,10 @@ re-import them via OPML, watching the Update feed for a trigger.
 
 **important:** if you download the OPML file, beware that your browser
 might add or replace the `.opml` suffix with `.txt`.
+
+### Suggestions and Improvements
+
+If you would like to see something added or removed, please
+[log an issue](https://github.com/alecmuffett/they-search-for-you/issues/new)
+(Github account required) or
+[message me on Twitter.](https://twitter.com/AlecMuffett/)

@@ -1,0 +1,23 @@
+*** old-searches.md	2022-08-04 19:34:19.000000000 +0100
+--- raw-searches.md	2022-08-04 20:01:26.000000000 +0100
+***************
+*** 1,9 ****
+  # Meta Platforms
+  
+- * facebook
+- * instagram
+- * metaverse
+  * whatsapp
+  
+  # Social Media
+  
+--- 1,9 ----
+  # Meta Platforms
+  
+  * whatsapp
++ * metaverse
++ * instagram
++ * facebook
+  
+  # Social Media
+  

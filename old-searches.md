@@ -1,9 +1,9 @@
 # Meta Platforms
 
-* facebook
-* instagram
-* metaverse
 * whatsapp
+* metaverse
+* instagram
+* facebook
 
 # Social Media
 

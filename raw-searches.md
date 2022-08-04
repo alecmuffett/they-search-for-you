@@ -42,7 +42,8 @@
 
 # Messenger Apps
 
-Regrettably `Signal` is a noisy search term.
+Regrettably `Signal` is a noisy search term; there should be more here,
+but they seem to not be much discussed in Parliament.
 
 * facebook messenger
 * telegram
@@ -68,28 +69,28 @@ Regrettably `Signal` is a noisy search term.
 
 # Child Sexual Abuse Imagery, and related terms
 
+* 5rights
 * ceop
 * child pornography
+* csai
 * csam
 * csea
-* csai
 * iioc
 * iwf
 * marie collins
 * ncmec
-* photodna
-* 5rights
 * neuralhash
 * neuralmatch
+* photodna
 
-# Age Verification
+# Age Verification, and related terms
 
-* yoti
-* trustelevate
 * avpa
 * dragonflai
+* trustelevate
 * verime
 * voco
+* yoti
 
 # Trite Expressions
 
@@ -99,7 +100,7 @@ Regrettably `Signal` is a noisy search term.
 
 # Cyberspies
 
-* gchq
-* nsa
-* ncsc
 * cesg
+* gchq
+* ncsc
+* nsa

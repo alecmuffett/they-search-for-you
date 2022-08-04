@@ -16,7 +16,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 
 ## Index
 
-* [Age Verification](#age-verification)
+* [Age Verification, and related terms](#age-verification-and-related-terms)
 * [Child Sexual Abuse Imagery, and related terms](#child-sexual-abuse-imagery-and-related-terms)
 * [Cyberspies](#cyberspies)
 * [Encryption and Encrypted Services](#encryption-and-encrypted-services)
@@ -27,12 +27,12 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * [Social Media](#social-media)
 * [Trite Expressions](#trite-expressions)
 
-## Age Verification
+## Age Verification, and related terms
 
 ### links
 
-* **search:** [*Age Verification*](https://www.theyworkforyou.com/search/?q=%22avpa%22%20OR%20%22dragonflai%22%20OR%20%22trustelevate%22%20OR%20%22verime%22%20OR%20%22voco%22%20OR%20%22yoti%22)
-* **rss:** [*Age Verification*](https://www.theyworkforyou.com/search/rss/?s=%22avpa%22%20OR%20%22dragonflai%22%20OR%20%22trustelevate%22%20OR%20%22verime%22%20OR%20%22voco%22%20OR%20%22yoti%22)
+* **search:** [*Age Verification, and related terms*](https://www.theyworkforyou.com/search/?q=%22avpa%22%20OR%20%22dragonflai%22%20OR%20%22trustelevate%22%20OR%20%22verime%22%20OR%20%22voco%22%20OR%20%22yoti%22)
+* **rss:** [*Age Verification, and related terms*](https://www.theyworkforyou.com/search/rss/?s=%22avpa%22%20OR%20%22dragonflai%22%20OR%20%22trustelevate%22%20OR%20%22verime%22%20OR%20%22voco%22%20OR%20%22yoti%22)
 
 #### search terms
 
@@ -134,7 +134,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 
 ## Messenger Apps
 
-Regrettably `Signal` is a noisy search term.
+Regrettably `Signal` is a noisy search term; there should be more here, but they seem to not be much discussed in Parliament.
 
 ### links
 

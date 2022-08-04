@@ -1,0 +1,20 @@
+*** old-searches.md	2022-08-04 21:27:14.000000000 +0100
+--- raw-searches.md	2022-08-04 21:28:10.000000000 +0100
+***************
+*** 131,137 ****
+  externalities - negative impact beyond the immediate scope of your
+  solution - but those need to be weighed against the positive impacts
+  and benefits that your solution also offers, plus: there is only so
+! far you can progress towards mitigating other people's problems.
+  
+  * privacy by design
+  * safe by design
+--- 131,138 ----
+  externalities - negative impact beyond the immediate scope of your
+  solution - but those need to be weighed against the positive impacts
+  and benefits that your solution also offers, plus: there is only so
+! far you can progress towards mitigating other people's challenges
+! without negatively impacting everyone *else*.
+  
+  * privacy by design
+  * safe by design

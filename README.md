@@ -561,7 +561,7 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 
 ## Trite Expressions
 
-Observation: you don't make something secure, safe, or private "by design"; instead you create a "threat model" and assess the threats that your assets or solution faces. Some of those threats may be externalities - negative impact beyond the immediate scope of your solution - but those need to be weighed against the positive impacts and benefits that your solution also offers, plus: there is only so far you can progress towards mitigating other people's problems.
+Observation: you don't make something secure, safe, or private "by design"; instead you create a "threat model" and assess the threats that your assets or solution faces. Some of those threats may be externalities - negative impact beyond the immediate scope of your solution - but those need to be weighed against the positive impacts and benefits that your solution also offers, plus: there is only so far you can progress towards mitigating other people's challenges without negatively impacting everyone *else*.
 
 ### links
 

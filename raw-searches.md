@@ -9,16 +9,19 @@
 
 * discord
 * facebook
+* fortnite
 * imgur
 * instagram
 * reddit
+* snapchat
+* telegram
 * tiktok
 * twitch
 * twitter
-* whatsapp
-* telegram
-* vk
 * viber
+* vk
+* whatsapp
+* youtube
 
 # GAFAM
 
@@ -104,3 +107,22 @@ but they seem to not be much discussed in Parliament.
 * gchq
 * ncsc
 * nsa
+
+# Civil Society
+
+* open rights group
+* big brother watch
+* british computer society
+* computer science
+* digital literacy
+
+# British Unicorns
+
+* deliveroo
+* monzo
+* starling bank
+
+# Hacking
+
+* hacker
+* hacking

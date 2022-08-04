@@ -17,10 +17,13 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 ## Index
 
 * [Age Verification, and related terms](#age-verification-and-related-terms)
+* [British Unicorns](#british-unicorns)
 * [Child Sexual Abuse Imagery, and related terms](#child-sexual-abuse-imagery-and-related-terms)
+* [Civil Society](#civil-society)
 * [Cyberspies](#cyberspies)
 * [Encryption and Encrypted Services](#encryption-and-encrypted-services)
 * [GAFAM](#gafam)
+* [Hacking](#hacking)
 * [Messenger Apps](#messenger-apps)
 * [Meta Platforms](#meta-platforms)
 * [Profane Websites](#profane-websites)
@@ -43,6 +46,21 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * verime
 * voco
 * yoti
+```
+
+## British Unicorns
+
+### links
+
+* **search:** [*British Unicorns*](https://www.theyworkforyou.com/search/?q=%22deliveroo%22%20OR%20%22monzo%22%20OR%20%22starling%20bank%22)
+* **rss:** [*British Unicorns*](https://www.theyworkforyou.com/search/rss/?s=%22deliveroo%22%20OR%20%22monzo%22%20OR%20%22starling%20bank%22)
+
+#### search terms
+
+```
+* deliveroo
+* monzo
+* starling bank
 ```
 
 ## Child Sexual Abuse Imagery, and related terms
@@ -68,6 +86,23 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * neuralhash
 * neuralmatch
 * photodna
+```
+
+## Civil Society
+
+### links
+
+* **search:** [*Civil Society*](https://www.theyworkforyou.com/search/?q=%22big%20brother%20watch%22%20OR%20%22british%20computer%20society%22%20OR%20%22computer%20science%22%20OR%20%22digital%20literacy%22%20OR%20%22open%20rights%20group%22)
+* **rss:** [*Civil Society*](https://www.theyworkforyou.com/search/rss/?s=%22big%20brother%20watch%22%20OR%20%22british%20computer%20society%22%20OR%20%22computer%20science%22%20OR%20%22digital%20literacy%22%20OR%20%22open%20rights%20group%22)
+
+#### search terms
+
+```
+* big brother watch
+* british computer society
+* computer science
+* digital literacy
+* open rights group
 ```
 
 ## Cyberspies
@@ -132,6 +167,20 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * youtube
 ```
 
+## Hacking
+
+### links
+
+* **search:** [*Hacking*](https://www.theyworkforyou.com/search/?q=%22hacker%22%20OR%20%22hacking%22)
+* **rss:** [*Hacking*](https://www.theyworkforyou.com/search/rss/?s=%22hacker%22%20OR%20%22hacking%22)
+
+#### search terms
+
+```
+* hacker
+* hacking
+```
+
 ## Messenger Apps
 
 Regrettably `Signal` is a noisy search term; there should be more here, but they seem to not be much discussed in Parliament.
@@ -188,17 +237,19 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 
 ### links
 
-* **search:** [*Social Media*](https://www.theyworkforyou.com/search/?q=%22discord%22%20OR%20%22facebook%22%20OR%20%22imgur%22%20OR%20%22instagram%22%20OR%20%22reddit%22%20OR%20%22telegram%22%20OR%20%22tiktok%22%20OR%20%22twitch%22%20OR%20%22twitter%22%20OR%20%22viber%22%20OR%20%22vk%22%20OR%20%22whatsapp%22)
-* **rss:** [*Social Media*](https://www.theyworkforyou.com/search/rss/?s=%22discord%22%20OR%20%22facebook%22%20OR%20%22imgur%22%20OR%20%22instagram%22%20OR%20%22reddit%22%20OR%20%22telegram%22%20OR%20%22tiktok%22%20OR%20%22twitch%22%20OR%20%22twitter%22%20OR%20%22viber%22%20OR%20%22vk%22%20OR%20%22whatsapp%22)
+* **search:** [*Social Media*](https://www.theyworkforyou.com/search/?q=%22discord%22%20OR%20%22facebook%22%20OR%20%22fortnite%22%20OR%20%22imgur%22%20OR%20%22instagram%22%20OR%20%22reddit%22%20OR%20%22snapchat%22%20OR%20%22telegram%22%20OR%20%22tiktok%22%20OR%20%22twitch%22%20OR%20%22twitter%22%20OR%20%22viber%22%20OR%20%22vk%22%20OR%20%22whatsapp%22%20OR%20%22youtube%22)
+* **rss:** [*Social Media*](https://www.theyworkforyou.com/search/rss/?s=%22discord%22%20OR%20%22facebook%22%20OR%20%22fortnite%22%20OR%20%22imgur%22%20OR%20%22instagram%22%20OR%20%22reddit%22%20OR%20%22snapchat%22%20OR%20%22telegram%22%20OR%20%22tiktok%22%20OR%20%22twitch%22%20OR%20%22twitter%22%20OR%20%22viber%22%20OR%20%22vk%22%20OR%20%22whatsapp%22%20OR%20%22youtube%22)
 
 #### search terms
 
 ```
 * discord
 * facebook
+* fortnite
 * imgur
 * instagram
 * reddit
+* snapchat
 * telegram
 * tiktok
 * twitch
@@ -206,6 +257,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 * viber
 * vk
 * whatsapp
+* youtube
 ```
 
 ## Trite Expressions

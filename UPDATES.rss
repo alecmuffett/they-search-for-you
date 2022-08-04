@@ -10,8 +10,8 @@
 <description>TheySearchForYou Search-Query Updates</description>
 <language>en</language>
 <copyright>https://creativecommons.org/licenses/by/4.0/</copyright>
-<pubDate>Thu,  4 Aug 2022 20:13:32 +0000</pubDate>
-<lastBuildDate>Thu,  4 Aug 2022 20:13:32 +0000</lastBuildDate>
+<pubDate>Thu,  4 Aug 2022 20:14:59 +0000</pubDate>
+<lastBuildDate>Thu,  4 Aug 2022 20:14:59 +0000</lastBuildDate>
 <managingEditor>alec.muffett@gmail.com</managingEditor>
 <webMaster>alec.muffett@gmail.com</webMaster>
 
@@ -252,6 +252,25 @@
 &#x3C;/pre&#x3E;
 </description>
 <guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-201332+0000.diff.txt</guid>
+</item>
+<item>
+<title>rss/20220804-201459+0000.diff.txt</title>
+<description>&#x3C;p&#x3E;updated search query:&#x3C;/p&#x3E;
+&#x3C;pre&#x3E;*** old-searches.md	2022-08-04 21:13:32.000000000 +0100
+--- raw-searches.md	2022-08-04 21:14:56.000000000 +0100
+***************
+*** 126,131 ****
+--- 126,132 ----
+  # Trite Expressions
+  
+  * privacy by design
++ * safe by design
+  * safety by design
+  * secure by design
+  * security by design
+&#x3C;/pre&#x3E;
+</description>
+<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-201459+0000.diff.txt</guid>
 </item>
 </channel>
 </rss>

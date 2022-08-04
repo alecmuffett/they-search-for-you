@@ -126,6 +126,7 @@ but they seem to not be much discussed in Parliament.
 # Trite Expressions
 
 * privacy by design
+* safe by design
 * safety by design
 * secure by design
 * security by design

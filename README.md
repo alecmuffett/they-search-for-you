@@ -546,8 +546,8 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 
 ### links
 
-* :point_right: [Search: Socially Problematic Content](https://www.theyworkforyou.com/search/?q=%22cross-platform+harms%22+OR+%22disinformation%22+OR+%22fake+news%22+OR+%22free+speech%22+OR+%22hate+speech%22+OR+%22vawg%22)
-* :repeat: [RSS Feed: Socially Problematic Content](https://www.theyworkforyou.com/search/rss/?s=%22cross-platform+harms%22+OR+%22disinformation%22+OR+%22fake+news%22+OR+%22free+speech%22+OR+%22hate+speech%22+OR+%22vawg%22)
+* :point_right: [Search: Socially Problematic Content](https://www.theyworkforyou.com/search/?q=%22cross-platform+harms%22+OR+%22disinformation%22+OR+%22fake+news%22+OR+%22free+speech%22+OR+%22hate+speech%22+OR+%22revenge+porn%22+OR+%22vawg%22)
+* :repeat: [RSS Feed: Socially Problematic Content](https://www.theyworkforyou.com/search/rss/?s=%22cross-platform+harms%22+OR+%22disinformation%22+OR+%22fake+news%22+OR+%22free+speech%22+OR+%22hate+speech%22+OR+%22revenge+porn%22+OR+%22vawg%22)
 * :heart: [Share 'Socially Problematic Content' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Socially%20Problematic%20Content%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23socially-problematic-content)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
@@ -560,6 +560,7 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 * fake news
 * free speech
 * hate speech
+* revenge porn
 * vawg
 ```
 

@@ -1,0 +1,10 @@
+*** old-searches.md	2022-08-04 22:37:22.000000000 +0100
+--- raw-searches.md	2022-08-04 22:38:10.000000000 +0100
+***************
+*** 271,274 ****
+--- 271,275 ----
+  * fake news
+  * free speech
+  * hate speech
++ * revenge porn
+  * vawg

@@ -10,8 +10,8 @@
 <description>TheySearchForYou Search-Query Updates</description>
 <language>en</language>
 <copyright>https://creativecommons.org/licenses/by/4.0/</copyright>
-<pubDate>Thu,  4 Aug 2022 21:37:22 +0000</pubDate>
-<lastBuildDate>Thu,  4 Aug 2022 21:37:22 +0000</lastBuildDate>
+<pubDate>Thu,  4 Aug 2022 21:38:12 +0000</pubDate>
+<lastBuildDate>Thu,  4 Aug 2022 21:38:12 +0000</lastBuildDate>
 <managingEditor>alec.muffett@gmail.com</managingEditor>
 <webMaster>alec.muffett@gmail.com</webMaster>
 
@@ -400,6 +400,23 @@
 &#x3C;/pre&#x3E;
 </description>
 <guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-213722+0000.diff.txt</guid>
+</item>
+<item>
+<title>rss/20220804-213812+0000.diff.txt</title>
+<description>&#x3C;p&#x3E;updated search query:&#x3C;/p&#x3E;
+&#x3C;pre&#x3E;*** old-searches.md	2022-08-04 22:37:22.000000000 +0100
+--- raw-searches.md	2022-08-04 22:38:10.000000000 +0100
+***************
+*** 271,274 ****
+--- 271,275 ----
+  * fake news
+  * free speech
+  * hate speech
++ * revenge porn
+  * vawg
+&#x3C;/pre&#x3E;
+</description>
+<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-213812+0000.diff.txt</guid>
 </item>
 </channel>
 </rss>

@@ -8,5 +8,5 @@ push: clean README.md
 	git add . && git commit -m "make on `datestamp`" && git push
 	make open
 
-open:
+open: README.md
 	open https://github.com/alecmuffett/they-search-for-you

@@ -19,7 +19,6 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * [Acts, Bills, Regulations, and Directives: related terms](#acts-bills-regulations-and-directives-related-terms)
 * [Age Verification companies, and related terms](#age-verification-companies-and-related-terms)
 * [Age Verification discussion](#age-verification-discussion)
-* [British Unicorns](#british-unicorns)
 * [Child Sexual Abuse Imagery, and related terms](#child-sexual-abuse-imagery-and-related-terms)
 * [Civil Society organisations, and related terms](#civil-society-organisations-and-related-terms)
 * [Cyber](#cyber)
@@ -27,6 +26,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * [Digital Identity Cards](#digital-identity-cards)
 * [Encryption and Encrypted Services](#encryption-and-encrypted-services)
 * [GAFAM](#gafam)
+* [Gig Economy](#gig-economy)
 * [Information Security](#information-security)
 * [Intelligence Agencies, and related terms](#intelligence-agencies-and-related-terms)
 * [Internet of Things](#internet-of-things)
@@ -39,6 +39,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * [Profane Websites](#profane-websites)
 * [Social Media](#social-media)
 * [Trite Expressions](#trite-expressions)
+* [Unicorns](#unicorns)
 
 ## Acts, Bills, Regulations, and Directives: related terms
 
@@ -99,22 +100,6 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * age inappropriate
 * age verification
 * verification of children
-```
-
-## British Unicorns
-
-### links
-
-* **search:** [*British Unicorns*](https://www.theyworkforyou.com/search/?q=%22deliveroo%22%20OR%20%22monzo%22%20OR%20%22starling%20bank%22)
-* **rss:** [*British Unicorns*](https://www.theyworkforyou.com/search/rss/?s=%22deliveroo%22%20OR%20%22monzo%22%20OR%20%22starling%20bank%22)
-* **index:** [*top*](#index)
-
-#### search terms
-
-```
-* deliveroo
-* monzo
-* starling bank
 ```
 
 ## Child Sexual Abuse Imagery, and related terms
@@ -267,6 +252,22 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * microsoft
 * whatsapp
 * youtube
+```
+
+## Gig Economy
+
+### links
+
+* **search:** [*Gig Economy*](https://www.theyworkforyou.com/search/?q=%22deliveroo%22%20OR%20%22gig%20economy%22%20OR%20%22uber%22)
+* **rss:** [*Gig Economy*](https://www.theyworkforyou.com/search/rss/?s=%22deliveroo%22%20OR%20%22gig%20economy%22%20OR%20%22uber%22)
+* **index:** [*top*](#index)
+
+#### search terms
+
+```
+* deliveroo
+* gig economy
+* uber
 ```
 
 ## Information Security
@@ -489,5 +490,21 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 * surveillance capitalism
 * what is illegal offline
 * wild west
+```
+
+## Unicorns
+
+### links
+
+* **search:** [*Unicorns*](https://www.theyworkforyou.com/search/?q=%22deliveroo%22%20OR%20%22monzo%22%20OR%20%22starling%22)
+* **rss:** [*Unicorns*](https://www.theyworkforyou.com/search/rss/?s=%22deliveroo%22%20OR%20%22monzo%22%20OR%20%22starling%22)
+* **index:** [*top*](#index)
+
+#### search terms
+
+```
+* deliveroo
+* monzo
+* starling
 ```
 

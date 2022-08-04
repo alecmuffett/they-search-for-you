@@ -5,6 +5,7 @@ use utf8;
 use URI::Escape;
 use XML::OPML;
 
+$feeds = 'FEEDS.opml';
 $current = 'none';
 @titles = ();
 %verbiage = ();
@@ -137,4 +138,4 @@ foreach $current (sort(@titles)) {
     }
 }
 
-$opml->save('FEEDS.opml');
+$opml->save($feeds);

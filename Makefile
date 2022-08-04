@@ -1,5 +1,5 @@
-README.md: raw-searches.md filter.pl HEADER.md
-	( cat HEADER.md ; echo "" ; ./filter.pl raw-searches.md ) > $@
+README.md: raw-searches.md filter.pl header.md
+	( cat header.md ; echo "" ; ./filter.pl raw-searches.md ) > $@
 
 clean:
 	-rm *~

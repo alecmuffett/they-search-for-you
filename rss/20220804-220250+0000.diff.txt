@@ -1,0 +1,25 @@
+*** old-searches.md	2022-08-04 22:45:20.000000000 +0100
+--- raw-searches.md	2022-08-04 23:02:45.000000000 +0100
+***************
+*** 199,207 ****
+  
+  # Data Protection
+  
+- * ico
+  * data protection
+  * information commissioner
+  * schrems
+  
+  # Acts, Bills, Regulations, and Directives: related terms
+--- 199,209 ----
+  
+  # Data Protection
+  
+  * data protection
++ * ico
+  * information commissioner
++ * information commissioner's
++ * information commissioners
+  * schrems
+  
+  # Acts, Bills, Regulations, and Directives: related terms

@@ -199,9 +199,11 @@ without negatively impacting *everyone else*.
 
 # Data Protection
 
-* ico
 * data protection
+* ico
 * information commissioner
+* information commissioner's
+* information commissioners
 * schrems
 
 # Acts, Bills, Regulations, and Directives: related terms

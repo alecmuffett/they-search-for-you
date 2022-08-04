@@ -187,8 +187,8 @@ will see how it develops.
 
 ### links
 
-* :point_right: [Search: Data Protection](https://www.theyworkforyou.com/search/?q=%22data+protection%22+OR+%22ico%22+OR+%22information+commissioner%22+OR+%22schrems%22)
-* :repeat: [RSS Feed: Data Protection](https://www.theyworkforyou.com/search/rss/?s=%22data+protection%22+OR+%22ico%22+OR+%22information+commissioner%22+OR+%22schrems%22)
+* :point_right: [Search: Data Protection](https://www.theyworkforyou.com/search/?q=%22data+protection%22+OR+%22ico%22+OR+%22information+commissioner%22+OR+%22information+commissioner%27s%22+OR+%22information+commissioners%22+OR+%22schrems%22)
+* :repeat: [RSS Feed: Data Protection](https://www.theyworkforyou.com/search/rss/?s=%22data+protection%22+OR+%22ico%22+OR+%22information+commissioner%22+OR+%22information+commissioner%27s%22+OR+%22information+commissioners%22+OR+%22schrems%22)
 * :heart: [Share 'Data Protection' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Data%20Protection%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23data-protection)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
@@ -199,6 +199,8 @@ will see how it develops.
 * data protection
 * ico
 * information commissioner
+* information commissioner's
+* information commissioners
 * schrems
 ```
 

@@ -41,9 +41,10 @@
 * 4chan
 * 8chan
 * bitchute
-* parler
-* gab
 * brandnewtube
+* gab
+* omegle
+* parler
 
 # Messenger Apps
 

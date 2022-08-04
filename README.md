@@ -450,8 +450,8 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 
 ### links
 
-* :point_right: [Search: Profane Websites](https://www.theyworkforyou.com/search/?q=%224chan%22%20OR%20%228chan%22%20OR%20%22bitchute%22%20OR%20%22brandnewtube%22%20OR%20%22gab%22%20OR%20%22parler%22)
-* :repeat: [RSS Feed: Profane Websites](https://www.theyworkforyou.com/search/rss/?s=%224chan%22%20OR%20%228chan%22%20OR%20%22bitchute%22%20OR%20%22brandnewtube%22%20OR%20%22gab%22%20OR%20%22parler%22)
+* :point_right: [Search: Profane Websites](https://www.theyworkforyou.com/search/?q=%224chan%22%20OR%20%228chan%22%20OR%20%22bitchute%22%20OR%20%22brandnewtube%22%20OR%20%22gab%22%20OR%20%22omegle%22%20OR%20%22parler%22)
+* :repeat: [RSS Feed: Profane Websites](https://www.theyworkforyou.com/search/rss/?s=%224chan%22%20OR%20%228chan%22%20OR%20%22bitchute%22%20OR%20%22brandnewtube%22%20OR%20%22gab%22%20OR%20%22omegle%22%20OR%20%22parler%22)
 * :arrow_up: [Return to Index](#index)
 * :bulb: [Suggest an Improvement](../../issues/new)
 
@@ -463,6 +463,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 * bitchute
 * brandnewtube
 * gab
+* omegle
 * parler
 ```
 

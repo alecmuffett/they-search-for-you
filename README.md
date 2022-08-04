@@ -33,8 +33,9 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * [Machine Learning](#machine-learning)
 * [Messenger Apps](#messenger-apps)
 * [Meta Platforms](#meta-platforms)
+* [People: Corporate](#people-corporate)
+* [People: Pundits and Civil Society](#people-pundits-and-civil-society)
 * [Profane Websites](#profane-websites)
-* [Pundits, and related terms](#pundits-and-related-terms)
 * [Social Media](#social-media)
 * [Trite Expressions](#trite-expressions)
 
@@ -375,6 +376,41 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 * whatsapp
 ```
 
+## People: Corporate
+
+### links
+
+* **search:** [*People: Corporate*](https://www.theyworkforyou.com/search/?q=%22jack%20dorsey%22%20OR%20%22nick%20clegg%22%20OR%20%22sandberg%22%20OR%20%22zuckerberg%22)
+* **rss:** [*People: Corporate*](https://www.theyworkforyou.com/search/rss/?s=%22jack%20dorsey%22%20OR%20%22nick%20clegg%22%20OR%20%22sandberg%22%20OR%20%22zuckerberg%22)
+* **index:** [*top*](#index)
+
+#### search terms
+
+```
+* jack dorsey
+* nick clegg
+* sandberg
+* zuckerberg
+```
+
+## People: Pundits and Civil Society
+
+### links
+
+* **search:** [*People: Pundits and Civil Society*](https://www.theyworkforyou.com/search/?q=%22berners%20lee%22%20OR%20%22john%20carr%22%20OR%20%22schrems%22%20OR%20%22sonia%20livingstone%22%20OR%20%22zuboff%22)
+* **rss:** [*People: Pundits and Civil Society*](https://www.theyworkforyou.com/search/rss/?s=%22berners%20lee%22%20OR%20%22john%20carr%22%20OR%20%22schrems%22%20OR%20%22sonia%20livingstone%22%20OR%20%22zuboff%22)
+* **index:** [*top*](#index)
+
+#### search terms
+
+```
+* berners lee
+* john carr
+* schrems
+* sonia livingstone
+* zuboff
+```
+
 ## Profane Websites
 
 ### links
@@ -392,21 +428,6 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 * brandnewtube
 * gab
 * parler
-```
-
-## Pundits, and related terms
-
-### links
-
-* **search:** [*Pundits, and related terms*](https://www.theyworkforyou.com/search/?q=%22schrems%22%20OR%20%22zuboff%22)
-* **rss:** [*Pundits, and related terms*](https://www.theyworkforyou.com/search/rss/?s=%22schrems%22%20OR%20%22zuboff%22)
-* **index:** [*top*](#index)
-
-#### search terms
-
-```
-* schrems
-* zuboff
 ```
 
 ## Social Media

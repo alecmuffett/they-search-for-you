@@ -187,10 +187,20 @@ but they seem to not be much discussed in Parliament.
 * digital identity
 * digital id
 
-# Pundits, and related terms
+# People: Pundits and Civil Society
 
-* zuboff
+* berners lee
+* john carr
 * schrems
+* sonia livingstone
+* zuboff
+
+# People: Corporate
+
+* zuckerberg
+* sandberg
+* nick clegg
+* jack dorsey
 
 # Internet of Things
 

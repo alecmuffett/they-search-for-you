@@ -10,8 +10,8 @@
 <description>TheySearchForYou Search-Query Updates</description>
 <language>en</language>
 <copyright>https://creativecommons.org/licenses/by/4.0/</copyright>
-<pubDate>Thu,  4 Aug 2022 23:15:51 +0000</pubDate>
-<lastBuildDate>Thu,  4 Aug 2022 23:15:51 +0000</lastBuildDate>
+<pubDate>Thu,  4 Aug 2022 23:17:43 +0000</pubDate>
+<lastBuildDate>Thu,  4 Aug 2022 23:17:43 +0000</lastBuildDate>
 <managingEditor>alec.muffett@gmail.com</managingEditor>
 <webMaster>alec.muffett@gmail.com</webMaster>
 
@@ -644,6 +644,39 @@
 &#x3C;/pre&#x3E;
 </description>
 <guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-231551+0000.diff.txt</guid>
+</item>
+<item>
+<title>rss/20220804-231743+0000.diff.txt</title>
+<description>&#x3C;p&#x3E;updated search query:&#x3C;/p&#x3E;
+&#x3C;pre&#x3E;*** old-searches.md	2022-08-05 00:15:51.000000000 +0100
+--- raw-searches.md	2022-08-05 00:17:41.000000000 +0100
+***************
+*** 124,129 ****
+--- 124,131 ----
+  * verime
+  * voco
+  * yoti
++ * ( &#x22;digital economy act&#x22;  &#x22;part 3&#x22; )
++ * ( &#x22;digital economy bill&#x22; &#x22;part 3&#x22; )
+  
+  # Trite Expressions
+  
+***************
+*** 286,290 ****
+  
+  # Attempting to Reboot Digital Economy Act Part 3
+  
+! * &#x22;digital economy act&#x22; AND &#x22;part 3&#x22;
+! * &#x22;digital economy bill&#x22; AND &#x22;part 3&#x22;
+--- 288,292 ----
+  
+  # Attempting to Reboot Digital Economy Act Part 3
+  
+! * ( &#x22;digital economy act&#x22;  &#x22;part 3&#x22; )
+! * ( &#x22;digital economy bill&#x22; &#x22;part 3&#x22; )
+&#x3C;/pre&#x3E;
+</description>
+<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-231743+0000.diff.txt</guid>
 </item>
 </channel>
 </rss>

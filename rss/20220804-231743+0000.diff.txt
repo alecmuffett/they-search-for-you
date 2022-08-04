@@ -1,0 +1,26 @@
+*** old-searches.md	2022-08-05 00:15:51.000000000 +0100
+--- raw-searches.md	2022-08-05 00:17:41.000000000 +0100
+***************
+*** 124,129 ****
+--- 124,131 ----
+  * verime
+  * voco
+  * yoti
++ * ( "digital economy act"  "part 3" )
++ * ( "digital economy bill" "part 3" )
+  
+  # Trite Expressions
+  
+***************
+*** 286,290 ****
+  
+  # Attempting to Reboot Digital Economy Act Part 3
+  
+! * "digital economy act" AND "part 3"
+! * "digital economy bill" AND "part 3"
+--- 288,292 ----
+  
+  # Attempting to Reboot Digital Economy Act Part 3
+  
+! * ( "digital economy act"  "part 3" )
+! * ( "digital economy bill" "part 3" )

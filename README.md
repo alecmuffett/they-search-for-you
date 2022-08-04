@@ -102,8 +102,8 @@ will see how it develops.
 
 ### links
 
-* :point_right: [Search: Age Verification companies, and related terms](https://www.theyworkforyou.com/search/?q=%22age+appropriate+design%22+OR+%22age+assurance%22+OR+%22age+inappropriate%22+OR+%22age+verification%22+OR+%22age+verification+providers+association%22+OR+%22avpa%22+OR+%22dragonflai%22+OR+%22pas+1296%22+OR+%22trustelevate%22+OR+%22verification+of+children%22+OR+%22verime%22+OR+%22voco%22+OR+%22yoti%22)
-* :repeat: [RSS Feed: Age Verification companies, and related terms](https://www.theyworkforyou.com/search/rss/?s=%22age+appropriate+design%22+OR+%22age+assurance%22+OR+%22age+inappropriate%22+OR+%22age+verification%22+OR+%22age+verification+providers+association%22+OR+%22avpa%22+OR+%22dragonflai%22+OR+%22pas+1296%22+OR+%22trustelevate%22+OR+%22verification+of+children%22+OR+%22verime%22+OR+%22voco%22+OR+%22yoti%22)
+* :point_right: [Search: Age Verification companies, and related terms](https://www.theyworkforyou.com/search/?q=%28+%22digital+economy+act%22+%22part+3%22+%29+OR+%28+%22digital+economy+bill%22+%22part+3%22+%29+OR+%22age+appropriate+design%22+OR+%22age+assurance%22+OR+%22age+inappropriate%22+OR+%22age+verification%22+OR+%22age+verification+providers+association%22+OR+%22avpa%22+OR+%22dragonflai%22+OR+%22pas+1296%22+OR+%22trustelevate%22+OR+%22verification+of+children%22+OR+%22verime%22+OR+%22voco%22+OR+%22yoti%22)
+* :repeat: [RSS Feed: Age Verification companies, and related terms](https://www.theyworkforyou.com/search/rss/?s=%28+%22digital+economy+act%22+%22part+3%22+%29+OR+%28+%22digital+economy+bill%22+%22part+3%22+%29+OR+%22age+appropriate+design%22+OR+%22age+assurance%22+OR+%22age+inappropriate%22+OR+%22age+verification%22+OR+%22age+verification+providers+association%22+OR+%22avpa%22+OR+%22dragonflai%22+OR+%22pas+1296%22+OR+%22trustelevate%22+OR+%22verification+of+children%22+OR+%22verime%22+OR+%22voco%22+OR+%22yoti%22)
 * :heart: [Share 'Age Verification companies, and related terms' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Age%20Verification%20companies%2C%20and%20related%20terms%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23age-verification-companies-and-related-terms)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
@@ -124,14 +124,16 @@ will see how it develops.
 * "verime"
 * "voco"
 * "yoti"
+* ( "digital economy act" "part 3" )
+* ( "digital economy bill" "part 3" )
 ```
 
 ## Attempting to Reboot Digital Economy Act Part 3
 
 ### links
 
-* :point_right: [Search: Attempting to Reboot Digital Economy Act Part 3](https://www.theyworkforyou.com/search/?q=%22digital+economy+act%22+AND+%22part+3%22+OR+%22digital+economy+bill%22+AND+%22part+3%22)
-* :repeat: [RSS Feed: Attempting to Reboot Digital Economy Act Part 3](https://www.theyworkforyou.com/search/rss/?s=%22digital+economy+act%22+AND+%22part+3%22+OR+%22digital+economy+bill%22+AND+%22part+3%22)
+* :point_right: [Search: Attempting to Reboot Digital Economy Act Part 3](https://www.theyworkforyou.com/search/?q=%28+%22digital+economy+act%22+%22part+3%22+%29+OR+%28+%22digital+economy+bill%22+%22part+3%22+%29)
+* :repeat: [RSS Feed: Attempting to Reboot Digital Economy Act Part 3](https://www.theyworkforyou.com/search/rss/?s=%28+%22digital+economy+act%22+%22part+3%22+%29+OR+%28+%22digital+economy+bill%22+%22part+3%22+%29)
 * :heart: [Share 'Attempting to Reboot Digital Economy Act Part 3' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Attempting%20to%20Reboot%20Digital%20Economy%20Act%20Part%203%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23attempting-to-reboot-digital-economy-act-part-3)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
@@ -139,8 +141,8 @@ will see how it develops.
 #### search terms
 
 ```
-* "digital economy act" AND "part 3"
-* "digital economy bill" AND "part 3"
+* ( "digital economy act" "part 3" )
+* ( "digital economy bill" "part 3" )
 ```
 
 ## Child Sexual Abuse Imagery, and related terms

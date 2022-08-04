@@ -124,6 +124,8 @@ but they seem to not be much discussed in Parliament.
 * verime
 * voco
 * yoti
+* ( "digital economy act"  "part 3" )
+* ( "digital economy bill" "part 3" )
 
 # Trite Expressions
 
@@ -286,5 +288,5 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 
 # Attempting to Reboot Digital Economy Act Part 3
 
-* "digital economy act" AND "part 3"
-* "digital economy bill" AND "part 3"
+* ( "digital economy act"  "part 3" )
+* ( "digital economy bill" "part 3" )

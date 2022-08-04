@@ -7,11 +7,13 @@
 
 # Social Media
 
+* bumble
 * discord
 * facebook
 * fortnite
 * imgur
 * instagram
+* onlyfans
 * reddit
 * snapchat
 * telegram
@@ -97,6 +99,7 @@ but they seem to not be much discussed in Parliament.
 * neuralhash
 * neuralmatch
 * photodna
+* uk safer internet
 
 # Age Verification discussion
 
@@ -242,3 +245,4 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 * fake news
 * hate speech
 * free speech
+* vawg

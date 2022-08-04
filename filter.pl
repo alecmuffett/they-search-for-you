@@ -97,7 +97,7 @@ print("\n");
 foreach $current (sort(@titles)) {
     print("## $current\n\n");
 
-    my $xml_description = '-';
+    my $xml_description = '';
 
     my $vref = $verbiage{$current};
     if ($vref) {

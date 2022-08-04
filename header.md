@@ -24,7 +24,7 @@ comes from TheyWorkForYou and resubscription will be necessary.
 To help address this, we publish two resources:
 
 * a [RSS Feed of Updates to Searches](https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/UPDATES.rss)
-* a [OPML bundle of all feeds, *including* the Updates feed](https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/ALL-RSS-FEEDS.opml)
+* an [OPML bundle of all feeds, *including* the Updates feed](https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/ALL-RSS-FEEDS.opml)
 
 ...so from time to time you should be able to delete all feeds and
 re-import them via OPML, watching the Update feed for a trigger.

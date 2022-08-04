@@ -113,13 +113,13 @@ foreach $current (sort(@titles)) {
 	my $query = Queryify(@{$qref});
 	my $url_web = SearchURL($query);
 	my $url_rss = RSSURL($query);
+	#my $url_share = ShareURL($query);
 	print("### links\n\n");
 	printf("* :point_right: [Search: %s](%s)\n", $current, $url_web);
 	printf("* :repeat: [RSS Feed: %s](%s)\n", $current, $url_rss);
 	printf("* :arrow_up: [%s](%s)\n", 'Return to Index', '#index');
+	#printf("* :heart: [Share '%s' in a Tweet!](%s)\n", $current, $url_share);
 	printf("* :bulb: [%s](%s)\n", 'Suggest an Improvement', '../../issues/new');
-
-	# https://github.com/alecmuffett/they-search-for-you/blob/main/alecmuffett/they-search-for-you/issues
 	print("\n");
 
 	print("#### search terms\n\n");

@@ -29,6 +29,9 @@ To help address this, we publish two resources:
 ...so from time to time you should be able to delete all feeds and
 re-import them via OPML, watching the Update feed for a trigger.
 
+**important:** if you download the OPML file, beware that your browser
+might add or replace the `.opml` suffix with `.txt`.
+
 ## Index
 
 * [Acts, Bills, Regulations, and Directives: related terms](#acts-bills-regulations-and-directives-related-terms)

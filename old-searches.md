@@ -120,6 +120,7 @@ but they seem to not be much discussed in Parliament.
 * age verification providers association
 * avpa
 * dragonflai
+* pas 1296
 * trustelevate
 * verime
 * voco

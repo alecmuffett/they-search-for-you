@@ -177,14 +177,12 @@ but they seem to not be much discussed in Parliament.
 
 # Acts, Bills, Regulations, and Directives: related terms
 
-* data reform
+* data reform bill
 * digital economy act
 * digital economy bill
-* digital information
-* digital market
-* digital markets
-* digital service
-* digital services
+* data protection and digital information
+* digital markets act
+* digital services act
 * eprivacy
 * investigatory powers
 * national security act

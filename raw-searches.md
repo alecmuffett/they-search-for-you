@@ -124,7 +124,7 @@ but they seem to not be much discussed in Parliament.
 * ncsc
 * nsa
 
-# Civil Society
+# Civil Society organisations, and related terms
 
 * open rights group
 * big brother watch
@@ -163,15 +163,15 @@ but they seem to not be much discussed in Parliament.
 * data protection
 * information commissioner
 
-# Acts, Bills, Regulations, and Directives
+# Acts, Bills, Regulations, and Directives: related terms
 
+* data reform
 * digital economy act
-* digital market act
-* digital markets act
-* digital service act
-* digital service tax
-* digital services act
-* digital services tax
+* digital information
+* digital market
+* digital markets
+* digital service
+* digital services
 * eprivacy
 * investigatory powers
 * online harms

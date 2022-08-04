@@ -194,6 +194,8 @@ but they seem to not be much discussed in Parliament.
 * schrems
 * sonia livingstone
 * zuboff
+* jim killock
+* silkie carlo
 
 # People: Corporate
 

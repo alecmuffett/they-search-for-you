@@ -397,16 +397,18 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 
 ### links
 
-* **search:** [*People: Pundits and Civil Society*](https://www.theyworkforyou.com/search/?q=%22berners%20lee%22%20OR%20%22john%20carr%22%20OR%20%22schrems%22%20OR%20%22sonia%20livingstone%22%20OR%20%22zuboff%22)
-* **rss:** [*People: Pundits and Civil Society*](https://www.theyworkforyou.com/search/rss/?s=%22berners%20lee%22%20OR%20%22john%20carr%22%20OR%20%22schrems%22%20OR%20%22sonia%20livingstone%22%20OR%20%22zuboff%22)
+* **search:** [*People: Pundits and Civil Society*](https://www.theyworkforyou.com/search/?q=%22berners%20lee%22%20OR%20%22jim%20killock%22%20OR%20%22john%20carr%22%20OR%20%22schrems%22%20OR%20%22silkie%20carlo%22%20OR%20%22sonia%20livingstone%22%20OR%20%22zuboff%22)
+* **rss:** [*People: Pundits and Civil Society*](https://www.theyworkforyou.com/search/rss/?s=%22berners%20lee%22%20OR%20%22jim%20killock%22%20OR%20%22john%20carr%22%20OR%20%22schrems%22%20OR%20%22silkie%20carlo%22%20OR%20%22sonia%20livingstone%22%20OR%20%22zuboff%22)
 * **index:** [*top*](#index)
 
 #### search terms
 
 ```
 * berners lee
+* jim killock
 * john carr
 * schrems
+* silkie carlo
 * sonia livingstone
 * zuboff
 ```

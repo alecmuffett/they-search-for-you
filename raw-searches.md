@@ -48,18 +48,23 @@
 Regrettably `Signal` is a noisy search term; there should be more here,
 but they seem to not be much discussed in Parliament.
 
+* messaging apps
 * facebook messenger
 * telegram
 * viber
 * whatsapp
+* text messaging
 
 # Encryption and Encrypted Services
 
 * cryptographic
 * cryptography
+* dark net
+* darknet
 * dark web
 * darkweb
 * deep web
+* deepweb
 * dns-over-http
 * dns-over-https
 * doh
@@ -72,6 +77,7 @@ but they seem to not be much discussed in Parliament.
 
 # Child Sexual Abuse Imagery, and related terms
 
+* breadcrumbing
 * 5rights
 * ceop
 * child pornography
@@ -85,8 +91,17 @@ but they seem to not be much discussed in Parliament.
 * neuralhash
 * neuralmatch
 * photodna
+* grooming
 
-# Age Verification, and related terms
+# Age Verification discussion
+
+* age appropriate design
+* age assurance
+* age inappropriate
+* age verification
+* verification of children
+
+# Age Verification companies, and related terms
 
 * avpa
 * dragonflai
@@ -98,10 +113,11 @@ but they seem to not be much discussed in Parliament.
 # Trite Expressions
 
 * should be illegal online
+* surveillance capitalism
 * what is illegal offline
 * wild west
 
-# Cyberspies
+# Intelligence Agencies, and related terms
 
 * cesg
 * gchq
@@ -122,7 +138,64 @@ but they seem to not be much discussed in Parliament.
 * monzo
 * starling bank
 
-# Hacking
+# Information Security
 
 * hacker
 * hacking" -"lord hacking
+* infosec
+* internet security
+* network security
+* telecoms security
+
+# Cyber
+
+* cyber
+* cyberattack
+* cyberbully
+* cyberbullying
+* cybercrime
+* cybersecurity
+* cyberwar
+
+# Data Protection
+
+* ico
+* data protection
+* information commissioner
+
+# Acts, Bills, Regulations, and Directives
+
+* digital economy act
+* digital market act
+* digital markets act
+* digital service act
+* digital service tax
+* digital services act
+* digital services tax
+* eprivacy
+* investigatory powers
+* online harms
+* online safety
+
+# Digital Identity Cards
+
+* digital identity
+* digital id
+
+# Pundits, and related terms
+
+* zuboff
+* schrems
+
+# Internet of Things
+
+* iot
+* internet of things
+
+# Machine Learning
+
+* artificial intelligence
+* machine learning
+* ai
+* image classifier
+* image classifiers

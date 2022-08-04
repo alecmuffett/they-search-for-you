@@ -286,4 +286,5 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 
 # Attempting to Reboot Digital Economy Act Part 3
 
-* "digital economy act" NEAR "part 3"
+* "digital economy act" AND "part 3"
+* "digital economy bill" AND "part 3"

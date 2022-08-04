@@ -130,8 +130,8 @@ will see how it develops.
 
 ### links
 
-* :point_right: [Search: Attempting to Reboot Digital Economy Act Part 3](https://www.theyworkforyou.com/search/?q=%22digital+economy+act%22+NEAR+%22part+3%22)
-* :repeat: [RSS Feed: Attempting to Reboot Digital Economy Act Part 3](https://www.theyworkforyou.com/search/rss/?s=%22digital+economy+act%22+NEAR+%22part+3%22)
+* :point_right: [Search: Attempting to Reboot Digital Economy Act Part 3](https://www.theyworkforyou.com/search/?q=%22digital+economy+act%22+AND+%22part+3%22+OR+%22digital+economy+bill%22+AND+%22part+3%22)
+* :repeat: [RSS Feed: Attempting to Reboot Digital Economy Act Part 3](https://www.theyworkforyou.com/search/rss/?s=%22digital+economy+act%22+AND+%22part+3%22+OR+%22digital+economy+bill%22+AND+%22part+3%22)
 * :heart: [Share 'Attempting to Reboot Digital Economy Act Part 3' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Attempting%20to%20Reboot%20Digital%20Economy%20Act%20Part%203%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23attempting-to-reboot-digital-economy-act-part-3)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
@@ -139,7 +139,8 @@ will see how it develops.
 #### search terms
 
 ```
-* "digital economy act" NEAR "part 3"
+* "digital economy act" AND "part 3"
+* "digital economy bill" AND "part 3"
 ```
 
 ## Child Sexual Abuse Imagery, and related terms

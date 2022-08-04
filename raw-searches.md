@@ -205,6 +205,10 @@ but they seem to not be much discussed in Parliament.
 * shoshana zuboff
 * jim killock
 * silkie carlo
+* andy burrows
+* children's commissioner
+* rachel de souza
+* lynn perry
 
 # People: Corporate
 

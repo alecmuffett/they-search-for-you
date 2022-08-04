@@ -149,24 +149,24 @@ but they seem to not be much discussed in Parliament.
 * deliveroo
 * uber
 
-# Information Security
+# Information Security and Cyber
 
+* cyber
+* cyberattack
+* cyberattacks
+* cyberbully
+* cyberbullying
+* cybercrime
+* cybercrimes
+* cybersecurity
+* cyberwar
+* disinformation
 * hacker
 * hacking" -"lord hacking
 * infosec
 * internet security
 * network security
 * telecoms security
-
-# Cyber
-
-* cyber
-* cyberattack
-* cyberbully
-* cyberbullying
-* cybercrime
-* cybersecurity
-* cyberwar
 
 # Data Protection
 

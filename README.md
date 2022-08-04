@@ -21,13 +21,12 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * [Age Verification discussion](#age-verification-discussion)
 * [Child Sexual Abuse Imagery, and related terms](#child-sexual-abuse-imagery-and-related-terms)
 * [Civil Society organisations, and related terms](#civil-society-organisations-and-related-terms)
-* [Cyber](#cyber)
 * [Data Protection](#data-protection)
 * [Digital Identity Cards](#digital-identity-cards)
 * [Encryption and Encrypted Services](#encryption-and-encrypted-services)
 * [GAFAM](#gafam)
 * [Gig Economy](#gig-economy)
-* [Information Security](#information-security)
+* [Information Security and Cyber](#information-security-and-cyber)
 * [Intelligence Agencies, and related terms](#intelligence-agencies-and-related-terms)
 * [Internet of Things](#internet-of-things)
 * [Machine Learning](#machine-learning)
@@ -152,26 +151,6 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * open rights group
 ```
 
-## Cyber
-
-### links
-
-* **search:** [*Cyber*](https://www.theyworkforyou.com/search/?q=%22cyber%22%20OR%20%22cyberattack%22%20OR%20%22cyberbully%22%20OR%20%22cyberbullying%22%20OR%20%22cybercrime%22%20OR%20%22cybersecurity%22%20OR%20%22cyberwar%22)
-* **rss:** [*Cyber*](https://www.theyworkforyou.com/search/rss/?s=%22cyber%22%20OR%20%22cyberattack%22%20OR%20%22cyberbully%22%20OR%20%22cyberbullying%22%20OR%20%22cybercrime%22%20OR%20%22cybersecurity%22%20OR%20%22cyberwar%22)
-* **index:** [*top*](#index)
-
-#### search terms
-
-```
-* cyber
-* cyberattack
-* cyberbully
-* cyberbullying
-* cybercrime
-* cybersecurity
-* cyberwar
-```
-
 ## Data Protection
 
 ### links
@@ -271,17 +250,27 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * uber
 ```
 
-## Information Security
+## Information Security and Cyber
 
 ### links
 
-* **search:** [*Information Security*](https://www.theyworkforyou.com/search/?q=%22hacker%22%20OR%20%22hacking%22%20-%22lord%20hacking%22%20OR%20%22infosec%22%20OR%20%22internet%20security%22%20OR%20%22network%20security%22%20OR%20%22telecoms%20security%22)
-* **rss:** [*Information Security*](https://www.theyworkforyou.com/search/rss/?s=%22hacker%22%20OR%20%22hacking%22%20-%22lord%20hacking%22%20OR%20%22infosec%22%20OR%20%22internet%20security%22%20OR%20%22network%20security%22%20OR%20%22telecoms%20security%22)
+* **search:** [*Information Security and Cyber*](https://www.theyworkforyou.com/search/?q=%22cyber%22%20OR%20%22cyberattack%22%20OR%20%22cyberattacks%22%20OR%20%22cyberbully%22%20OR%20%22cyberbullying%22%20OR%20%22cybercrime%22%20OR%20%22cybercrimes%22%20OR%20%22cybersecurity%22%20OR%20%22cyberwar%22%20OR%20%22disinformation%22%20OR%20%22hacker%22%20OR%20%22hacking%22%20-%22lord%20hacking%22%20OR%20%22infosec%22%20OR%20%22internet%20security%22%20OR%20%22network%20security%22%20OR%20%22telecoms%20security%22)
+* **rss:** [*Information Security and Cyber*](https://www.theyworkforyou.com/search/rss/?s=%22cyber%22%20OR%20%22cyberattack%22%20OR%20%22cyberattacks%22%20OR%20%22cyberbully%22%20OR%20%22cyberbullying%22%20OR%20%22cybercrime%22%20OR%20%22cybercrimes%22%20OR%20%22cybersecurity%22%20OR%20%22cyberwar%22%20OR%20%22disinformation%22%20OR%20%22hacker%22%20OR%20%22hacking%22%20-%22lord%20hacking%22%20OR%20%22infosec%22%20OR%20%22internet%20security%22%20OR%20%22network%20security%22%20OR%20%22telecoms%20security%22)
 * **index:** [*top*](#index)
 
 #### search terms
 
 ```
+* cyber
+* cyberattack
+* cyberattacks
+* cyberbully
+* cyberbullying
+* cybercrime
+* cybercrimes
+* cybersecurity
+* cyberwar
+* disinformation
 * hacker
 * hacking" -"lord hacking
 * infosec

@@ -10,8 +10,8 @@
 <description>TheySearchForYou Search-Query Updates</description>
 <language>en</language>
 <copyright>https://creativecommons.org/licenses/by/4.0/</copyright>
-<pubDate>Thu,  4 Aug 2022 22:11:28 +0000</pubDate>
-<lastBuildDate>Thu,  4 Aug 2022 22:11:28 +0000</lastBuildDate>
+<pubDate>Thu,  4 Aug 2022 22:15:05 +0000</pubDate>
+<lastBuildDate>Thu,  4 Aug 2022 22:15:05 +0000</lastBuildDate>
 <managingEditor>alec.muffett@gmail.com</managingEditor>
 <webMaster>alec.muffett@gmail.com</webMaster>
 
@@ -512,6 +512,52 @@
 &#x3C;/pre&#x3E;
 </description>
 <guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-221128+0000.diff.txt</guid>
+</item>
+<item>
+<title>rss/20220804-221505+0000.diff.txt</title>
+<description>&#x3C;p&#x3E;updated search query:&#x3C;/p&#x3E;
+&#x3C;pre&#x3E;*** old-searches.md	2022-08-04 23:11:28.000000000 +0100
+--- raw-searches.md	2022-08-04 23:15:01.000000000 +0100
+***************
+*** 157,167 ****
+  
+  # Civil Society organisations, and related terms
+  
+- * open rights group
+  * big brother watch
+  * british computer society
+  * computer science
+  * digital literacy
+  
+  # Unicorns
+  
+--- 157,169 ----
+  
+  # Civil Society organisations, and related terms
+  
+  * big brother watch
+  * british computer society
+  * computer science
+  * digital literacy
++ * open rights group
++ * reset.tech
++ 
+  
+  # Unicorns
+  
+***************
+*** 241,246 ****
+--- 243,249 ----
+  * john carr
+  * lorna woods
+  * lynn perry
++ * poppy wood
+  * rachel de souza
+  * shoshana zuboff
+  * silkie carlo
+&#x3C;/pre&#x3E;
+</description>
+<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-221505+0000.diff.txt</guid>
 </item>
 </channel>
 </rss>

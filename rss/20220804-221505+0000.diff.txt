@@ -1,0 +1,39 @@
+*** old-searches.md	2022-08-04 23:11:28.000000000 +0100
+--- raw-searches.md	2022-08-04 23:15:01.000000000 +0100
+***************
+*** 157,167 ****
+  
+  # Civil Society organisations, and related terms
+  
+- * open rights group
+  * big brother watch
+  * british computer society
+  * computer science
+  * digital literacy
+  
+  # Unicorns
+  
+--- 157,169 ----
+  
+  # Civil Society organisations, and related terms
+  
+  * big brother watch
+  * british computer society
+  * computer science
+  * digital literacy
++ * open rights group
++ * reset.tech
++ 
+  
+  # Unicorns
+  
+***************
+*** 241,246 ****
+--- 243,249 ----
+  * john carr
+  * lorna woods
+  * lynn perry
++ * poppy wood
+  * rachel de souza
+  * shoshana zuboff
+  * silkie carlo

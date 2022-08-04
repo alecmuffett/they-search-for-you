@@ -157,11 +157,13 @@ without negatively impacting *everyone else*.
 
 # Civil Society organisations, and related terms
 
-* open rights group
 * big brother watch
 * british computer society
 * computer science
 * digital literacy
+* open rights group
+* reset.tech
+
 
 # Unicorns
 
@@ -241,6 +243,7 @@ without negatively impacting *everyone else*.
 * john carr
 * lorna woods
 * lynn perry
+* poppy wood
 * rachel de souza
 * shoshana zuboff
 * silkie carlo

@@ -23,8 +23,8 @@ comes from TheyWorkForYou and resubscription will be necessary.
 
 To help address this, we publish two resources:
 
-* a [RSS Feed of Updates to Searches](https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/UPDATES.rss)
-* an [OPML bundle of all feeds, *including* the Updates feed](https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/ALL-RSS-FEEDS.opml)
+* :repeat: a [RSS Feed of Updates to Searches](https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/UPDATES.rss)
+* :oil_drum: an [OPML bundle of all feeds, *including* the Updates feed](https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/ALL-RSS-FEEDS.opml)
 
 ...so from time to time you should be able to delete all feeds and
 re-import them via OPML, watching the Update feed for a trigger.

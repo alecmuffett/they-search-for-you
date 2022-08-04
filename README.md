@@ -48,6 +48,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * :point_right: [Search: Acts, Bills, Regulations, and Directives: related terms](https://www.theyworkforyou.com/search/?q=%22data%20protection%20and%20digital%20information%22%20OR%20%22data%20reform%20bill%22%20OR%20%22digital%20economy%20act%22%20OR%20%22digital%20economy%20bill%22%20OR%20%22digital%20markets%20act%22%20OR%20%22digital%20services%20act%22%20OR%20%22eprivacy%22%20OR%20%22investigatory%20powers%22%20OR%20%22national%20security%20act%22%20OR%20%22national%20security%20bill%22%20OR%20%22online%20harms%22%20OR%20%22online%20safety%22)
 * :repeat: [RSS Feed: Acts, Bills, Regulations, and Directives: related terms](https://www.theyworkforyou.com/search/rss/?s=%22data%20protection%20and%20digital%20information%22%20OR%20%22data%20reform%20bill%22%20OR%20%22digital%20economy%20act%22%20OR%20%22digital%20economy%20bill%22%20OR%20%22digital%20markets%20act%22%20OR%20%22digital%20services%20act%22%20OR%20%22eprivacy%22%20OR%20%22investigatory%20powers%22%20OR%20%22national%20security%20act%22%20OR%20%22national%20security%20bill%22%20OR%20%22online%20harms%22%20OR%20%22online%20safety%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -73,6 +74,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * :point_right: [Search: Age Verification companies, and related terms](https://www.theyworkforyou.com/search/?q=%22avpa%22%20OR%20%22dragonflai%22%20OR%20%22trustelevate%22%20OR%20%22verime%22%20OR%20%22voco%22%20OR%20%22yoti%22)
 * :repeat: [RSS Feed: Age Verification companies, and related terms](https://www.theyworkforyou.com/search/rss/?s=%22avpa%22%20OR%20%22dragonflai%22%20OR%20%22trustelevate%22%20OR%20%22verime%22%20OR%20%22voco%22%20OR%20%22yoti%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -92,6 +94,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * :point_right: [Search: Age Verification discussion](https://www.theyworkforyou.com/search/?q=%22age%20appropriate%20design%22%20OR%20%22age%20assurance%22%20OR%20%22age%20inappropriate%22%20OR%20%22age%20verification%22%20OR%20%22verification%20of%20children%22)
 * :repeat: [RSS Feed: Age Verification discussion](https://www.theyworkforyou.com/search/rss/?s=%22age%20appropriate%20design%22%20OR%20%22age%20assurance%22%20OR%20%22age%20inappropriate%22%20OR%20%22age%20verification%22%20OR%20%22verification%20of%20children%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -110,6 +113,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * :point_right: [Search: Child Sexual Abuse Imagery, and related terms](https://www.theyworkforyou.com/search/?q=%225rights%22%20OR%20%22breadcrumbing%22%20OR%20%22cccis%22%20OR%20%22ceop%22%20OR%20%22child%20pornography%22%20OR%20%22children%27s%20charities%27%20coalition%22%20OR%20%22childrens%20charities%27%20coalition%22%20OR%20%22csai%22%20OR%20%22csam%22%20OR%20%22csea%22%20OR%20%22grooming%22%20OR%20%22iioc%22%20OR%20%22iwf%22%20OR%20%22marie%20collins%22%20OR%20%22ncmec%22%20OR%20%22neuralhash%22%20OR%20%22neuralmatch%22%20OR%20%22photodna%22)
 * :repeat: [RSS Feed: Child Sexual Abuse Imagery, and related terms](https://www.theyworkforyou.com/search/rss/?s=%225rights%22%20OR%20%22breadcrumbing%22%20OR%20%22cccis%22%20OR%20%22ceop%22%20OR%20%22child%20pornography%22%20OR%20%22children%27s%20charities%27%20coalition%22%20OR%20%22childrens%20charities%27%20coalition%22%20OR%20%22csai%22%20OR%20%22csam%22%20OR%20%22csea%22%20OR%20%22grooming%22%20OR%20%22iioc%22%20OR%20%22iwf%22%20OR%20%22marie%20collins%22%20OR%20%22ncmec%22%20OR%20%22neuralhash%22%20OR%20%22neuralmatch%22%20OR%20%22photodna%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -141,6 +145,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * :point_right: [Search: Civil Society organisations, and related terms](https://www.theyworkforyou.com/search/?q=%22big%20brother%20watch%22%20OR%20%22british%20computer%20society%22%20OR%20%22computer%20science%22%20OR%20%22digital%20literacy%22%20OR%20%22open%20rights%20group%22)
 * :repeat: [RSS Feed: Civil Society organisations, and related terms](https://www.theyworkforyou.com/search/rss/?s=%22big%20brother%20watch%22%20OR%20%22british%20computer%20society%22%20OR%20%22computer%20science%22%20OR%20%22digital%20literacy%22%20OR%20%22open%20rights%20group%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -159,6 +164,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * :point_right: [Search: Data Protection](https://www.theyworkforyou.com/search/?q=%22data%20protection%22%20OR%20%22ico%22%20OR%20%22information%20commissioner%22%20OR%20%22schrems%22)
 * :repeat: [RSS Feed: Data Protection](https://www.theyworkforyou.com/search/rss/?s=%22data%20protection%22%20OR%20%22ico%22%20OR%20%22information%20commissioner%22%20OR%20%22schrems%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -176,6 +182,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * :point_right: [Search: Digital Identity Cards](https://www.theyworkforyou.com/search/?q=%22digital%20id%22%20OR%20%22digital%20identity%22)
 * :repeat: [RSS Feed: Digital Identity Cards](https://www.theyworkforyou.com/search/rss/?s=%22digital%20id%22%20OR%20%22digital%20identity%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -191,6 +198,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * :point_right: [Search: Encryption and Encrypted Services](https://www.theyworkforyou.com/search/?q=%22cryptographic%22%20OR%20%22cryptography%22%20OR%20%22dark%20net%22%20OR%20%22dark%20web%22%20OR%20%22darknet%22%20OR%20%22darkweb%22%20OR%20%22deep%20web%22%20OR%20%22deepweb%22%20OR%20%22dns-over-http%22%20OR%20%22dns-over-https%22%20OR%20%22doh%22%20OR%20%22encrypt%22%20OR%20%22encrypted%22%20OR%20%22encryption%22%20OR%20%22tor%20browser%22%20OR%20%22vpn%22%20OR%20%22vpns%22)
 * :repeat: [RSS Feed: Encryption and Encrypted Services](https://www.theyworkforyou.com/search/rss/?s=%22cryptographic%22%20OR%20%22cryptography%22%20OR%20%22dark%20net%22%20OR%20%22dark%20web%22%20OR%20%22darknet%22%20OR%20%22darkweb%22%20OR%20%22deep%20web%22%20OR%20%22deepweb%22%20OR%20%22dns-over-http%22%20OR%20%22dns-over-https%22%20OR%20%22doh%22%20OR%20%22encrypt%22%20OR%20%22encrypted%22%20OR%20%22encryption%22%20OR%20%22tor%20browser%22%20OR%20%22vpn%22%20OR%20%22vpns%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -221,6 +229,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * :point_right: [Search: GAFAM](https://www.theyworkforyou.com/search/?q=%22amazon%22%20OR%20%22apple%22%20OR%20%22facebook%22%20OR%20%22google%22%20OR%20%22instagram%22%20OR%20%22microsoft%22%20OR%20%22whatsapp%22%20OR%20%22youtube%22)
 * :repeat: [RSS Feed: GAFAM](https://www.theyworkforyou.com/search/rss/?s=%22amazon%22%20OR%20%22apple%22%20OR%20%22facebook%22%20OR%20%22google%22%20OR%20%22instagram%22%20OR%20%22microsoft%22%20OR%20%22whatsapp%22%20OR%20%22youtube%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -242,6 +251,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * :point_right: [Search: Gig Economy](https://www.theyworkforyou.com/search/?q=%22deliveroo%22%20OR%20%22gig%20economy%22%20OR%20%22uber%22)
 * :repeat: [RSS Feed: Gig Economy](https://www.theyworkforyou.com/search/rss/?s=%22deliveroo%22%20OR%20%22gig%20economy%22%20OR%20%22uber%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -258,6 +268,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * :point_right: [Search: Information Security and Cyber](https://www.theyworkforyou.com/search/?q=%22cyber%22%20OR%20%22cyberattack%22%20OR%20%22cyberattacks%22%20OR%20%22cyberbully%22%20OR%20%22cyberbullying%22%20OR%20%22cybercrime%22%20OR%20%22cybercrimes%22%20OR%20%22cybersecurity%22%20OR%20%22cyberwar%22%20OR%20%22disinformation%22%20OR%20%22hacker%22%20OR%20%22hacking%22%20-%22lord%20hacking%22%20OR%20%22infosec%22%20OR%20%22internet%20security%22%20OR%20%22network%20security%22%20OR%20%22telecoms%20security%22)
 * :repeat: [RSS Feed: Information Security and Cyber](https://www.theyworkforyou.com/search/rss/?s=%22cyber%22%20OR%20%22cyberattack%22%20OR%20%22cyberattacks%22%20OR%20%22cyberbully%22%20OR%20%22cyberbullying%22%20OR%20%22cybercrime%22%20OR%20%22cybercrimes%22%20OR%20%22cybersecurity%22%20OR%20%22cyberwar%22%20OR%20%22disinformation%22%20OR%20%22hacker%22%20OR%20%22hacking%22%20-%22lord%20hacking%22%20OR%20%22infosec%22%20OR%20%22internet%20security%22%20OR%20%22network%20security%22%20OR%20%22telecoms%20security%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -287,6 +298,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * :point_right: [Search: Intelligence Agencies, and related terms](https://www.theyworkforyou.com/search/?q=%22cesg%22%20OR%20%22gchq%22%20OR%20%22national%20crime%20agency%22%20OR%20%22national%20cyber%20security%20centre%22%20OR%20%22ncsc%22%20OR%20%22nsa%22)
 * :repeat: [RSS Feed: Intelligence Agencies, and related terms](https://www.theyworkforyou.com/search/rss/?s=%22cesg%22%20OR%20%22gchq%22%20OR%20%22national%20crime%20agency%22%20OR%20%22national%20cyber%20security%20centre%22%20OR%20%22ncsc%22%20OR%20%22nsa%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -306,6 +318,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * :point_right: [Search: Internet of Things](https://www.theyworkforyou.com/search/?q=%22internet%20of%20things%22%20OR%20%22iot%22)
 * :repeat: [RSS Feed: Internet of Things](https://www.theyworkforyou.com/search/rss/?s=%22internet%20of%20things%22%20OR%20%22iot%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -321,6 +334,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * :point_right: [Search: Machine Learning](https://www.theyworkforyou.com/search/?q=%22ai%22%20OR%20%22artificial%20intelligence%22%20OR%20%22image%20classifier%22%20OR%20%22image%20classifiers%22%20OR%20%22machine%20learning%22)
 * :repeat: [RSS Feed: Machine Learning](https://www.theyworkforyou.com/search/rss/?s=%22ai%22%20OR%20%22artificial%20intelligence%22%20OR%20%22image%20classifier%22%20OR%20%22image%20classifiers%22%20OR%20%22machine%20learning%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -341,6 +355,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 * :point_right: [Search: Messenger Apps](https://www.theyworkforyou.com/search/?q=%22facebook%20messenger%22%20OR%20%22messaging%20apps%22%20OR%20%22sms%22%20OR%20%22telegram%22%20OR%20%22text%20messaging%22%20OR%20%22viber%22%20OR%20%22whatsapp%22)
 * :repeat: [RSS Feed: Messenger Apps](https://www.theyworkforyou.com/search/rss/?s=%22facebook%20messenger%22%20OR%20%22messaging%20apps%22%20OR%20%22sms%22%20OR%20%22telegram%22%20OR%20%22text%20messaging%22%20OR%20%22viber%22%20OR%20%22whatsapp%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -361,6 +376,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 * :point_right: [Search: Meta Platforms](https://www.theyworkforyou.com/search/?q=%22facebook%22%20OR%20%22instagram%22%20OR%20%22metaverse%22%20OR%20%22whatsapp%22)
 * :repeat: [RSS Feed: Meta Platforms](https://www.theyworkforyou.com/search/rss/?s=%22facebook%22%20OR%20%22instagram%22%20OR%20%22metaverse%22%20OR%20%22whatsapp%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -378,6 +394,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 * :point_right: [Search: People: Corporate](https://www.theyworkforyou.com/search/?q=%22jack%20dorsey%22%20OR%20%22nick%20clegg%22%20OR%20%22sandberg%22%20OR%20%22zuckerberg%22)
 * :repeat: [RSS Feed: People: Corporate](https://www.theyworkforyou.com/search/rss/?s=%22jack%20dorsey%22%20OR%20%22nick%20clegg%22%20OR%20%22sandberg%22%20OR%20%22zuckerberg%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -395,6 +412,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 * :point_right: [Search: People: Pundits and Civil Society](https://www.theyworkforyou.com/search/?q=%22andy%20burrows%22%20OR%20%22frances%20haugen%22%20OR%20%22heather%20burns%22%20OR%20%22jim%20killock%22%20OR%20%22john%20carr%22%20OR%20%22lynn%20perry%22%20OR%20%22rachel%20de%20souza%22%20OR%20%22shoshana%20zuboff%22%20OR%20%22silkie%20carlo%22%20OR%20%22sonia%20livingstone%22)
 * :repeat: [RSS Feed: People: Pundits and Civil Society](https://www.theyworkforyou.com/search/rss/?s=%22andy%20burrows%22%20OR%20%22frances%20haugen%22%20OR%20%22heather%20burns%22%20OR%20%22jim%20killock%22%20OR%20%22john%20carr%22%20OR%20%22lynn%20perry%22%20OR%20%22rachel%20de%20souza%22%20OR%20%22shoshana%20zuboff%22%20OR%20%22silkie%20carlo%22%20OR%20%22sonia%20livingstone%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -418,6 +436,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 * :point_right: [Search: People: Topics](https://www.theyworkforyou.com/search/?q=%22berners%20lee%22)
 * :repeat: [RSS Feed: People: Topics](https://www.theyworkforyou.com/search/rss/?s=%22berners%20lee%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -432,6 +451,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 * :point_right: [Search: Profane Websites](https://www.theyworkforyou.com/search/?q=%224chan%22%20OR%20%228chan%22%20OR%20%22bitchute%22%20OR%20%22brandnewtube%22%20OR%20%22gab%22%20OR%20%22parler%22)
 * :repeat: [RSS Feed: Profane Websites](https://www.theyworkforyou.com/search/rss/?s=%224chan%22%20OR%20%228chan%22%20OR%20%22bitchute%22%20OR%20%22brandnewtube%22%20OR%20%22gab%22%20OR%20%22parler%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -451,6 +471,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 * :point_right: [Search: Social Media](https://www.theyworkforyou.com/search/?q=%22discord%22%20OR%20%22facebook%22%20OR%20%22fortnite%22%20OR%20%22imgur%22%20OR%20%22instagram%22%20OR%20%22reddit%22%20OR%20%22snapchat%22%20OR%20%22telegram%22%20OR%20%22tiktok%22%20OR%20%22twitch%22%20OR%20%22twitter%22%20OR%20%22viber%22%20OR%20%22vk%22%20OR%20%22whatsapp%22%20OR%20%22youtube%22)
 * :repeat: [RSS Feed: Social Media](https://www.theyworkforyou.com/search/rss/?s=%22discord%22%20OR%20%22facebook%22%20OR%20%22fortnite%22%20OR%20%22imgur%22%20OR%20%22instagram%22%20OR%20%22reddit%22%20OR%20%22snapchat%22%20OR%20%22telegram%22%20OR%20%22tiktok%22%20OR%20%22twitch%22%20OR%20%22twitter%22%20OR%20%22viber%22%20OR%20%22vk%22%20OR%20%22whatsapp%22%20OR%20%22youtube%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -481,6 +502,7 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 * :point_right: [Search: Socially Problematic Content](https://www.theyworkforyou.com/search/?q=%22disinformation%22%20OR%20%22fake%20news%22%20OR%20%22free%20speech%22%20OR%20%22hate%20speech%22)
 * :repeat: [RSS Feed: Socially Problematic Content](https://www.theyworkforyou.com/search/rss/?s=%22disinformation%22%20OR%20%22fake%20news%22%20OR%20%22free%20speech%22%20OR%20%22hate%20speech%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -498,6 +520,7 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 * :point_right: [Search: Trite Expressions](https://www.theyworkforyou.com/search/?q=%22should%20be%20illegal%20online%22%20OR%20%22surveillance%20capitalism%22%20OR%20%22what%20is%20illegal%20offline%22%20OR%20%22wild%20west%22)
 * :repeat: [RSS Feed: Trite Expressions](https://www.theyworkforyou.com/search/rss/?s=%22should%20be%20illegal%20online%22%20OR%20%22surveillance%20capitalism%22%20OR%20%22what%20is%20illegal%20offline%22%20OR%20%22wild%20west%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 
@@ -515,6 +538,7 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 * :point_right: [Search: Unicorns](https://www.theyworkforyou.com/search/?q=%22deliveroo%22%20OR%20%22monzo%22%20OR%20%22starling%22)
 * :repeat: [RSS Feed: Unicorns](https://www.theyworkforyou.com/search/rss/?s=%22deliveroo%22%20OR%20%22monzo%22%20OR%20%22starling%22)
 * :arrow_up: [Return to Index](#index)
+* :bulb: [Suggest an Improvement](/alecmuffett/they-search-for-you/issues)
 
 #### search terms
 

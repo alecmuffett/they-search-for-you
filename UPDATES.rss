@@ -10,68 +10,40 @@
 <description>TheySearchForYou Search-Query Updates</description>
 <language>en</language>
 <copyright>https://creativecommons.org/licenses/by/4.0/</copyright>
-<pubDate>Thu,  4 Aug 2022 19:01:30 +0000</pubDate>
-<lastBuildDate>Thu,  4 Aug 2022 19:01:30 +0000</lastBuildDate>
+<pubDate>Thu,  4 Aug 2022 19:03:09 +0000</pubDate>
+<lastBuildDate>Thu,  4 Aug 2022 19:03:09 +0000</lastBuildDate>
 <managingEditor>alec.muffett@gmail.com</managingEditor>
 <webMaster>alec.muffett@gmail.com</webMaster>
 
 <item>
-<title>rss/20220804-183419+0000.diff.txt</title>
+<title>rss/20220804-190308+0000.diff.txt</title>
 <description>&#x3C;p&#x3E;updated search query:&#x3C;/p&#x3E;
-&#x3C;pre&#x3E;*** old-searches.md	2022-08-04 19:33:52.000000000 +0100
---- raw-searches.md	2022-08-04 19:34:18.000000000 +0100
-***************
-*** 242,249 ****
-  
-  See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
-  
-- * vawg
-- * hate speech
-- * free speech
-- * fake news
-  * disinformation
---- 242,249 ----
-  
-  See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
-  
-  * disinformation
-+ * fake news
-+ * free speech
-+ * hate speech
-+ * vawg
-&#x3C;/pre&#x3E;
-</description>
-<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-183419+0000.diff.txt</guid>
-</item>
-<item>
-<title>rss/20220804-190129+0000.diff.txt</title>
-<description>&#x3C;p&#x3E;updated search query:&#x3C;/p&#x3E;
-&#x3C;pre&#x3E;*** old-searches.md	2022-08-04 19:34:19.000000000 +0100
---- raw-searches.md	2022-08-04 20:01:26.000000000 +0100
+&#x3C;pre&#x3E;*** old-searches.md	2022-08-04 20:01:30.000000000 +0100
+--- raw-searches.md	2022-08-04 20:03:06.000000000 +0100
 ***************
 *** 1,9 ****
   # Meta Platforms
   
-- * facebook
-- * instagram
+- * whatsapp
 - * metaverse
-  * whatsapp
+- * instagram
+  * facebook
   
   # Social Media
   
 --- 1,9 ----
   # Meta Platforms
   
-  * whatsapp
-+ * metaverse
+  * facebook
 + * instagram
-+ * facebook
++ * metaverse
++ * whatsapp
   
   # Social Media
   
 &#x3C;/pre&#x3E;
 </description>
-<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-190129+0000.diff.txt</guid>
+<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-190308+0000.diff.txt</guid>
 </item>
 </channel>
 </rss>

@@ -71,7 +71,7 @@ while (<>) {
 sub Queryify {
     my @stack = ();
     for my $term (sort(@_)) {
-	unless ($term =~ /[\"\'\(\)]/) { # using squot, dquot or parens excludes the term from wrapping
+	unless ($term =~ /[\"\(\)]/) { # using dquot or parens excludes the term from wrapping
 	    $term = "\"$term\"";
 	}
 	push(@stack, $term);

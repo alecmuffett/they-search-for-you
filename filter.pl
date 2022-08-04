@@ -117,7 +117,9 @@ foreach $current (sort(@titles)) {
 	printf("* :point_right: [Search: %s](%s)\n", $current, $url_web);
 	printf("* :repeat: [RSS Feed: %s](%s)\n", $current, $url_rss);
 	printf("* :arrow_up: [%s](%s)\n", 'Return to Index', '#index');
-	printf("* :bulb: [%s](%s)\n", 'Suggest an Improvement', '/alecmuffett/they-search-for-you/issues');
+	printf("* :bulb: [%s](%s)\n", 'Suggest an Improvement', '../../issues/new');
+
+	# https://github.com/alecmuffett/they-search-for-you/blob/main/alecmuffett/they-search-for-you/issues
 	print("\n");
 
 	print("#### search terms\n\n");

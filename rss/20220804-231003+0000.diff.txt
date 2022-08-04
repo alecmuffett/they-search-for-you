@@ -1,0 +1,29 @@
+*** old-searches.md	2022-08-04 23:15:05.000000000 +0100
+--- raw-searches.md	2022-08-05 00:08:23.000000000 +0100
+***************
+*** 191,197 ****
+  * disinformation
+  * hack and leak
+  * hacker
+! * hacking" -"lord hacking
+  * infosec
+  * internet security
+  * network security
+--- 191,197 ----
+  * disinformation
+  * hack and leak
+  * hacker
+! * "hacking" -"lord hacking"
+  * infosec
+  * internet security
+  * network security
+***************
+*** 283,285 ****
+--- 283,289 ----
+  * hate speech
+  * revenge porn
+  * vawg
++ 
++ # Attempting to Reboot Digital Economy Act Part 3
++ 
++ * "digital economy act" NEAR "part 3"

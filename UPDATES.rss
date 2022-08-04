@@ -10,8 +10,8 @@
 <description>TheySearchForYou Search-Query Updates</description>
 <language>en</language>
 <copyright>https://creativecommons.org/licenses/by/4.0/</copyright>
-<pubDate>Thu,  4 Aug 2022 22:15:05 +0000</pubDate>
-<lastBuildDate>Thu,  4 Aug 2022 22:15:05 +0000</lastBuildDate>
+<pubDate>Thu,  4 Aug 2022 23:10:04 +0000</pubDate>
+<lastBuildDate>Thu,  4 Aug 2022 23:10:04 +0000</lastBuildDate>
 <managingEditor>alec.muffett@gmail.com</managingEditor>
 <webMaster>alec.muffett@gmail.com</webMaster>
 
@@ -558,6 +558,42 @@
 &#x3C;/pre&#x3E;
 </description>
 <guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-221505+0000.diff.txt</guid>
+</item>
+<item>
+<title>rss/20220804-231003+0000.diff.txt</title>
+<description>&#x3C;p&#x3E;updated search query:&#x3C;/p&#x3E;
+&#x3C;pre&#x3E;*** old-searches.md	2022-08-04 23:15:05.000000000 +0100
+--- raw-searches.md	2022-08-05 00:08:23.000000000 +0100
+***************
+*** 191,197 ****
+  * disinformation
+  * hack and leak
+  * hacker
+! * hacking&#x22; -&#x22;lord hacking
+  * infosec
+  * internet security
+  * network security
+--- 191,197 ----
+  * disinformation
+  * hack and leak
+  * hacker
+! * &#x22;hacking&#x22; -&#x22;lord hacking&#x22;
+  * infosec
+  * internet security
+  * network security
+***************
+*** 283,285 ****
+--- 283,289 ----
+  * hate speech
+  * revenge porn
+  * vawg
++ 
++ # Attempting to Reboot Digital Economy Act Part 3
++ 
++ * &#x22;digital economy act&#x22; NEAR &#x22;part 3&#x22;
+&#x3C;/pre&#x3E;
+</description>
+<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-231003+0000.diff.txt</guid>
 </item>
 </channel>
 </rss>

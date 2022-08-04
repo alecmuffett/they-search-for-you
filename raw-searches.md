@@ -191,7 +191,7 @@ without negatively impacting *everyone else*.
 * disinformation
 * hack and leak
 * hacker
-* hacking" -"lord hacking
+* "hacking" -"lord hacking"
 * infosec
 * internet security
 * network security
@@ -283,3 +283,7 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 * hate speech
 * revenge porn
 * vawg
+
+# Attempting to Reboot Digital Economy Act Part 3
+
+* "digital economy act" NEAR "part 3"

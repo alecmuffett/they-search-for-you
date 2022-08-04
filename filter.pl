@@ -48,7 +48,9 @@ while (<>) {
     if (/^\*\s+(.*)/) {
 	my $ref = $terms{$current};
 	my $text = $1;
-	$text =~ tr/A-Z/a-z/;
+	unless ($text =~ /\s([A-Z]{2,})\s/) { # infix UPPERCASEWORD prevents lowercasing, because OPERATORS
+	    $text =~ tr/A-Z/a-z/;
+	}
 	if ($ref) {
 	    push(@{$ref}, $text);
 	} else {
@@ -69,7 +71,10 @@ while (<>) {
 sub Queryify {
     my @stack = ();
     for my $term (sort(@_)) {
-	push(@stack, "\"$term\"");
+	unless ($term =~ /[\"\'\(\)]/) { # using squot, dquot or parens excludes the term from wrapping
+	    $term = "\"$term\"";
+	}
+	push(@stack, $term);
     }
     my $result = join(' OR ', @stack);
     $result = url_encode_utf8($result);

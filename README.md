@@ -48,6 +48,7 @@ will see how it develops.
 
 * [Acts, Bills, Regulations, and Directives: related terms](#acts-bills-regulations-and-directives-related-terms)
 * [Age Verification companies, and related terms](#age-verification-companies-and-related-terms)
+* [Attempting to Reboot Digital Economy Act Part 3](#attempting-to-reboot-digital-economy-act-part-3)
 * [Child Sexual Abuse Imagery, and related terms](#child-sexual-abuse-imagery-and-related-terms)
 * [Civil Society organisations, and related terms](#civil-society-organisations-and-related-terms)
 * [Data Protection](#data-protection)
@@ -83,18 +84,18 @@ will see how it develops.
 #### search terms
 
 ```
-* data protection and digital information
-* data reform bill
-* digital economy act
-* digital economy bill
-* digital markets act
-* digital services act
-* eprivacy
-* investigatory powers
-* national security act
-* national security bill
-* online harms
-* online safety
+* "data protection and digital information"
+* "data reform bill"
+* "digital economy act"
+* "digital economy bill"
+* "digital markets act"
+* "digital services act"
+* "eprivacy"
+* "investigatory powers"
+* "national security act"
+* "national security bill"
+* "online harms"
+* "online safety"
 ```
 
 ## Age Verification companies, and related terms
@@ -110,27 +111,43 @@ will see how it develops.
 #### search terms
 
 ```
-* age appropriate design
-* age assurance
-* age inappropriate
-* age verification
-* age verification providers association
-* avpa
-* dragonflai
-* pas 1296
-* trustelevate
-* verification of children
-* verime
-* voco
-* yoti
+* "age appropriate design"
+* "age assurance"
+* "age inappropriate"
+* "age verification providers association"
+* "age verification"
+* "avpa"
+* "dragonflai"
+* "pas 1296"
+* "trustelevate"
+* "verification of children"
+* "verime"
+* "voco"
+* "yoti"
+```
+
+## Attempting to Reboot Digital Economy Act Part 3
+
+### links
+
+* :point_right: [Search: Attempting to Reboot Digital Economy Act Part 3](https://www.theyworkforyou.com/search/?q=%22digital+economy+act%22+NEAR+%22part+3%22)
+* :repeat: [RSS Feed: Attempting to Reboot Digital Economy Act Part 3](https://www.theyworkforyou.com/search/rss/?s=%22digital+economy+act%22+NEAR+%22part+3%22)
+* :heart: [Share 'Attempting to Reboot Digital Economy Act Part 3' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Attempting%20to%20Reboot%20Digital%20Economy%20Act%20Part%203%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23attempting-to-reboot-digital-economy-act-part-3)
+* :bulb: [Suggest an Improvement](../../issues/new)
+* :arrow_up: [Return to Index](#index)
+
+#### search terms
+
+```
+* "digital economy act" NEAR "part 3"
 ```
 
 ## Child Sexual Abuse Imagery, and related terms
 
 ### links
 
-* :point_right: [Search: Child Sexual Abuse Imagery, and related terms](https://www.theyworkforyou.com/search/?q=%225rights%22+OR+%22breadcrumbing%22+OR+%22cccis%22+OR+%22ceop%22+OR+%22child+pornography%22+OR+%22children%27s+charities%27+coalition%22+OR+%22childrens+charities%27+coalition%22+OR+%22csai%22+OR+%22csam%22+OR+%22csea%22+OR+%22csem%22+OR+%22grooming%22+OR+%22iioc%22+OR+%22ijm%22+OR+%22indecent+images%22+OR+%22international+justice+mission%22+OR+%22iwf%22+OR+%22marie+collins%22+OR+%22ncmec%22+OR+%22neuralhash%22+OR+%22neuralmatch%22+OR+%22photodna%22+OR+%22uk+safer+internet%22)
-* :repeat: [RSS Feed: Child Sexual Abuse Imagery, and related terms](https://www.theyworkforyou.com/search/rss/?s=%225rights%22+OR+%22breadcrumbing%22+OR+%22cccis%22+OR+%22ceop%22+OR+%22child+pornography%22+OR+%22children%27s+charities%27+coalition%22+OR+%22childrens+charities%27+coalition%22+OR+%22csai%22+OR+%22csam%22+OR+%22csea%22+OR+%22csem%22+OR+%22grooming%22+OR+%22iioc%22+OR+%22ijm%22+OR+%22indecent+images%22+OR+%22international+justice+mission%22+OR+%22iwf%22+OR+%22marie+collins%22+OR+%22ncmec%22+OR+%22neuralhash%22+OR+%22neuralmatch%22+OR+%22photodna%22+OR+%22uk+safer+internet%22)
+* :point_right: [Search: Child Sexual Abuse Imagery, and related terms](https://www.theyworkforyou.com/search/?q=%225rights%22+OR+%22breadcrumbing%22+OR+%22cccis%22+OR+%22ceop%22+OR+%22child+pornography%22+OR+children%27s+charities%27+coalition+OR+childrens+charities%27+coalition+OR+%22csai%22+OR+%22csam%22+OR+%22csea%22+OR+%22csem%22+OR+%22grooming%22+OR+%22iioc%22+OR+%22ijm%22+OR+%22indecent+images%22+OR+%22international+justice+mission%22+OR+%22iwf%22+OR+%22marie+collins%22+OR+%22ncmec%22+OR+%22neuralhash%22+OR+%22neuralmatch%22+OR+%22photodna%22+OR+%22uk+safer+internet%22)
+* :repeat: [RSS Feed: Child Sexual Abuse Imagery, and related terms](https://www.theyworkforyou.com/search/rss/?s=%225rights%22+OR+%22breadcrumbing%22+OR+%22cccis%22+OR+%22ceop%22+OR+%22child+pornography%22+OR+children%27s+charities%27+coalition+OR+childrens+charities%27+coalition+OR+%22csai%22+OR+%22csam%22+OR+%22csea%22+OR+%22csem%22+OR+%22grooming%22+OR+%22iioc%22+OR+%22ijm%22+OR+%22indecent+images%22+OR+%22international+justice+mission%22+OR+%22iwf%22+OR+%22marie+collins%22+OR+%22ncmec%22+OR+%22neuralhash%22+OR+%22neuralmatch%22+OR+%22photodna%22+OR+%22uk+safer+internet%22)
 * :heart: [Share 'Child Sexual Abuse Imagery, and related terms' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Child%20Sexual%20Abuse%20Imagery%2C%20and%20related%20terms%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23child-sexual-abuse-imagery-and-related-terms)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
@@ -138,29 +155,29 @@ will see how it develops.
 #### search terms
 
 ```
-* 5rights
-* breadcrumbing
-* cccis
-* ceop
-* child pornography
+* "5rights"
+* "breadcrumbing"
+* "cccis"
+* "ceop"
+* "child pornography"
+* "csai"
+* "csam"
+* "csea"
+* "csem"
+* "grooming"
+* "iioc"
+* "ijm"
+* "indecent images"
+* "international justice mission"
+* "iwf"
+* "marie collins"
+* "ncmec"
+* "neuralhash"
+* "neuralmatch"
+* "photodna"
+* "uk safer internet"
 * children's charities' coalition
 * childrens charities' coalition
-* csai
-* csam
-* csea
-* csem
-* grooming
-* iioc
-* ijm
-* indecent images
-* international justice mission
-* iwf
-* marie collins
-* ncmec
-* neuralhash
-* neuralmatch
-* photodna
-* uk safer internet
 ```
 
 ## Civil Society organisations, and related terms
@@ -176,20 +193,20 @@ will see how it develops.
 #### search terms
 
 ```
-* big brother watch
-* british computer society
-* computer science
-* digital literacy
-* open rights group
-* reset.tech
+* "big brother watch"
+* "british computer society"
+* "computer science"
+* "digital literacy"
+* "open rights group"
+* "reset.tech"
 ```
 
 ## Data Protection
 
 ### links
 
-* :point_right: [Search: Data Protection](https://www.theyworkforyou.com/search/?q=%22data+protection%22+OR+%22ico%22+OR+%22information+commissioner%22+OR+%22information+commissioner%27s%22+OR+%22information+commissioners%22+OR+%22schrems%22)
-* :repeat: [RSS Feed: Data Protection](https://www.theyworkforyou.com/search/rss/?s=%22data+protection%22+OR+%22ico%22+OR+%22information+commissioner%22+OR+%22information+commissioner%27s%22+OR+%22information+commissioners%22+OR+%22schrems%22)
+* :point_right: [Search: Data Protection](https://www.theyworkforyou.com/search/?q=%22data+protection%22+OR+%22ico%22+OR+%22information+commissioner%22+OR+information+commissioner%27s+OR+%22information+commissioners%22+OR+%22schrems%22)
+* :repeat: [RSS Feed: Data Protection](https://www.theyworkforyou.com/search/rss/?s=%22data+protection%22+OR+%22ico%22+OR+%22information+commissioner%22+OR+information+commissioner%27s+OR+%22information+commissioners%22+OR+%22schrems%22)
 * :heart: [Share 'Data Protection' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Data%20Protection%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23data-protection)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
@@ -197,12 +214,12 @@ will see how it develops.
 #### search terms
 
 ```
-* data protection
-* ico
-* information commissioner
+* "data protection"
+* "ico"
+* "information commissioner"
+* "information commissioners"
+* "schrems"
 * information commissioner's
-* information commissioners
-* schrems
 ```
 
 ## Digital Identity Cards
@@ -218,8 +235,8 @@ will see how it develops.
 #### search terms
 
 ```
-* digital id
-* digital identity
+* "digital id"
+* "digital identity"
 ```
 
 ## Encryption and Encrypted Services
@@ -235,23 +252,23 @@ will see how it develops.
 #### search terms
 
 ```
-* cryptographic
-* cryptography
-* dark net
-* dark web
-* darknet
-* darkweb
-* deep web
-* deepweb
-* dns-over-http
-* dns-over-https
-* doh
-* encrypt
-* encrypted
-* encryption
-* tor browser
-* vpn
-* vpns
+* "cryptographic"
+* "cryptography"
+* "dark net"
+* "dark web"
+* "darknet"
+* "darkweb"
+* "deep web"
+* "deepweb"
+* "dns-over-http"
+* "dns-over-https"
+* "doh"
+* "encrypt"
+* "encrypted"
+* "encryption"
+* "tor browser"
+* "vpn"
+* "vpns"
 ```
 
 ## GAFAM
@@ -267,14 +284,14 @@ will see how it develops.
 #### search terms
 
 ```
-* amazon
-* apple
-* facebook
-* google
-* instagram
-* microsoft
-* whatsapp
-* youtube
+* "amazon"
+* "apple"
+* "facebook"
+* "google"
+* "instagram"
+* "microsoft"
+* "whatsapp"
+* "youtube"
 ```
 
 ## Gig Economy
@@ -290,17 +307,17 @@ will see how it develops.
 #### search terms
 
 ```
-* deliveroo
-* gig economy
-* uber
+* "deliveroo"
+* "gig economy"
+* "uber"
 ```
 
 ## Information Security and Cyber
 
 ### links
 
-* :point_right: [Search: Information Security and Cyber](https://www.theyworkforyou.com/search/?q=%22cyber%22+OR+%22cyberattack%22+OR+%22cyberattacks%22+OR+%22cyberbully%22+OR+%22cyberbullying%22+OR+%22cybercrime%22+OR+%22cybercrimes%22+OR+%22cybersecurity%22+OR+%22cyberwar%22+OR+%22disinformation%22+OR+%22hack+and+leak%22+OR+%22hacker%22+OR+%22hacking%22+-%22lord+hacking%22+OR+%22infosec%22+OR+%22internet+security%22+OR+%22network+security%22+OR+%22telecoms+security%22+OR+%22whistleblowers%22+OR+%22whistleblowing%22)
-* :repeat: [RSS Feed: Information Security and Cyber](https://www.theyworkforyou.com/search/rss/?s=%22cyber%22+OR+%22cyberattack%22+OR+%22cyberattacks%22+OR+%22cyberbully%22+OR+%22cyberbullying%22+OR+%22cybercrime%22+OR+%22cybercrimes%22+OR+%22cybersecurity%22+OR+%22cyberwar%22+OR+%22disinformation%22+OR+%22hack+and+leak%22+OR+%22hacker%22+OR+%22hacking%22+-%22lord+hacking%22+OR+%22infosec%22+OR+%22internet+security%22+OR+%22network+security%22+OR+%22telecoms+security%22+OR+%22whistleblowers%22+OR+%22whistleblowing%22)
+* :point_right: [Search: Information Security and Cyber](https://www.theyworkforyou.com/search/?q=%22hacking%22+-%22lord+hacking%22+OR+%22cyber%22+OR+%22cyberattack%22+OR+%22cyberattacks%22+OR+%22cyberbully%22+OR+%22cyberbullying%22+OR+%22cybercrime%22+OR+%22cybercrimes%22+OR+%22cybersecurity%22+OR+%22cyberwar%22+OR+%22disinformation%22+OR+%22hack+and+leak%22+OR+%22hacker%22+OR+%22infosec%22+OR+%22internet+security%22+OR+%22network+security%22+OR+%22telecoms+security%22+OR+%22whistleblowers%22+OR+%22whistleblowing%22)
+* :repeat: [RSS Feed: Information Security and Cyber](https://www.theyworkforyou.com/search/rss/?s=%22hacking%22+-%22lord+hacking%22+OR+%22cyber%22+OR+%22cyberattack%22+OR+%22cyberattacks%22+OR+%22cyberbully%22+OR+%22cyberbullying%22+OR+%22cybercrime%22+OR+%22cybercrimes%22+OR+%22cybersecurity%22+OR+%22cyberwar%22+OR+%22disinformation%22+OR+%22hack+and+leak%22+OR+%22hacker%22+OR+%22infosec%22+OR+%22internet+security%22+OR+%22network+security%22+OR+%22telecoms+security%22+OR+%22whistleblowers%22+OR+%22whistleblowing%22)
 * :heart: [Share 'Information Security and Cyber' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Information%20Security%20and%20Cyber%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23information-security-and-cyber)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
@@ -308,25 +325,25 @@ will see how it develops.
 #### search terms
 
 ```
-* cyber
-* cyberattack
-* cyberattacks
-* cyberbully
-* cyberbullying
-* cybercrime
-* cybercrimes
-* cybersecurity
-* cyberwar
-* disinformation
-* hack and leak
-* hacker
-* hacking" -"lord hacking
-* infosec
-* internet security
-* network security
-* telecoms security
-* whistleblowers
-* whistleblowing
+* "cyber"
+* "cyberattack"
+* "cyberattacks"
+* "cyberbully"
+* "cyberbullying"
+* "cybercrime"
+* "cybercrimes"
+* "cybersecurity"
+* "cyberwar"
+* "disinformation"
+* "hack and leak"
+* "hacker"
+* "hacking" -"lord hacking"
+* "infosec"
+* "internet security"
+* "network security"
+* "telecoms security"
+* "whistleblowers"
+* "whistleblowing"
 ```
 
 ## Intelligence Agencies, and related terms
@@ -342,12 +359,12 @@ will see how it develops.
 #### search terms
 
 ```
-* cesg
-* gchq
-* national crime agency
-* national cyber security centre
-* ncsc
-* nsa
+* "cesg"
+* "gchq"
+* "national crime agency"
+* "national cyber security centre"
+* "ncsc"
+* "nsa"
 ```
 
 ## Internet of Things
@@ -363,8 +380,8 @@ will see how it develops.
 #### search terms
 
 ```
-* internet of things
-* iot
+* "internet of things"
+* "iot"
 ```
 
 ## Machine Learning
@@ -380,11 +397,11 @@ will see how it develops.
 #### search terms
 
 ```
-* ai
-* artificial intelligence
-* image classifier
-* image classifiers
-* machine learning
+* "ai"
+* "artificial intelligence"
+* "image classifier"
+* "image classifiers"
+* "machine learning"
 ```
 
 ## Messenger Apps
@@ -402,13 +419,13 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 #### search terms
 
 ```
-* facebook messenger
-* messaging apps
-* sms
-* telegram
-* text messaging
-* viber
-* whatsapp
+* "facebook messenger"
+* "messaging apps"
+* "sms"
+* "telegram"
+* "text messaging"
+* "viber"
+* "whatsapp"
 ```
 
 ## Meta Platforms
@@ -424,10 +441,10 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 #### search terms
 
 ```
-* facebook
-* instagram
-* metaverse
-* whatsapp
+* "facebook"
+* "instagram"
+* "metaverse"
+* "whatsapp"
 ```
 
 ## People: Corporate
@@ -443,10 +460,10 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 #### search terms
 
 ```
-* jack dorsey
-* nick clegg
-* sandberg
-* zuckerberg
+* "jack dorsey"
+* "nick clegg"
+* "sandberg"
+* "zuckerberg"
 ```
 
 ## People: Pundits and Civil Society
@@ -462,21 +479,21 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 #### search terms
 
 ```
-* andy burrows
-* clare mcglynn
-* frances haugen
-* heather burns
-* iain corby
-* jim killock
-* john carr
-* lorna woods
-* lynn perry
-* poppy wood
-* rachel de souza
-* shoshana zuboff
-* silkie carlo
-* sonia livingstone
-* william perrin
+* "andy burrows"
+* "clare mcglynn"
+* "frances haugen"
+* "heather burns"
+* "iain corby"
+* "jim killock"
+* "john carr"
+* "lorna woods"
+* "lynn perry"
+* "poppy wood"
+* "rachel de souza"
+* "shoshana zuboff"
+* "silkie carlo"
+* "sonia livingstone"
+* "william perrin"
 ```
 
 ## People: Topics
@@ -492,7 +509,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 #### search terms
 
 ```
-* berners lee
+* "berners lee"
 ```
 
 ## Profane Websites
@@ -508,16 +525,16 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 #### search terms
 
 ```
-* 4chan
-* 8chan
-* bitchute
-* brandnewtube
-* gab
-* mindgeek
-* omegle
-* onlyfans
-* parler
-* pornhub
+* "4chan"
+* "8chan"
+* "bitchute"
+* "brandnewtube"
+* "gab"
+* "mindgeek"
+* "omegle"
+* "onlyfans"
+* "parler"
+* "pornhub"
 ```
 
 ## Social Media
@@ -533,23 +550,23 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 #### search terms
 
 ```
-* bumble
-* discord
-* facebook
-* fortnite
-* imgur
-* instagram
-* onlyfans
-* reddit
-* snapchat
-* telegram
-* tiktok
-* twitch
-* twitter
-* viber
-* vk
-* whatsapp
-* youtube
+* "bumble"
+* "discord"
+* "facebook"
+* "fortnite"
+* "imgur"
+* "instagram"
+* "onlyfans"
+* "reddit"
+* "snapchat"
+* "telegram"
+* "tiktok"
+* "twitch"
+* "twitter"
+* "viber"
+* "vk"
+* "whatsapp"
+* "youtube"
 ```
 
 ## Socially Problematic Content
@@ -567,15 +584,15 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 #### search terms
 
 ```
-* algorithms
-* cross-platform harms
-* disinformation
-* fake news
-* free speech
-* harmful content
-* hate speech
-* revenge porn
-* vawg
+* "algorithms"
+* "cross-platform harms"
+* "disinformation"
+* "fake news"
+* "free speech"
+* "harmful content"
+* "hate speech"
+* "revenge porn"
+* "vawg"
 ```
 
 ## Trite Expressions
@@ -593,15 +610,15 @@ Observation: you don't make something secure, safe, or private "by design"; inst
 #### search terms
 
 ```
-* privacy by design
-* safe by design
-* safety by design
-* secure by design
-* security by design
-* should be illegal online
-* surveillance capitalism
-* what is illegal offline
-* wild west
+* "privacy by design"
+* "safe by design"
+* "safety by design"
+* "secure by design"
+* "security by design"
+* "should be illegal online"
+* "surveillance capitalism"
+* "what is illegal offline"
+* "wild west"
 ```
 
 ## Unicorns
@@ -617,8 +634,8 @@ Observation: you don't make something secure, safe, or private "by design"; inst
 #### search terms
 
 ```
-* deliveroo
-* monzo
-* starling
+* "deliveroo"
+* "monzo"
+* "starling"
 ```
 

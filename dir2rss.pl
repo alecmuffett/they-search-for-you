@@ -7,6 +7,7 @@ use DateTime;
 use URI::Escape;
 use XML::RSS;
 use utf8;
+use File::Slurp qw(read_file);
 
 my $current = 'none';
 my $now = DateTime->now(); # UTC default
@@ -31,9 +32,10 @@ $rss->channel(
     );
 
 foreach my $path (@ARGV) {
+    $content = read_file $path, {binmode => ':utf8'};
     $rss->add_item(
 	title => $path,
-        description => "updated search query terms are described in $path",
+        description => "<p>updated search query:</p>\n<pre>$content</pre>\n",
         permaLink  => "$root/$path",
 	);
 }

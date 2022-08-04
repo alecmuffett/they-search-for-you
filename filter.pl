@@ -6,7 +6,7 @@ use URI::Escape;
 use XML::OPML;
 
 $current = 'none';
-$feeds = 'FEEDS.opml';
+$feeds = 'ALL-RSS-FEEDS.opml';
 $url_improvement = '../../issues/new';
 $xml_date = 'Mon, 1 Jan 2022 00:00:00 GMT';
 $xml_email = 'alec.muffett@gmail.com';

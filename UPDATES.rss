@@ -10,8 +10,8 @@
 <description>TheySearchForYou Search-Query Updates</description>
 <language>en</language>
 <copyright>https://creativecommons.org/licenses/by/4.0/</copyright>
-<pubDate>Thu,  4 Aug 2022 20:14:59 +0000</pubDate>
-<lastBuildDate>Thu,  4 Aug 2022 20:14:59 +0000</lastBuildDate>
+<pubDate>Thu,  4 Aug 2022 20:27:15 +0000</pubDate>
+<lastBuildDate>Thu,  4 Aug 2022 20:27:15 +0000</lastBuildDate>
 <managingEditor>alec.muffett@gmail.com</managingEditor>
 <webMaster>alec.muffett@gmail.com</webMaster>
 
@@ -271,6 +271,32 @@
 &#x3C;/pre&#x3E;
 </description>
 <guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-201459+0000.diff.txt</guid>
+</item>
+<item>
+<title>rss/20220804-202714+0000.diff.txt</title>
+<description>&#x3C;p&#x3E;updated search query:&#x3C;/p&#x3E;
+&#x3C;pre&#x3E;*** old-searches.md	2022-08-04 21:14:59.000000000 +0100
+--- raw-searches.md	2022-08-04 21:27:05.000000000 +0100
+***************
+*** 125,130 ****
+--- 125,138 ----
+  
+  # Trite Expressions
+  
++ Observation: you don&#x27;t make something secure, safe, or private &#x22;by
++ design&#x22;; instead you create a &#x22;threat model&#x22; and assess the threats
++ that your assets or solution faces. Some of those threats may be
++ externalities - negative impact beyond the immediate scope of your
++ solution - but those need to be weighed against the positive impacts
++ and benefits that your solution also offers, plus: there is only so
++ far you can progress towards mitigating other people&#x27;s problems.
++ 
+  * privacy by design
+  * safe by design
+  * safety by design
+&#x3C;/pre&#x3E;
+</description>
+<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-202714+0000.diff.txt</guid>
 </item>
 </channel>
 </rss>

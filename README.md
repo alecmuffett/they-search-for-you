@@ -561,6 +561,8 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 
 ## Trite Expressions
 
+Observation: you don't make something secure, safe, or private "by design"; instead you create a "threat model" and assess the threats that your assets or solution faces. Some of those threats may be externalities - negative impact beyond the immediate scope of your solution - but those need to be weighed against the positive impacts and benefits that your solution also offers, plus: there is only so far you can progress towards mitigating other people's problems.
+
 ### links
 
 * :point_right: [Search: Trite Expressions](https://www.theyworkforyou.com/search/?q=%22privacy+by+design%22+OR+%22safe+by+design%22+OR+%22safety+by+design%22+OR+%22secure+by+design%22+OR+%22security+by+design%22+OR+%22should+be+illegal+online%22+OR+%22surveillance+capitalism%22+OR+%22what+is+illegal+offline%22+OR+%22wild+west%22)

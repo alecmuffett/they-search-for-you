@@ -132,7 +132,7 @@ externalities - negative impact beyond the immediate scope of your
 solution - but those need to be weighed against the positive impacts
 and benefits that your solution also offers, plus: there is only so
 far you can progress towards mitigating other people's challenges
-without negatively impacting everyone *else*.
+without negatively impacting *everyone else*.
 
 * privacy by design
 * safe by design

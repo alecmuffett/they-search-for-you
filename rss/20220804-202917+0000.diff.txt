@@ -1,0 +1,19 @@
+*** old-searches.md	2022-08-04 21:28:35.000000000 +0100
+--- raw-searches.md	2022-08-04 21:29:00.000000000 +0100
+***************
+*** 132,138 ****
+  solution - but those need to be weighed against the positive impacts
+  and benefits that your solution also offers, plus: there is only so
+  far you can progress towards mitigating other people's challenges
+! without negatively impacting everyone *else*.
+  
+  * privacy by design
+  * safe by design
+--- 132,138 ----
+  solution - but those need to be weighed against the positive impacts
+  and benefits that your solution also offers, plus: there is only so
+  far you can progress towards mitigating other people's challenges
+! without negatively impacting *everyone else*.
+  
+  * privacy by design
+  * safe by design

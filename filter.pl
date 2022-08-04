@@ -5,23 +5,25 @@ use utf8;
 use URI::Escape;
 use XML::OPML;
 
-$datestamp = 'YYMMDDHHMMSS';
+$current = 'none';
+$feeds = 'FEEDS.opml';
+$url_improvement = '../../issues/new';
 $xml_date = 'Mon, 1 Jan 2022 00:00:00 GMT';
 $xml_email = 'alec.muffett@gmail.com';
 $xml_name = 'Alec Muffett';
-$feeds = 'FEEDS.opml';
-$current = 'none';
+$xml_title = 'TheySearchForYou';
+
 @titles = ();
 %verbiage = ();
 %terms = ();
 $opml = new XML::OPML(version => "1.1"); # https://metacpan.org/pod/XML::OPML
 
 $opml->head(
-    title => "TheyWorkForYou $datestamp",
     dateCreated => $xml_date,
     dateModified => $xml_date,
-    ownerName => $xml_name,
     ownerEmail => $xml_email,
+    ownerName => $xml_name,
+    title => $xml_title,
     );
 
 while (<>) {
@@ -87,6 +89,10 @@ sub RSSURL {
     return "https://www.theyworkforyou.com/search/rss/?s=$query";
 }
 
+sub ShareURL {
+    return '';
+}
+
 print("## Index\n\n");
 foreach $current (sort(@titles)) {
     printf("* [%s](#%s)\n",
@@ -103,7 +109,7 @@ foreach $current (sort(@titles)) {
 
     my $vref = $verbiage{$current};
     if ($vref) {
-	my $description = join(" ", @{$vref});
+	my $description = join(' ', @{$vref});
 	print($description, "\n\n");
 	$xml_description = $description;
     }
@@ -119,7 +125,7 @@ foreach $current (sort(@titles)) {
 	printf("* :repeat: [RSS Feed: %s](%s)\n", $current, $url_rss);
 	printf("* :arrow_up: [%s](%s)\n", 'Return to Index', '#index');
 	#printf("* :heart: [Share '%s' in a Tweet!](%s)\n", $current, $url_share);
-	printf("* :bulb: [%s](%s)\n", 'Suggest an Improvement', '../../issues/new');
+	printf("* :bulb: [%s](%s)\n", 'Suggest an Improvement', $url_improvement);
 	print("\n");
 
 	print("#### search terms\n\n");

@@ -10,8 +10,8 @@
 <description>TheySearchForYou Search-Query Updates</description>
 <language>en</language>
 <copyright>https://creativecommons.org/licenses/by/4.0/</copyright>
-<pubDate>Thu,  4 Aug 2022 19:57:25 +0000</pubDate>
-<lastBuildDate>Thu,  4 Aug 2022 19:57:25 +0000</lastBuildDate>
+<pubDate>Thu,  4 Aug 2022 20:03:15 +0000</pubDate>
+<lastBuildDate>Thu,  4 Aug 2022 20:03:15 +0000</lastBuildDate>
 <managingEditor>alec.muffett@gmail.com</managingEditor>
 <webMaster>alec.muffett@gmail.com</webMaster>
 
@@ -113,6 +113,28 @@
 &#x3C;/pre&#x3E;
 </description>
 <guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-195725+0000.diff.txt</guid>
+</item>
+<item>
+<title>rss/20220804-200314+0000.diff.txt</title>
+<description>&#x3C;p&#x3E;updated search query:&#x3C;/p&#x3E;
+&#x3C;pre&#x3E;*** old-searches.md	2022-08-04 20:57:25.000000000 +0100
+--- raw-searches.md	2022-08-04 21:03:12.000000000 +0100
+***************
+*** 43,50 ****
+--- 43,52 ----
+  * bitchute
+  * brandnewtube
+  * gab
++ * mindgeek
+  * omegle
+  * parler
++ * pornhub
+  
+  # Messenger Apps
+  
+&#x3C;/pre&#x3E;
+</description>
+<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220804-200314+0000.diff.txt</guid>
 </item>
 </channel>
 </rss>

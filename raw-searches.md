@@ -43,8 +43,10 @@
 * bitchute
 * brandnewtube
 * gab
+* mindgeek
 * omegle
 * parler
+* pornhub
 
 # Messenger Apps
 

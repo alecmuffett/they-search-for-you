@@ -1,0 +1,15 @@
+*** old-searches.md	2022-08-04 20:57:25.000000000 +0100
+--- raw-searches.md	2022-08-04 21:03:12.000000000 +0100
+***************
+*** 43,50 ****
+--- 43,52 ----
+  * bitchute
+  * brandnewtube
+  * gab
++ * mindgeek
+  * omegle
+  * parler
++ * pornhub
+  
+  # Messenger Apps
+  

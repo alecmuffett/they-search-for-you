@@ -147,7 +147,7 @@ foreach $current (sort(@titles)) {
 	print("\n");
 
 	$opml->add_outline(
-	    title => $current,
+	    title => "TheySearchForYou: $current", # probably redundant, but set it anyway
 	    text => $current,
 	    description => $xml_description,
 	    type => 'rss',
@@ -157,5 +157,17 @@ foreach $current (sort(@titles)) {
 	    );
     }
 }
+
+# updates feed
+$tsfy_title = 'TheySearchForYou: Search Updates';
+$opml->add_outline(
+    title => $tsfy_title,
+    text => $tsfy_title,
+    description => $tsfy_title,
+    type => 'rss',
+    version => 'RSS',
+    htmlUrl => 'https://github.com/alecmuffett/they-search-for-you',
+    xmlUrl => 'https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/UPDATES.rss',
+    );
 
 $opml->save($feeds);

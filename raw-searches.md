@@ -112,6 +112,7 @@ but they seem to not be much discussed in Parliament.
 
 # Age Verification companies, and related terms
 
+* age verification providers association
 * avpa
 * dragonflai
 * trustelevate
@@ -210,6 +211,7 @@ but they seem to not be much discussed in Parliament.
 * andy burrows
 * frances haugen
 * heather burns
+* iain corby
 * jim killock
 * john carr
 * lynn perry

@@ -97,8 +97,8 @@ If you would like to see something added or removed, please
 
 ### links
 
-* :point_right: [Search: Age Verification companies, and related terms](https://www.theyworkforyou.com/search/?q=%22avpa%22+OR+%22dragonflai%22+OR+%22trustelevate%22+OR+%22verime%22+OR+%22voco%22+OR+%22yoti%22)
-* :repeat: [RSS Feed: Age Verification companies, and related terms](https://www.theyworkforyou.com/search/rss/?s=%22avpa%22+OR+%22dragonflai%22+OR+%22trustelevate%22+OR+%22verime%22+OR+%22voco%22+OR+%22yoti%22)
+* :point_right: [Search: Age Verification companies, and related terms](https://www.theyworkforyou.com/search/?q=%22age+verification+providers+association%22+OR+%22avpa%22+OR+%22dragonflai%22+OR+%22trustelevate%22+OR+%22verime%22+OR+%22voco%22+OR+%22yoti%22)
+* :repeat: [RSS Feed: Age Verification companies, and related terms](https://www.theyworkforyou.com/search/rss/?s=%22age+verification+providers+association%22+OR+%22avpa%22+OR+%22dragonflai%22+OR+%22trustelevate%22+OR+%22verime%22+OR+%22voco%22+OR+%22yoti%22)
 * :heart: [Share 'Age Verification companies, and related terms' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Age%20Verification%20companies%2C%20and%20related%20terms%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23age-verification-companies-and-related-terms)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
@@ -106,6 +106,7 @@ If you would like to see something added or removed, please
 #### search terms
 
 ```
+* age verification providers association
 * avpa
 * dragonflai
 * trustelevate
@@ -453,8 +454,8 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 
 ### links
 
-* :point_right: [Search: People: Pundits and Civil Society](https://www.theyworkforyou.com/search/?q=%22andy+burrows%22+OR+%22frances+haugen%22+OR+%22heather+burns%22+OR+%22jim+killock%22+OR+%22john+carr%22+OR+%22lynn+perry%22+OR+%22rachel+de+souza%22+OR+%22shoshana+zuboff%22+OR+%22silkie+carlo%22+OR+%22sonia+livingstone%22)
-* :repeat: [RSS Feed: People: Pundits and Civil Society](https://www.theyworkforyou.com/search/rss/?s=%22andy+burrows%22+OR+%22frances+haugen%22+OR+%22heather+burns%22+OR+%22jim+killock%22+OR+%22john+carr%22+OR+%22lynn+perry%22+OR+%22rachel+de+souza%22+OR+%22shoshana+zuboff%22+OR+%22silkie+carlo%22+OR+%22sonia+livingstone%22)
+* :point_right: [Search: People: Pundits and Civil Society](https://www.theyworkforyou.com/search/?q=%22andy+burrows%22+OR+%22frances+haugen%22+OR+%22heather+burns%22+OR+%22iain+corby%22+OR+%22jim+killock%22+OR+%22john+carr%22+OR+%22lynn+perry%22+OR+%22rachel+de+souza%22+OR+%22shoshana+zuboff%22+OR+%22silkie+carlo%22+OR+%22sonia+livingstone%22)
+* :repeat: [RSS Feed: People: Pundits and Civil Society](https://www.theyworkforyou.com/search/rss/?s=%22andy+burrows%22+OR+%22frances+haugen%22+OR+%22heather+burns%22+OR+%22iain+corby%22+OR+%22jim+killock%22+OR+%22john+carr%22+OR+%22lynn+perry%22+OR+%22rachel+de+souza%22+OR+%22shoshana+zuboff%22+OR+%22silkie+carlo%22+OR+%22sonia+livingstone%22)
 * :heart: [Share 'People: Pundits and Civil Society' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27People%3A%20Pundits%20and%20Civil%20Society%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23people-pundits-and-civil-society)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
@@ -465,6 +466,7 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 * andy burrows
 * frances haugen
 * heather burns
+* iain corby
 * jim killock
 * john carr
 * lynn perry

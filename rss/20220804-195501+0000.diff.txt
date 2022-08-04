@@ -1,0 +1,22 @@
+*** old-searches.md	2022-08-04 20:48:42.000000000 +0100
+--- raw-searches.md	2022-08-04 20:54:56.000000000 +0100
+***************
+*** 112,117 ****
+--- 112,118 ----
+  
+  # Age Verification companies, and related terms
+  
++ * age verification providers association
+  * avpa
+  * dragonflai
+  * trustelevate
+***************
+*** 210,215 ****
+--- 211,217 ----
+  * andy burrows
+  * frances haugen
+  * heather burns
++ * iain corby
+  * jim killock
+  * john carr
+  * lynn perry

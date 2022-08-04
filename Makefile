@@ -1,7 +1,7 @@
 all: README.md UPDATES.rss
 
-README.md: Makefile filter.pl raw-searches.md intro.md
-	( cat intro.md ; echo "" ; ./filter.pl raw-searches.md ) > $@
+README.md: Makefile filter.pl raw-searches.md header.md
+	( cat header.md ; echo "" ; ./filter.pl raw-searches.md ) > $@
 
 UPDATES.rss: Makefile dir2rss.pl raw-searches.md
 	./gen-rss-feed.sh

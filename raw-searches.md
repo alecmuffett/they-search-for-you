@@ -244,6 +244,6 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 
 * disinformation
 * fake news
-* hate speech
 * free speech
+* hate speech
 * vawg

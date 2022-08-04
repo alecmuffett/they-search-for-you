@@ -1,0 +1,21 @@
+*** old-searches.md	2022-08-04 19:25:20.000000000 +0100
+--- raw-searches.md	2022-08-04 19:33:51.000000000 +0100
+***************
+*** 242,249 ****
+  
+  See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
+  
+! * disinformation
+! * fake news
+  * hate speech
+  * free speech
+! * vawg
+--- 242,249 ----
+  
+  See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
+  
+! * vawg
+  * hate speech
+  * free speech
+! * fake news
+! * disinformation

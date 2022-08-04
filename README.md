@@ -37,6 +37,7 @@ Thus: [They Search For You](.) — curated search for civil society purposes.
 * [People: Topics](#people-topics)
 * [Profane Websites](#profane-websites)
 * [Social Media](#social-media)
+* [Socially Problematic Content](#socially-problematic-content)
 * [Trite Expressions](#trite-expressions)
 * [Unicorns](#unicorns)
 
@@ -468,6 +469,24 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 * vk
 * whatsapp
 * youtube
+```
+
+## Socially Problematic Content
+
+See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
+
+### links
+
+* **search:** [*Socially Problematic Content*](https://www.theyworkforyou.com/search/?q=%22disinformation%22%20OR%20%22fake%20news%22%20OR%20%22hate%20speech%22)
+* **rss:** [*Socially Problematic Content*](https://www.theyworkforyou.com/search/rss/?s=%22disinformation%22%20OR%20%22fake%20news%22%20OR%20%22hate%20speech%22)
+* **index:** [*top*](#index)
+
+#### search terms
+
+```
+* disinformation
+* fake news
+* hate speech
 ```
 
 ## Trite Expressions

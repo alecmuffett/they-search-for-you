@@ -231,3 +231,11 @@ but they seem to not be much discussed in Parliament.
 * image classifier
 * image classifiers
 * machine learning
+
+# Socially Problematic Content
+
+See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
+
+* disinformation
+* fake news
+* hate speech

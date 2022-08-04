@@ -77,13 +77,17 @@ but they seem to not be much discussed in Parliament.
 
 # Child Sexual Abuse Imagery, and related terms
 
-* breadcrumbing
 * 5rights
+* breadcrumbing
+* cccis
 * ceop
 * child pornography
+* children's charities' coalition
+* childrens charities' coalition
 * csai
 * csam
 * csea
+* grooming
 * iioc
 * iwf
 * marie collins
@@ -91,7 +95,6 @@ but they seem to not be much discussed in Parliament.
 * neuralhash
 * neuralmatch
 * photodna
-* grooming
 
 # Age Verification discussion
 
@@ -123,6 +126,8 @@ but they seem to not be much discussed in Parliament.
 * gchq
 * ncsc
 * nsa
+* national crime agency
+* national cyber security centre
 
 # Civil Society organisations, and related terms
 
@@ -194,8 +199,8 @@ but they seem to not be much discussed in Parliament.
 
 # Machine Learning
 
-* artificial intelligence
-* machine learning
 * ai
+* artificial intelligence
 * image classifier
 * image classifiers
+* machine learning

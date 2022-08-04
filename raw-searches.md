@@ -196,7 +196,7 @@ but they seem to not be much discussed in Parliament.
 
 * john carr
 * sonia livingstone
-* zuboff
+* shoshana zuboff
 * jim killock
 * silkie carlo
 

@@ -4,7 +4,8 @@ use feature 'unicode_strings';
 
 use DateTime::Format::Mail;
 use DateTime;
-use URI::Escape;
+use URI::Escape qw(uri_escape_utf8);
+use URL::Encode qw(url_encode_utf8);
 use XML::OPML;
 use utf8;
 
@@ -71,7 +72,7 @@ sub Queryify {
 	push(@stack, "\"$term\"");
     }
     my $result = join(' OR ', @stack);
-    $result = uri_escape($result);
+    $result = url_encode_utf8($result);
     return $result;
 }
 

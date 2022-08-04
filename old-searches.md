@@ -125,10 +125,15 @@ but they seem to not be much discussed in Parliament.
 
 # Trite Expressions
 
+* privacy by design
+* safety by design
+* secure by design
+* security by design
 * should be illegal online
 * surveillance capitalism
 * what is illegal offline
 * wild west
+
 
 # Intelligence Agencies, and related terms
 

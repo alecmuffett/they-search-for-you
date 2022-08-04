@@ -1,0 +1,21 @@
+*** old-searches.md	2022-08-04 21:10:54.000000000 +0100
+--- raw-searches.md	2022-08-04 21:13:21.000000000 +0100
+***************
+*** 125,135 ****
+--- 125,140 ----
+  
+  # Trite Expressions
+  
++ * privacy by design
++ * safety by design
++ * secure by design
++ * security by design
+  * should be illegal online
+  * surveillance capitalism
+  * what is illegal offline
+  * wild west
+  
++ 
+  # Intelligence Agencies, and related terms
+  
+  * cesg

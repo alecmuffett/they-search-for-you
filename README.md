@@ -12,7 +12,7 @@ accessing such searches in a consistent way (RSS is handy, but
 sometimes you want to look something up *right now* and on a mobile
 device) can be challenging.
 
-Thus: [They Search For You](.) — curated search for civil society purposes.
+Thus: [They Search For You](https://github.com/alecmuffett/they-search-for-you) — curated search for civil society purposes.
 
 ### RSS Feeds and OPML
 

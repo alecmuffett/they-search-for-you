@@ -1,0 +1,25 @@
+*** old-searches.md	2022-08-05 00:17:43.000000000 +0100
+--- raw-searches.md	2022-08-05 12:32:30.000000000 +0100
+***************
+*** 227,234 ****
+  
+  # Digital Identity Cards
+  
+- * digital identity
+  * digital id
+  
+  # People: Topics
+  
+--- 227,238 ----
+  
+  # Digital Identity Cards
+  
+  * digital id
++ * digital identity
++ * id card
++ * id cards
++ * identity card
++ * identity cards
+  
+  # People: Topics
+  

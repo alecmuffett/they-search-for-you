@@ -230,8 +230,8 @@ will see how it develops.
 
 ### links
 
-* :point_right: [Search: Digital Identity Cards](https://www.theyworkforyou.com/search/?q=%22digital+id%22+OR+%22digital+identity%22)
-* :repeat: [RSS Feed: Digital Identity Cards](https://www.theyworkforyou.com/search/rss/?s=%22digital+id%22+OR+%22digital+identity%22)
+* :point_right: [Search: Digital Identity Cards](https://www.theyworkforyou.com/search/?q=%22digital+id%22+OR+%22digital+identity%22+OR+%22id+card%22+OR+%22id+cards%22+OR+%22identity+card%22+OR+%22identity+cards%22)
+* :repeat: [RSS Feed: Digital Identity Cards](https://www.theyworkforyou.com/search/rss/?s=%22digital+id%22+OR+%22digital+identity%22+OR+%22id+card%22+OR+%22id+cards%22+OR+%22identity+card%22+OR+%22identity+cards%22)
 * :heart: [Share 'Digital Identity Cards' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Digital%20Identity%20Cards%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23digital-identity-cards)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
@@ -241,6 +241,10 @@ will see how it develops.
 ```
 * "digital id"
 * "digital identity"
+* "id card"
+* "id cards"
+* "identity card"
+* "identity cards"
 ```
 
 ## Encryption and Encrypted Services

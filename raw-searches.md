@@ -227,8 +227,12 @@ without negatively impacting *everyone else*.
 
 # Digital Identity Cards
 
-* digital identity
 * digital id
+* digital identity
+* id card
+* id cards
+* identity card
+* identity cards
 
 # People: Topics
 

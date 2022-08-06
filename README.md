@@ -44,6 +44,11 @@ more limited than the TWFY website allows, and that in a couple of
 places I am kludging around this; for the moment I am content, and
 will see how it develops.
 
+### Elsewhere
+
+If you would like to try the same thing bug for Twitter, see:
+[Ready Made Twitter Searches.](https://github.com/alecmuffett/ready-made-twitter-searches)
+
 ## Index
 
 * [Acts, Bills, Regulations, and Directives: related terms](#acts-bills-regulations-and-directives-related-terms)

@@ -43,3 +43,8 @@ nb: I am aware that the search keyword syntax I've written is much
 more limited than the TWFY website allows, and that in a couple of
 places I am kludging around this; for the moment I am content, and
 will see how it develops.
+
+### Elsewhere
+
+If you would like to try the same thing bug for Twitter, see:
+[Ready Made Twitter Searches.](https://github.com/alecmuffett/ready-made-twitter-searches)

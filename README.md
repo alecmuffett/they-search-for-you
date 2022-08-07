@@ -384,8 +384,8 @@ If you would like to try the same thing bug for Twitter, see:
 
 ### links
 
-* :point_right: [Search: Internet of Things](https://www.theyworkforyou.com/search/?q=%22internet+of+things%22+OR+%22iot%22)
-* :repeat: [RSS Feed: Internet of Things](https://www.theyworkforyou.com/search/rss/?s=%22internet+of+things%22+OR+%22iot%22)
+* :point_right: [Search: Internet of Things](https://www.theyworkforyou.com/search/?q=%22internet+of+things%22+OR+%22iot%22+OR+%22roomba%22)
+* :repeat: [RSS Feed: Internet of Things](https://www.theyworkforyou.com/search/rss/?s=%22internet+of+things%22+OR+%22iot%22+OR+%22roomba%22)
 * :heart: [Share 'Internet of Things' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Internet%20of%20Things%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23internet-of-things)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
@@ -395,6 +395,7 @@ If you would like to try the same thing bug for Twitter, see:
 ```
 * "internet of things"
 * "iot"
+* "roomba"
 ```
 
 ## Machine Learning

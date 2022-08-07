@@ -10,8 +10,8 @@
 <description>TheySearchForYou Search-Query Updates</description>
 <language>en</language>
 <copyright>https://creativecommons.org/licenses/by/4.0/</copyright>
-<pubDate>Fri,  5 Aug 2022 11:32:53 +0000</pubDate>
-<lastBuildDate>Fri,  5 Aug 2022 11:32:53 +0000</lastBuildDate>
+<pubDate>Sun,  7 Aug 2022 10:48:42 +0000</pubDate>
+<lastBuildDate>Sun,  7 Aug 2022 10:48:42 +0000</lastBuildDate>
 <managingEditor>alec.muffett@gmail.com</managingEditor>
 <webMaster>alec.muffett@gmail.com</webMaster>
 
@@ -709,6 +709,25 @@
 &#x3C;/pre&#x3E;
 </description>
 <guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220805-113253+0000.diff.txt</guid>
+</item>
+<item>
+<title>rss/20220807-104842+0000.diff.txt</title>
+<description>&#x3C;p&#x3E;updated search query:&#x3C;/p&#x3E;
+&#x3C;pre&#x3E;*** old-searches.md	2022-08-05 12:32:53.000000000 +0100
+--- raw-searches.md	2022-08-07 11:48:40.000000000 +0100
+***************
+*** 267,272 ****
+--- 267,273 ----
+  
+  * iot
+  * internet of things
++ * roomba
+  
+  # Machine Learning
+  
+&#x3C;/pre&#x3E;
+</description>
+<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220807-104842+0000.diff.txt</guid>
 </item>
 </channel>
 </rss>

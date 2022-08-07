@@ -267,6 +267,7 @@ without negatively impacting *everyone else*.
 
 * iot
 * internet of things
+* roomba
 
 # Machine Learning
 

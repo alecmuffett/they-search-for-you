@@ -10,8 +10,8 @@
 <description>TheySearchForYou Search-Query Updates</description>
 <language>en</language>
 <copyright>https://creativecommons.org/licenses/by/4.0/</copyright>
-<pubDate>Sun,  7 Aug 2022 10:48:42 +0000</pubDate>
-<lastBuildDate>Sun,  7 Aug 2022 10:48:42 +0000</lastBuildDate>
+<pubDate>Sun,  7 Aug 2022 11:04:35 +0000</pubDate>
+<lastBuildDate>Sun,  7 Aug 2022 11:04:35 +0000</lastBuildDate>
 <managingEditor>alec.muffett@gmail.com</managingEditor>
 <webMaster>alec.muffett@gmail.com</webMaster>
 
@@ -728,6 +728,54 @@
 &#x3C;/pre&#x3E;
 </description>
 <guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220807-104842+0000.diff.txt</guid>
+</item>
+<item>
+<title>rss/20220807-110435+0000.diff.txt</title>
+<description>&#x3C;p&#x3E;updated search query:&#x3C;/p&#x3E;
+&#x3C;pre&#x3E;*** old-searches.md	2022-08-07 11:48:42.000000000 +0100
+--- raw-searches.md	2022-08-07 12:03:49.000000000 +0100
+***************
+*** 169,182 ****
+  
+  # Unicorns
+  
+  * deliveroo
+  * monzo
+  * starling
+  
+  # Gig Economy
+  
+- * gig economy
+  * deliveroo
+  * uber
+  
+  # Information Security and Cyber
+--- 169,190 ----
+  
+  # Unicorns
+  
++ * babylon
++ * darktrace
+  * deliveroo
++ * graphcore
++ * just eat
+  * monzo
++ * onetrust
++ * revolut
+  * starling
++ * sumup
+  
+  # Gig Economy
+  
+  * deliveroo
++ * gig economy
++ * just eat
+  * uber
+  
+  # Information Security and Cyber
+&#x3C;/pre&#x3E;
+</description>
+<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220807-110435+0000.diff.txt</guid>
 </item>
 </channel>
 </rss>

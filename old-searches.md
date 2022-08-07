@@ -169,14 +169,22 @@ without negatively impacting *everyone else*.
 
 # Unicorns
 
+* babylon
+* darktrace
 * deliveroo
+* graphcore
+* just eat
 * monzo
+* onetrust
+* revolut
 * starling
+* sumup
 
 # Gig Economy
 
-* gig economy
 * deliveroo
+* gig economy
+* just eat
 * uber
 
 # Information Security and Cyber

@@ -1,0 +1,41 @@
+*** old-searches.md	2022-08-07 11:48:42.000000000 +0100
+--- raw-searches.md	2022-08-07 12:03:49.000000000 +0100
+***************
+*** 169,182 ****
+  
+  # Unicorns
+  
+  * deliveroo
+  * monzo
+  * starling
+  
+  # Gig Economy
+  
+- * gig economy
+  * deliveroo
+  * uber
+  
+  # Information Security and Cyber
+--- 169,190 ----
+  
+  # Unicorns
+  
++ * babylon
++ * darktrace
+  * deliveroo
++ * graphcore
++ * just eat
+  * monzo
++ * onetrust
++ * revolut
+  * starling
++ * sumup
+  
+  # Gig Economy
+  
+  * deliveroo
++ * gig economy
++ * just eat
+  * uber
+  
+  # Information Security and Cyber

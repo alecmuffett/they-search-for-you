@@ -311,8 +311,8 @@ If you would like to try the same thing bug for Twitter, see:
 
 ### links
 
-* :point_right: [Search: Gig Economy](https://www.theyworkforyou.com/search/?q=%22deliveroo%22+OR+%22gig+economy%22+OR+%22uber%22)
-* :repeat: [RSS Feed: Gig Economy](https://www.theyworkforyou.com/search/rss/?s=%22deliveroo%22+OR+%22gig+economy%22+OR+%22uber%22)
+* :point_right: [Search: Gig Economy](https://www.theyworkforyou.com/search/?q=%22deliveroo%22+OR+%22gig+economy%22+OR+%22just+eat%22+OR+%22uber%22)
+* :repeat: [RSS Feed: Gig Economy](https://www.theyworkforyou.com/search/rss/?s=%22deliveroo%22+OR+%22gig+economy%22+OR+%22just+eat%22+OR+%22uber%22)
 * :heart: [Share 'Gig Economy' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Gig%20Economy%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23gig-economy)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
@@ -322,6 +322,7 @@ If you would like to try the same thing bug for Twitter, see:
 ```
 * "deliveroo"
 * "gig economy"
+* "just eat"
 * "uber"
 ```
 
@@ -639,8 +640,8 @@ Observation: you don't make something secure, safe, or private "by design"; inst
 
 ### links
 
-* :point_right: [Search: Unicorns](https://www.theyworkforyou.com/search/?q=%22deliveroo%22+OR+%22monzo%22+OR+%22starling%22)
-* :repeat: [RSS Feed: Unicorns](https://www.theyworkforyou.com/search/rss/?s=%22deliveroo%22+OR+%22monzo%22+OR+%22starling%22)
+* :point_right: [Search: Unicorns](https://www.theyworkforyou.com/search/?q=%22babylon%22+OR+%22darktrace%22+OR+%22deliveroo%22+OR+%22graphcore%22+OR+%22just+eat%22+OR+%22monzo%22+OR+%22onetrust%22+OR+%22revolut%22+OR+%22starling%22+OR+%22sumup%22)
+* :repeat: [RSS Feed: Unicorns](https://www.theyworkforyou.com/search/rss/?s=%22babylon%22+OR+%22darktrace%22+OR+%22deliveroo%22+OR+%22graphcore%22+OR+%22just+eat%22+OR+%22monzo%22+OR+%22onetrust%22+OR+%22revolut%22+OR+%22starling%22+OR+%22sumup%22)
 * :heart: [Share 'Unicorns' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Unicorns%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23unicorns)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
@@ -648,8 +649,15 @@ Observation: you don't make something secure, safe, or private "by design"; inst
 #### search terms
 
 ```
+* "babylon"
+* "darktrace"
 * "deliveroo"
+* "graphcore"
+* "just eat"
 * "monzo"
+* "onetrust"
+* "revolut"
 * "starling"
+* "sumup"
 ```
 

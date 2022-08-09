@@ -10,8 +10,8 @@
 <description>TheySearchForYou Search-Query Updates</description>
 <language>en</language>
 <copyright>https://creativecommons.org/licenses/by/4.0/</copyright>
-<pubDate>Sun,  7 Aug 2022 11:04:35 +0000</pubDate>
-<lastBuildDate>Sun,  7 Aug 2022 11:04:35 +0000</lastBuildDate>
+<pubDate>Tue,  9 Aug 2022 16:57:20 +0000</pubDate>
+<lastBuildDate>Tue,  9 Aug 2022 16:57:20 +0000</lastBuildDate>
 <managingEditor>alec.muffett@gmail.com</managingEditor>
 <webMaster>alec.muffett@gmail.com</webMaster>
 
@@ -776,6 +776,25 @@
 &#x3C;/pre&#x3E;
 </description>
 <guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220807-110435+0000.diff.txt</guid>
+</item>
+<item>
+<title>rss/20220809-165720+0000.diff.txt</title>
+<description>&#x3C;p&#x3E;updated search query:&#x3C;/p&#x3E;
+&#x3C;pre&#x3E;*** old-searches.md	2022-08-07 12:04:35.000000000 +0100
+--- raw-searches.md	2022-08-09 17:57:17.000000000 +0100
+***************
+*** 227,232 ****
+--- 227,233 ----
+  * digital markets act
+  * digital services act
+  * eprivacy
++ * internet governance
+  * investigatory powers
+  * national security act
+  * national security bill
+&#x3C;/pre&#x3E;
+</description>
+<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220809-165720+0000.diff.txt</guid>
 </item>
 </channel>
 </rss>

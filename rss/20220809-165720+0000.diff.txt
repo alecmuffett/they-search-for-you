@@ -1,0 +1,12 @@
+*** old-searches.md	2022-08-07 12:04:35.000000000 +0100
+--- raw-searches.md	2022-08-09 17:57:17.000000000 +0100
+***************
+*** 227,232 ****
+--- 227,233 ----
+  * digital markets act
+  * digital services act
+  * eprivacy
++ * internet governance
+  * investigatory powers
+  * national security act
+  * national security bill

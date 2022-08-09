@@ -80,8 +80,8 @@ If you would like to try the same thing bug for Twitter, see:
 
 ### links
 
-* :point_right: [Search: Acts, Bills, Regulations, and Directives: related terms](https://www.theyworkforyou.com/search/?q=%22data+protection+and+digital+information%22+OR+%22data+reform+bill%22+OR+%22digital+economy+act%22+OR+%22digital+economy+bill%22+OR+%22digital+markets+act%22+OR+%22digital+services+act%22+OR+%22eprivacy%22+OR+%22investigatory+powers%22+OR+%22national+security+act%22+OR+%22national+security+bill%22+OR+%22online+harms%22+OR+%22online+safety%22)
-* :repeat: [RSS Feed: Acts, Bills, Regulations, and Directives: related terms](https://www.theyworkforyou.com/search/rss/?s=%22data+protection+and+digital+information%22+OR+%22data+reform+bill%22+OR+%22digital+economy+act%22+OR+%22digital+economy+bill%22+OR+%22digital+markets+act%22+OR+%22digital+services+act%22+OR+%22eprivacy%22+OR+%22investigatory+powers%22+OR+%22national+security+act%22+OR+%22national+security+bill%22+OR+%22online+harms%22+OR+%22online+safety%22)
+* :point_right: [Search: Acts, Bills, Regulations, and Directives: related terms](https://www.theyworkforyou.com/search/?q=%22data+protection+and+digital+information%22+OR+%22data+reform+bill%22+OR+%22digital+economy+act%22+OR+%22digital+economy+bill%22+OR+%22digital+markets+act%22+OR+%22digital+services+act%22+OR+%22eprivacy%22+OR+%22internet+governance%22+OR+%22investigatory+powers%22+OR+%22national+security+act%22+OR+%22national+security+bill%22+OR+%22online+harms%22+OR+%22online+safety%22)
+* :repeat: [RSS Feed: Acts, Bills, Regulations, and Directives: related terms](https://www.theyworkforyou.com/search/rss/?s=%22data+protection+and+digital+information%22+OR+%22data+reform+bill%22+OR+%22digital+economy+act%22+OR+%22digital+economy+bill%22+OR+%22digital+markets+act%22+OR+%22digital+services+act%22+OR+%22eprivacy%22+OR+%22internet+governance%22+OR+%22investigatory+powers%22+OR+%22national+security+act%22+OR+%22national+security+bill%22+OR+%22online+harms%22+OR+%22online+safety%22)
 * :heart: [Share 'Acts, Bills, Regulations, and Directives: related terms' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Acts%2C%20Bills%2C%20Regulations%2C%20and%20Directives%3A%20related%20terms%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23acts-bills-regulations-and-directives-related-terms)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
@@ -96,6 +96,7 @@ If you would like to try the same thing bug for Twitter, see:
 * "digital markets act"
 * "digital services act"
 * "eprivacy"
+* "internet governance"
 * "investigatory powers"
 * "national security act"
 * "national security bill"

@@ -227,6 +227,7 @@ without negatively impacting *everyone else*.
 * digital markets act
 * digital services act
 * eprivacy
+* internet governance
 * investigatory powers
 * national security act
 * national security bill

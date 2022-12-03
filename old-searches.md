@@ -51,9 +51,6 @@
 
 # Messenger Apps
 
-Regrettably `Signal` is a noisy search term; there should be more here,
-but they seem to not be much discussed in Parliament.
-
 * facebook messenger
 * messaging apps
 * sms
@@ -129,15 +126,6 @@ but they seem to not be much discussed in Parliament.
 
 # Trite Expressions
 
-Observation: you don't make something secure, safe, or private "by
-design"; instead you create a "threat model" and assess the threats
-that your assets or solution faces. Some of those threats may be
-externalities - negative impact beyond the immediate scope of your
-solution - but those need to be weighed against the positive impacts
-and benefits that your solution also offers, plus: there is only so
-far you can progress towards mitigating other people's challenges
-without negatively impacting *everyone else*.
-
 * "illegal offline"
 * "illegal online"
 * ( illegal offline online )
@@ -168,7 +156,6 @@ without negatively impacting *everyone else*.
 * digital literacy
 * open rights group
 * reset.tech
-
 
 # Unicorns
 
@@ -290,8 +277,6 @@ without negatively impacting *everyone else*.
 * machine learning
 
 # Socially Problematic Content
-
-See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 
 * algorithms
 * cross-platform harms

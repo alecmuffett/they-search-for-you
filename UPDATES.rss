@@ -10,8 +10,8 @@
 <description>TheySearchForYou Search-Query Updates</description>
 <language>en</language>
 <copyright>https://creativecommons.org/licenses/by/4.0/</copyright>
-<pubDate>Sat,  3 Dec 2022 13:36:25 +0000</pubDate>
-<lastBuildDate>Sat,  3 Dec 2022 13:36:25 +0000</lastBuildDate>
+<pubDate>Sat,  3 Dec 2022 16:21:10 +0000</pubDate>
+<lastBuildDate>Sat,  3 Dec 2022 16:21:10 +0000</lastBuildDate>
 <managingEditor>alec.muffett@gmail.com</managingEditor>
 <webMaster>alec.muffett@gmail.com</webMaster>
 
@@ -868,6 +868,66 @@
 &#x3C;/pre&#x3E;
 </description>
 <guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20221203-133625+0000.diff.txt</guid>
+</item>
+<item>
+<title>rss/20221203-162110+0000.diff.txt</title>
+<description>&#x3C;p&#x3E;updated search query:&#x3C;/p&#x3E;
+&#x3C;pre&#x3E;*** old-searches.md	2022-12-03 13:36:25.000000000 +0000
+--- raw-searches.md	2022-12-03 16:21:07.000000000 +0000
+***************
+*** 51,59 ****
+  
+  # Messenger Apps
+  
+- Regrettably `Signal` is a noisy search term; there should be more here,
+- but they seem to not be much discussed in Parliament.
+- 
+  * facebook messenger
+  * messaging apps
+  * sms
+--- 51,56 ----
+***************
+*** 129,143 ****
+  
+  # Trite Expressions
+  
+- Observation: you don&#x27;t make something secure, safe, or private &#x22;by
+- design&#x22;; instead you create a &#x22;threat model&#x22; and assess the threats
+- that your assets or solution faces. Some of those threats may be
+- externalities - negative impact beyond the immediate scope of your
+- solution - but those need to be weighed against the positive impacts
+- and benefits that your solution also offers, plus: there is only so
+- far you can progress towards mitigating other people&#x27;s challenges
+- without negatively impacting *everyone else*.
+- 
+  * &#x22;illegal offline&#x22;
+  * &#x22;illegal online&#x22;
+  * ( illegal offline online )
+--- 126,131 ----
+***************
+*** 169,175 ****
+  * open rights group
+  * reset.tech
+  
+- 
+  # Unicorns
+  
+  * babylon
+--- 157,162 ----
+***************
+*** 291,298 ****
+  
+  # Socially Problematic Content
+  
+- See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
+- 
+  * algorithms
+  * cross-platform harms
+  * disinformation
+--- 278,283 ----
+&#x3C;/pre&#x3E;
+</description>
+<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20221203-162110+0000.diff.txt</guid>
 </item>
 </channel>
 </rss>

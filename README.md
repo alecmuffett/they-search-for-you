@@ -422,8 +422,6 @@ If you would like to try the same thing bug for Twitter, see:
 
 ## Messenger Apps
 
-Regrettably `Signal` is a noisy search term; there should be more here, but they seem to not be much discussed in Parliament.
-
 ### links
 
 * :point_right: [Search: Messenger Apps](https://www.theyworkforyou.com/search/?q=%22facebook+messenger%22+OR+%22messaging+apps%22+OR+%22sms%22+OR+%22telegram%22+OR+%22text+messaging%22+OR+%22viber%22+OR+%22whatsapp%22)
@@ -587,8 +585,6 @@ Regrettably `Signal` is a noisy search term; there should be more here, but they
 
 ## Socially Problematic Content
 
-See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
-
 ### links
 
 * :point_right: [Search: Socially Problematic Content](https://www.theyworkforyou.com/search/?q=%22algorithms%22+OR+%22cross-platform+harms%22+OR+%22disinformation%22+OR+%22fake+news%22+OR+%22free+speech%22+OR+%22harmful+content%22+OR+%22hate+speech%22+OR+%22revenge+porn%22+OR+%22vawg%22)
@@ -612,8 +608,6 @@ See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
 ```
 
 ## Trite Expressions
-
-Observation: you don't make something secure, safe, or private "by design"; instead you create a "threat model" and assess the threats that your assets or solution faces. Some of those threats may be externalities - negative impact beyond the immediate scope of your solution - but those need to be weighed against the positive impacts and benefits that your solution also offers, plus: there is only so far you can progress towards mitigating other people's challenges without negatively impacting *everyone else*.
 
 ### links
 

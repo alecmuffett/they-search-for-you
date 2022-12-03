@@ -1,0 +1,53 @@
+*** old-searches.md	2022-12-03 13:36:25.000000000 +0000
+--- raw-searches.md	2022-12-03 16:21:07.000000000 +0000
+***************
+*** 51,59 ****
+  
+  # Messenger Apps
+  
+- Regrettably `Signal` is a noisy search term; there should be more here,
+- but they seem to not be much discussed in Parliament.
+- 
+  * facebook messenger
+  * messaging apps
+  * sms
+--- 51,56 ----
+***************
+*** 129,143 ****
+  
+  # Trite Expressions
+  
+- Observation: you don't make something secure, safe, or private "by
+- design"; instead you create a "threat model" and assess the threats
+- that your assets or solution faces. Some of those threats may be
+- externalities - negative impact beyond the immediate scope of your
+- solution - but those need to be weighed against the positive impacts
+- and benefits that your solution also offers, plus: there is only so
+- far you can progress towards mitigating other people's challenges
+- without negatively impacting *everyone else*.
+- 
+  * "illegal offline"
+  * "illegal online"
+  * ( illegal offline online )
+--- 126,131 ----
+***************
+*** 169,175 ****
+  * open rights group
+  * reset.tech
+  
+- 
+  # Unicorns
+  
+  * babylon
+--- 157,162 ----
+***************
+*** 291,298 ****
+  
+  # Socially Problematic Content
+  
+- See also: [CSAM](#child-sexual-abuse-imagery-and-related-terms)
+- 
+  * algorithms
+  * cross-platform harms
+  * disinformation
+--- 278,283 ----

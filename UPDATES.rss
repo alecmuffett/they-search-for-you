@@ -10,8 +10,8 @@
 <description>TheySearchForYou Search-Query Updates</description>
 <language>en</language>
 <copyright>https://creativecommons.org/licenses/by/4.0/</copyright>
-<pubDate>Tue,  9 Aug 2022 16:57:20 +0000</pubDate>
-<lastBuildDate>Tue,  9 Aug 2022 16:57:20 +0000</lastBuildDate>
+<pubDate>Sat,  3 Dec 2022 13:36:25 +0000</pubDate>
+<lastBuildDate>Sat,  3 Dec 2022 13:36:25 +0000</lastBuildDate>
 <managingEditor>alec.muffett@gmail.com</managingEditor>
 <webMaster>alec.muffett@gmail.com</webMaster>
 
@@ -795,6 +795,79 @@
 &#x3C;/pre&#x3E;
 </description>
 <guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20220809-165720+0000.diff.txt</guid>
+</item>
+<item>
+<title>rss/20221203-132921+0000.diff.txt</title>
+<description>&#x3C;p&#x3E;updated search query:&#x3C;/p&#x3E;
+&#x3C;pre&#x3E;*** old-searches.md	2022-08-09 17:57:20.000000000 +0100
+--- raw-searches.md	2022-12-03 13:29:18.000000000 +0000
+***************
+*** 143,151 ****
+  * safety by design
+  * secure by design
+  * security by design
+! * should be illegal online
+  * surveillance capitalism
+- * what is illegal offline
+  * wild west
+  
+  # Intelligence Agencies, and related terms
+--- 143,152 ----
+  * safety by design
+  * secure by design
+  * security by design
+! * illegal online
+! * illegal offline
+! * ( illegal online offline )
+  * surveillance capitalism
+  * wild west
+  
+  # Intelligence Agencies, and related terms
+&#x3C;/pre&#x3E;
+</description>
+<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20221203-132921+0000.diff.txt</guid>
+</item>
+<item>
+<title>rss/20221203-133625+0000.diff.txt</title>
+<description>&#x3C;p&#x3E;updated search query:&#x3C;/p&#x3E;
+&#x3C;pre&#x3E;*** old-searches.md	2022-12-03 13:29:21.000000000 +0000
+--- raw-searches.md	2022-12-03 13:36:20.000000000 +0000
+***************
+*** 138,151 ****
+  far you can progress towards mitigating other people&#x27;s challenges
+  without negatively impacting *everyone else*.
+  
+  * privacy by design
+  * safe by design
+  * safety by design
+  * secure by design
+  * security by design
+- * illegal online
+- * illegal offline
+- * ( illegal online offline )
+  * surveillance capitalism
+  * wild west
+  
+--- 138,153 ----
+  far you can progress towards mitigating other people&#x27;s challenges
+  without negatively impacting *everyone else*.
+  
++ * &#x22;illegal offline&#x22;
++ * &#x22;illegal online&#x22;
++ * ( illegal offline online )
++ * ( prohibited offline online )
++ * ( unacceptable offline online )
+  * privacy by design
+  * safe by design
+  * safety by design
+  * secure by design
+  * security by design
+  * surveillance capitalism
+  * wild west
+  
+&#x3C;/pre&#x3E;
+</description>
+<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20221203-133625+0000.diff.txt</guid>
 </item>
 </channel>
 </rss>

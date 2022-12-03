@@ -138,14 +138,17 @@ and benefits that your solution also offers, plus: there is only so
 far you can progress towards mitigating other people's challenges
 without negatively impacting *everyone else*.
 
+* "illegal offline"
+* "illegal online"
+* ( illegal offline online )
+* ( prohibited offline online )
+* ( unacceptable offline online )
 * privacy by design
 * safe by design
 * safety by design
 * secure by design
 * security by design
-* should be illegal online
 * surveillance capitalism
-* what is illegal offline
 * wild west
 
 # Intelligence Agencies, and related terms

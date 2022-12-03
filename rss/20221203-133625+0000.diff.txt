@@ -1,0 +1,35 @@
+*** old-searches.md	2022-12-03 13:29:21.000000000 +0000
+--- raw-searches.md	2022-12-03 13:36:20.000000000 +0000
+***************
+*** 138,151 ****
+  far you can progress towards mitigating other people's challenges
+  without negatively impacting *everyone else*.
+  
+  * privacy by design
+  * safe by design
+  * safety by design
+  * secure by design
+  * security by design
+- * illegal online
+- * illegal offline
+- * ( illegal online offline )
+  * surveillance capitalism
+  * wild west
+  
+--- 138,153 ----
+  far you can progress towards mitigating other people's challenges
+  without negatively impacting *everyone else*.
+  
++ * "illegal offline"
++ * "illegal online"
++ * ( illegal offline online )
++ * ( prohibited offline online )
++ * ( unacceptable offline online )
+  * privacy by design
+  * safe by design
+  * safety by design
+  * secure by design
+  * security by design
+  * surveillance capitalism
+  * wild west
+  

@@ -10,8 +10,8 @@
 <description>TheySearchForYou Search-Query Updates</description>
 <language>en</language>
 <copyright>https://creativecommons.org/licenses/by/4.0/</copyright>
-<pubDate>Sat,  3 Dec 2022 16:21:10 +0000</pubDate>
-<lastBuildDate>Sat,  3 Dec 2022 16:21:10 +0000</lastBuildDate>
+<pubDate>Sat, 11 Mar 2023 17:03:50 +0000</pubDate>
+<lastBuildDate>Sat, 11 Mar 2023 17:03:50 +0000</lastBuildDate>
 <managingEditor>alec.muffett@gmail.com</managingEditor>
 <webMaster>alec.muffett@gmail.com</webMaster>
 
@@ -928,6 +928,26 @@
 &#x3C;/pre&#x3E;
 </description>
 <guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20221203-162110+0000.diff.txt</guid>
+</item>
+<item>
+<title>rss/20230311-170350+0000.diff.txt</title>
+<description>&#x3C;p&#x3E;updated search query:&#x3C;/p&#x3E;
+&#x3C;pre&#x3E;*** old-searches.md	2022-12-03 16:21:10.000000000 +0000
+--- raw-searches.md	2023-03-11 17:03:48.000000000 +0000
+***************
+*** 292,294 ****
+--- 292,299 ----
+  
+  * ( &#x22;digital economy act&#x22;  &#x22;part 3&#x22; )
+  * ( &#x22;digital economy bill&#x22; &#x22;part 3&#x22; )
++ 
++ # Stop The Boats
++ 
++ * &#x22;stop the boats&#x22;
++ * &#x22;stopping the boats&#x22;
+&#x3C;/pre&#x3E;
+</description>
+<guid isPermaLink="true">https://raw.githubusercontent.com/alecmuffett/they-search-for-you/main/rss/20230311-170350+0000.diff.txt</guid>
 </item>
 </channel>
 </rss>

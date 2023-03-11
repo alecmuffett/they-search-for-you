@@ -295,5 +295,7 @@
 
 # Stop The Boats
 
+* "small boat"
+* "small boats"
 * "stop the boats"
 * "stopping the boats"

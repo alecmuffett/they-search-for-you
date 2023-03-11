@@ -612,8 +612,8 @@ If you would like to try the same thing bug for Twitter, see:
 
 ### links
 
-* :point_right: [Search: Stop The Boats](https://www.theyworkforyou.com/search/?q=%22stop+the+boats%22+OR+%22stopping+the+boats%22)
-* :repeat: [RSS Feed: Stop The Boats](https://www.theyworkforyou.com/search/rss/?s=%22stop+the+boats%22+OR+%22stopping+the+boats%22)
+* :point_right: [Search: Stop The Boats](https://www.theyworkforyou.com/search/?q=%22small+boat%22+OR+%22small+boats%22+OR+%22stop+the+boats%22+OR+%22stopping+the+boats%22)
+* :repeat: [RSS Feed: Stop The Boats](https://www.theyworkforyou.com/search/rss/?s=%22small+boat%22+OR+%22small+boats%22+OR+%22stop+the+boats%22+OR+%22stopping+the+boats%22)
 * :heart: [Share 'Stop The Boats' in a Tweet!](https://twitter.com/intent/tweet?text=Search%20%40TheyWorkForYou%20for%20%27Stop%20The%20Boats%27%20with%20a%20ready-made%20query%20at%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2Falecmuffett%2Fthey-search-for-you%23stop-the-boats)
 * :bulb: [Suggest an Improvement](../../issues/new)
 * :arrow_up: [Return to Index](#index)
@@ -621,6 +621,8 @@ If you would like to try the same thing bug for Twitter, see:
 #### search terms
 
 ```
+* "small boat"
+* "small boats"
 * "stop the boats"
 * "stopping the boats"
 ```
